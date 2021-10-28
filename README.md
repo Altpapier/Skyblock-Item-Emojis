@@ -11,8 +11,8 @@ In the `emojis.json` file there are all emojis by their skyblock id. As pets and
     "HYPERION": {
 	    "id": "902516371882127370",
 	    "name": "item_1947",
-		"formatted": "<a:item_1947:902516371882127370>",
-		"animated": true
+	    "formatted": "<a:item_1947:902516371882127370>",
+	    "animated": true
 	}
 
 **Normal Items**:
