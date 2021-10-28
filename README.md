@@ -4,6 +4,8 @@
 ## How do I get the emojis?
 In the `emojis.json` file there are all emojis by their skyblock id. As pets and runes all have the same skyblock id (PET, RUNE) those work in a different way. You then have the option to get all the information about the emoji (id *String*, name *String*, formatted *String*, animated *Boolean*)
 
+*If you actually use this, it would be nice if you could give some credit as this took a lot of time making*
+
 *Example*: (Item ID: *HYPERION*)
 
     "HYPERION": {
