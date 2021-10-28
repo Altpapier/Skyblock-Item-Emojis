@@ -21,7 +21,7 @@ Get normal items by their item id found in the ExtraAttributes of the item (item
     ExtraAttributes: {
         id: "GRAPPLING_HOOK"
     }
-   = `GRAPPLING HOOK`
+   = `GRAPPLING_HOOK`
 
 **Pets**:
 Get pets by their pet type found in the ExtraAttributes of the pet (pet -> tag -> ExtraAttributes -> petInfo  -> type)
