@@ -20614,5 +20614,35 @@
     "name": "item_3819",
     "formatted": "<:item_3819:903227347094876190>",
     "animated": false
+  },
+  "GREAT_SPOOK_LEGGINGS": {
+    "id": "903578772001943573",
+    "name": "item_3847",
+    "formatted": "<:item_3847:903578772001943573>",
+    "animated": false
+  },
+  "GREAT_SPOOK_CHESTPLATE": {
+    "id": "903578775055392858",
+    "name": "item_3847",
+    "formatted": "<:item_3847:903578775055392858>",
+    "animated": false
+  },
+  "GREAT_SPOOK_BOOTS": {
+    "id": "903578776741486633",
+    "name": "item_3847",
+    "formatted": "<:item_3847:903578776741486633>",
+    "animated": false
+  },
+  "GREAT_SPOOK_STAFF": {
+    "id": "903578779585237033",
+    "name": "item_3847",
+    "formatted": "<:item_3847:903578779585237033>",
+    "animated": false
+  },
+  "GREAT_SPOOK_HELMET": {
+    "id": "903579726747148329",
+    "name": "item_3849",
+    "formatted": "<:item_3849:903579726747148329>",
+    "animated": false
   }
 }
