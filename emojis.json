@@ -20644,5 +20644,11 @@
     "name": "item_3849",
     "formatted": "<:item_3849:903579726747148329>",
     "animated": false
+  },
+  "DUST_THE_FISH": {
+    "id": "905198038543392868",
+    "name": "item_3851",
+    "formatted": "<:item_3851:905198038543392868>",
+    "animated": false
   }
 }
