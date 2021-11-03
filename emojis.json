@@ -20650,5 +20650,17 @@
     "name": "item_3851",
     "formatted": "<:item_3851:905198038543392868>",
     "animated": false
+  },
+  "FISHING_GENERATOR_12": {
+    "id": "905450870177673217",
+    "name": "item_3852",
+    "formatted": "<:item_3852:905450870177673217>",
+    "animated": false
+  },
+  "MUSEUM_TRAVEL_SCROLL": {
+    "id": "905450871679254619",
+    "name": "item_3852",
+    "formatted": "<:item_3852:905450871679254619>",
+    "animated": false
   }
 }
