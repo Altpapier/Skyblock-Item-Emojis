@@ -162,9 +162,9 @@
     "animated": false
   },
   "CELESTE_LEGGINGS": {
-    "id": "901863020165214249",
-    "name": "item_30",
-    "formatted": "<:item_30:901863020165214249>",
+    "id": "905496304241737778",
+    "name": "item_3893",
+    "formatted": "<:item_3893:905496304241737778>",
     "animated": false
   },
   "GRIZZLY_BAIT": {
@@ -330,9 +330,9 @@
     "animated": false
   },
   "WEREWOLF_CHESTPLATE": {
-    "id": "901879195188207696",
-    "name": "item_61",
-    "formatted": "<:item_61:901879195188207696>",
+    "id": "905482821915791381",
+    "name": "item_3852",
+    "formatted": "<:item_3852:905482821915791381>",
     "animated": false
   },
   "ENCHANTED_BIRCH_LOG": {
@@ -570,9 +570,9 @@
     "animated": false
   },
   "SKELETON_MASTER_CHESTPLATE": {
-    "id": "901896419328266250",
-    "name": "item_110",
-    "formatted": "<:item_110:901896419328266250>",
+    "id": "905483159037149195",
+    "name": "item_3853",
+    "formatted": "<:item_3853:905483159037149195>",
     "animated": false
   },
   "HOPPER_MINECART": {
@@ -702,9 +702,9 @@
     "animated": false
   },
   "HEAVY_HELMET": {
-    "id": "901904519561117726",
-    "name": "item_134",
-    "formatted": "<:item_134:901904519561117726>",
+    "id": "905518194591166485",
+    "name": "item_3959",
+    "formatted": "<:item_3959:905518194591166485>",
     "animated": false
   },
   "ROCK_CANDY": {
@@ -750,9 +750,9 @@
     "animated": false
   },
   "SKELETON_MASTER_BOOTS": {
-    "id": "901907555339612261",
-    "name": "item_143",
-    "formatted": "<:item_143:901907555339612261>",
+    "id": "905506406713684050",
+    "name": "item_3923",
+    "formatted": "<:item_3923:905506406713684050>",
     "animated": false
   },
   "STAINED_GLASS_PANE:15": {
@@ -786,9 +786,9 @@
     "animated": false
   },
   "SQUIRE_BOOTS": {
-    "id": "901910928176607322",
-    "name": "item_153",
-    "formatted": "<:item_153:901910928176607322>",
+    "id": "905506743667269632",
+    "name": "item_3924",
+    "formatted": "<:item_3924:905506743667269632>",
     "animated": false
   },
   "MUSHROOM_GENERATOR_9": {
@@ -978,9 +978,9 @@
     "animated": false
   },
   "THORNS_BOOTS": {
-    "id": "901923412501495808",
-    "name": "item_190",
-    "formatted": "<:item_190:901923412501495808>",
+    "id": "905507080281133106",
+    "name": "item_3925",
+    "formatted": "<:item_3925:905507080281133106>",
     "animated": false
   },
   "MELON_GENERATOR_5": {
@@ -1386,9 +1386,9 @@
     "animated": false
   },
   "CELESTE_BOOTS": {
-    "id": "901948069904523325",
-    "name": "item_263",
-    "formatted": "<:item_263:901948069904523325>",
+    "id": "905507416983085166",
+    "name": "item_3926",
+    "formatted": "<:item_3926:905507416983085166>",
     "animated": false
   },
   "GHOST_PERSONALITY": {
@@ -1662,9 +1662,9 @@
     "animated": false
   },
   "SKELETON_SOLDIER_LEGGINGS": {
-    "id": "901964935389642783",
-    "name": "item_313",
-    "formatted": "<:item_313:901964935389642783>",
+    "id": "905496640817889290",
+    "name": "item_3894",
+    "formatted": "<:item_3894:905496640817889290>",
     "animated": false
   },
   "HARD_STONE_GENERATOR_12": {
@@ -1764,9 +1764,9 @@
     "animated": false
   },
   "STONE_CHESTPLATE": {
-    "id": "901971344516861962",
-    "name": "item_332",
-    "formatted": "<:item_332:901971344516861962>",
+    "id": "905483496074670100",
+    "name": "item_3854",
+    "formatted": "<:item_3854:905483496074670100>",
     "animated": false
   },
   "GOLDEN_BALL": {
@@ -1806,9 +1806,9 @@
     "animated": false
   },
   "SUPER_HEAVY_BOOTS": {
-    "id": "901974715885817876",
-    "name": "item_342",
-    "formatted": "<:item_342:901974715885817876>",
+    "id": "905507753680842782",
+    "name": "item_3927",
+    "formatted": "<:item_3927:905507753680842782>",
     "animated": false
   },
   "PERSONAL_DELETOR_4000": {
@@ -1872,9 +1872,9 @@
     "animated": false
   },
   "SKELETON_MASTER_LEGGINGS": {
-    "id": "901979435895513139",
-    "name": "item_356",
-    "formatted": "<:item_356:901979435895513139>",
+    "id": "905496977557581875",
+    "name": "item_3895",
+    "formatted": "<:item_3895:905496977557581875>",
     "animated": false
   },
   "OAK_GENERATOR_11": {
@@ -1938,15 +1938,15 @@
     "animated": false
   },
   "REAPER_BOOTS": {
-    "id": "901983146743054346",
-    "name": "item_367",
-    "formatted": "<:item_367:901983146743054346>",
+    "id": "905508090420551690",
+    "name": "item_3928",
+    "formatted": "<:item_3928:905508090420551690>",
     "animated": false
   },
   "SKELETON_GRUNT_CHESTPLATE": {
-    "id": "901983483986051092",
-    "name": "item_368",
-    "formatted": "<:item_368:901983483986051092>",
+    "id": "905483832801775636",
+    "name": "item_3855",
+    "formatted": "<:item_3855:905483832801775636>",
     "animated": false
   },
   "PERFECT_LEGGINGS_4": {
@@ -2088,9 +2088,9 @@
     "animated": true
   },
   "SALMON_HELMET_NEW": {
-    "id": "901992261875802132",
-    "name": "item_394",
-    "formatted": "<:item_394:901992261875802132>",
+    "id": "905518531553148938",
+    "name": "item_3960",
+    "formatted": "<:item_3960:905518531553148938>",
     "animated": false
   },
   "GOLD_AXE": {
@@ -2220,9 +2220,9 @@
     "animated": false
   },
   "SALMON_BOOTS": {
-    "id": "902000019559833671",
-    "name": "item_417",
-    "formatted": "<:item_417:902000019559833671>",
+    "id": "905508427093131304",
+    "name": "item_3929",
+    "formatted": "<:item_3929:905508427093131304>",
     "animated": false
   },
   "TITANIUM_DRILL_ENGINE": {
@@ -2262,9 +2262,9 @@
     "animated": false
   },
   "ARMOR_OF_YOG_CHESTPLATE": {
-    "id": "902003055174758450",
-    "name": "item_426",
-    "formatted": "<:item_426:902003055174758450>",
+    "id": "905484169528889434",
+    "name": "item_3856",
+    "formatted": "<:item_3856:905484169528889434>",
     "animated": false
   },
   "INTIMIDATION_RING": {
@@ -2304,9 +2304,9 @@
     "animated": false
   },
   "HEAT_HELMET": {
-    "id": "902005753827713034",
-    "name": "item_434",
-    "formatted": "<:item_434:902005753827713034>",
+    "id": "905518868125057045",
+    "name": "item_3961",
+    "formatted": "<:item_3961:905518868125057045>",
     "animated": false
   },
   "HEALING_RING": {
@@ -2430,9 +2430,9 @@
     "animated": false
   },
   "STARRED_ADAPTIVE_BOOTS": {
-    "id": "902013513353031680",
-    "name": "item_457",
-    "formatted": "<:item_457:902013513353031680>",
+    "id": "905508763841220609",
+    "name": "item_3930",
+    "formatted": "<:item_3930:905508763841220609>",
     "animated": false
   },
   "NOPE_THE_FISH": {
@@ -2922,9 +2922,9 @@
     "animated": false
   },
   "SKELETON_SOLDIER_HELMET": {
-    "id": "902042524485550131",
-    "name": "item_543",
-    "formatted": "<:item_543:902042524485550131>",
+    "id": "905519204709572618",
+    "name": "item_3962",
+    "formatted": "<:item_3962:905519204709572618>",
     "animated": false
   },
   "RUBY_POWER_SCROLL": {
@@ -3432,9 +3432,9 @@
     "animated": false
   },
   "WEREWOLF_BOOTS": {
-    "id": "902074916315230229",
-    "name": "item_639",
-    "formatted": "<:item_639:902074916315230229>",
+    "id": "905509100799012875",
+    "name": "item_3931",
+    "formatted": "<:item_3931:905509100799012875>",
     "animated": false
   },
   "DANGER_2_PORTAL": {
@@ -3936,9 +3936,9 @@
     "animated": false
   },
   "ZOMBIE_SOLDIER_LEGGINGS": {
-    "id": "902104943702470686",
-    "name": "item_728",
-    "formatted": "<:item_728:902104943702470686>",
+    "id": "905497314406334474",
+    "name": "item_3896",
+    "formatted": "<:item_3896:905497314406334474>",
     "animated": false
   },
   "SAND_GENERATOR_7": {
@@ -4566,9 +4566,9 @@
     "animated": false
   },
   "STEEL_CHESTPLATE": {
-    "id": "902142731109957642",
-    "name": "item_840",
-    "formatted": "<:item_840:902142731109957642>",
+    "id": "905484505748504698",
+    "name": "item_3857",
+    "formatted": "<:item_3857:905484505748504698>",
     "animated": false
   },
   "PUMPKIN_BOOTS": {
@@ -4974,9 +4974,9 @@
     "animated": false
   },
   "SALMON_LEGGINGS_NEW": {
-    "id": "902168031634002002",
-    "name": "item_915",
-    "formatted": "<:item_915:902168031634002002>",
+    "id": "905497650722394163",
+    "name": "item_3897",
+    "formatted": "<:item_3897:905497650722394163>",
     "animated": false
   },
   "HOLY_DRAGON_LEGGINGS": {
@@ -5082,9 +5082,9 @@
     "animated": false
   },
   "ZOMBIE_COMMANDER_CHESTPLATE": {
-    "id": "902175452263772243",
-    "name": "item_937",
-    "formatted": "<:item_937:902175452263772243>",
+    "id": "905484842806968360",
+    "name": "item_3858",
+    "formatted": "<:item_3858:905484842806968360>",
     "animated": false
   },
   "STAINED_CLAY:7": {
@@ -5172,9 +5172,9 @@
     "animated": false
   },
   "STARLIGHT_CHESTPLATE": {
-    "id": "902181525968257034",
-    "name": "item_955",
-    "formatted": "<:item_955:902181525968257034>",
+    "id": "905485180691701760",
+    "name": "item_3859",
+    "formatted": "<:item_3859:905485180691701760>",
     "animated": false
   },
   "PET_SKIN_ENDERMAN": {
@@ -5340,9 +5340,9 @@
     "animated": false
   },
   "SHARK_SCALE_BOOTS": {
-    "id": "902192319011369040",
-    "name": "item_987",
-    "formatted": "<:item_987:902192319011369040>",
+    "id": "905509436985077761",
+    "name": "item_3932",
+    "formatted": "<:item_3932:905509436985077761>",
     "animated": false
   },
   "OAK_GENERATOR_7": {
@@ -5418,9 +5418,9 @@
     "animated": false
   },
   "HEAT_LEGGINGS": {
-    "id": "902197379959246869",
-    "name": "item_1002",
-    "formatted": "<:item_1002:902197379959246869>",
+    "id": "905497987638251530",
+    "name": "item_3898",
+    "formatted": "<:item_3898:905497987638251530>",
     "animated": false
   },
   "EMERALD_GENERATOR_4": {
@@ -5580,9 +5580,9 @@
     "animated": false
   },
   "MERCENARY_BOOTS": {
-    "id": "902207167686397993",
-    "name": "item_1031",
-    "formatted": "<:item_1031:902207167686397993>",
+    "id": "905509774190342174",
+    "name": "item_3933",
+    "formatted": "<:item_3933:905509774190342174>",
     "animated": false
   },
   "DWARVEN_METAL_DETECTOR": {
@@ -6384,9 +6384,9 @@
     "animated": false
   },
   "CELESTE_CHESTPLATE": {
-    "id": "902261540089122816",
-    "name": "item_1192",
-    "formatted": "<:item_1192:902261540089122816>",
+    "id": "905485518307995659",
+    "name": "item_3860",
+    "formatted": "<:item_3860:905485518307995659>",
     "animated": false
   },
   "TRIBAL_SPEAR": {
@@ -6534,9 +6534,9 @@
     "animated": false
   },
   "ZOMBIE_COMMANDER_BOOTS": {
-    "id": "902270338669359104",
-    "name": "item_1218",
-    "formatted": "<:item_1218:902270338669359104>",
+    "id": "905510110934237274",
+    "name": "item_3934",
+    "formatted": "<:item_3934:905510110934237274>",
     "animated": false
   },
   "SNOW_BLOCK": {
@@ -6588,9 +6588,9 @@
     "animated": false
   },
   "SHARK_SCALE_LEGGINGS": {
-    "id": "902273375580323910",
-    "name": "item_1227",
-    "formatted": "<:item_1227:902273375580323910>",
+    "id": "905498324180803644",
+    "name": "item_3899",
+    "formatted": "<:item_3899:905498324180803644>",
     "animated": false
   },
   "LAPIS_GENERATOR_2": {
@@ -7164,9 +7164,9 @@
     "animated": false
   },
   "FINAL_DESTINATION_CHESTPLATE": {
-    "id": "902307467290083380",
-    "name": "item_1328",
-    "formatted": "<:item_1328:902307467290083380>",
+    "id": "905485855181922314",
+    "name": "item_3861",
+    "formatted": "<:item_3861:905485855181922314>",
     "animated": false
   },
   "MENDER_FEDORA": {
@@ -7242,9 +7242,9 @@
     "animated": false
   },
   "SKELETON_SOLDIER_BOOTS": {
-    "id": "902313203734823033",
-    "name": "item_1345",
-    "formatted": "<:item_1345:902313203734823033>",
+    "id": "905510447598411796",
+    "name": "item_3935",
+    "formatted": "<:item_3935:905510447598411796>",
     "animated": false
   },
   "BUILDER_LETTUCE": {
@@ -7950,9 +7950,9 @@
     "animated": false
   },
   "METAL_CHESTPLATE": {
-    "id": "902358434610032670",
-    "name": "item_1479",
-    "formatted": "<:item_1479:902358434610032670>",
+    "id": "905486191971938334",
+    "name": "item_3862",
+    "formatted": "<:item_3862:905486191971938334>",
     "animated": false
   },
   "NOTE_BLOCK": {
@@ -8004,9 +8004,9 @@
     "animated": false
   },
   "ZOMBIE_SOLDIER_BOOTS": {
-    "id": "902361807384092743",
-    "name": "item_1489",
-    "formatted": "<:item_1489:902361807384092743>",
+    "id": "905510784380063754",
+    "name": "item_3936",
+    "formatted": "<:item_3936:905510784380063754>",
     "animated": false
   },
   "SPEED_ARTIFACT": {
@@ -8070,9 +8070,9 @@
     "animated": false
   },
   "REAPER_CHESTPLATE": {
-    "id": "902365520056160327",
-    "name": "item_1500",
-    "formatted": "<:item_1500:902365520056160327>",
+    "id": "905486528871018496",
+    "name": "item_3863",
+    "formatted": "<:item_3863:905486528871018496>",
     "animated": false
   },
   "REDSTONE_BLOCK": {
@@ -8118,9 +8118,9 @@
     "animated": false
   },
   "SKELETON_SOLDIER_CHESTPLATE": {
-    "id": "902368892842827886",
-    "name": "item_1510",
-    "formatted": "<:item_1510:902368892842827886>",
+    "id": "905486865380040805",
+    "name": "item_3864",
+    "formatted": "<:item_3864:905486865380040805>",
     "animated": false
   },
   "BBQ": {
@@ -8400,9 +8400,9 @@
     "animated": false
   },
   "SKELETON_MASTER_HELMET": {
-    "id": "902385427233783870",
-    "name": "item_1559",
-    "formatted": "<:item_1559:902385427233783870>",
+    "id": "905519541310865429",
+    "name": "item_3963",
+    "formatted": "<:item_3963:905519541310865429>",
     "animated": false
   },
   "FINE_RUBY_GEM": {
@@ -8424,15 +8424,15 @@
     "animated": false
   },
   "NECROMANCER_LORD_CHESTPLATE": {
-    "id": "902387451392319508",
-    "name": "item_1565",
-    "formatted": "<:item_1565:902387451392319508>",
+    "id": "905487202283307038",
+    "name": "item_3865",
+    "formatted": "<:item_3865:905487202283307038>",
     "animated": false
   },
   "SALMON_CHESTPLATE_NEW": {
-    "id": "902387788597587968",
-    "name": "item_1566",
-    "formatted": "<:item_1566:902387788597587968>",
+    "id": "905487539186581514",
+    "name": "item_3866",
+    "formatted": "<:item_3866:905487539186581514>",
     "animated": false
   },
   "GINGERBREAD_PERSONALITY": {
@@ -8484,9 +8484,9 @@
     "animated": false
   },
   "ROTTEN_BOOTS": {
-    "id": "902391498564325377",
-    "name": "item_1577",
-    "formatted": "<:item_1577:902391498564325377>",
+    "id": "905511120993943622",
+    "name": "item_3937",
+    "formatted": "<:item_3937:905511120993943622>",
     "animated": false
   },
   "DIODE": {
@@ -9294,9 +9294,9 @@
     "animated": false
   },
   "SALMON_BOOTS_NEW": {
-    "id": "902442451950784542",
-    "name": "item_1728",
-    "formatted": "<:item_1728:902442451950784542>",
+    "id": "905511457830080532",
+    "name": "item_3938",
+    "formatted": "<:item_3938:905511457830080532>",
     "animated": false
   },
   "ENCHANTED_SLIME_BLOCK": {
@@ -9486,9 +9486,9 @@
     "animated": false
   },
   "MINERAL_BOOTS": {
-    "id": "902454962431340563",
-    "name": "item_1765",
-    "formatted": "<:item_1765:902454962431340563>",
+    "id": "905511794565603399",
+    "name": "item_3939",
+    "formatted": "<:item_3939:905511794565603399>",
     "animated": false
   },
   "BEASTMASTER_CREST_EPIC": {
@@ -9954,9 +9954,9 @@
     "animated": false
   },
   "HEAT_BOOTS": {
-    "id": "902487016862793758",
-    "name": "item_1860",
-    "formatted": "<:item_1860:902487016862793758>",
+    "id": "905512130856509451",
+    "name": "item_3940",
+    "formatted": "<:item_3940:905512130856509451>",
     "animated": false
   },
   "TALISMAN_ENRICHMENT_HEALTH": {
@@ -10080,9 +10080,9 @@
     "animated": false
   },
   "SHARK_SCALE_CHESTPLATE": {
-    "id": "902494780221706240",
-    "name": "item_1883",
-    "formatted": "<:item_1883:902494780221706240>",
+    "id": "905487877163585628",
+    "name": "item_3867",
+    "formatted": "<:item_3867:905487877163585628>",
     "animated": false
   },
   "ACACIA_GENERATOR_7": {
@@ -10620,9 +10620,9 @@
     "animated": false
   },
   "HEAT_CHESTPLATE": {
-    "id": "902528182886993930",
-    "name": "item_1982",
-    "formatted": "<:item_1982:902528182886993930>",
+    "id": "905488215413235753",
+    "name": "item_3868",
+    "formatted": "<:item_3868:905488215413235753>",
     "animated": false
   },
   "RAW_FISH": {
@@ -11280,9 +11280,9 @@
     "animated": false
   },
   "ADAPTIVE_CHESTPLATE": {
-    "id": "902577272173789214",
-    "name": "item_2127",
-    "formatted": "<:item_2127:902577272173789214>",
+    "id": "905488552995995719",
+    "name": "item_3869",
+    "formatted": "<:item_3869:905488552995995719>",
     "animated": false
   },
   "BUILDER_APPLE": {
@@ -11322,9 +11322,9 @@
     "animated": false
   },
   "SALMON_HELMET": {
-    "id": "902579635143987280",
-    "name": "item_2134",
-    "formatted": "<:item_2134:902579635143987280>",
+    "id": "905519877933109309",
+    "name": "item_3964",
+    "formatted": "<:item_3964:905519877933109309>",
     "animated": false
   },
   "SHINY_ROD": {
@@ -11682,9 +11682,9 @@
     "animated": false
   },
   "WEREWOLF_LEGGINGS": {
-    "id": "902601579398578176",
-    "name": "item_2199",
-    "formatted": "<:item_2199:902601579398578176>",
+    "id": "905498660454953031",
+    "name": "item_3900",
+    "formatted": "<:item_3900:905498660454953031>",
     "animated": false
   },
   "SLIME_BALL": {
@@ -11742,9 +11742,9 @@
     "animated": false
   },
   "NECROMANCER_LORD_LEGGINGS": {
-    "id": "902605966539882656",
-    "name": "item_2212",
-    "formatted": "<:item_2212:902605966539882656>",
+    "id": "905498997525991505",
+    "name": "item_3901",
+    "formatted": "<:item_3901:905498997525991505>",
     "animated": false
   },
   "THEORETICAL_HOE_WARTS_3": {
@@ -11886,9 +11886,9 @@
     "animated": false
   },
   "FINAL_DESTINATION_LEGGINGS": {
-    "id": "902615087968301117",
-    "name": "item_2239",
-    "formatted": "<:item_2239:902615087968301117>",
+    "id": "905499334504763433",
+    "name": "item_3902",
+    "formatted": "<:item_3902:905499334504763433>",
     "animated": false
   },
   "BUILDER_APPALLED_PUMPKIN": {
@@ -11952,9 +11952,9 @@
     "animated": false
   },
   "SUPER_HEAVY_CHESTPLATE": {
-    "id": "902619152160813097",
-    "name": "item_2251",
-    "formatted": "<:item_2251:902619152160813097>",
+    "id": "905488889727320096",
+    "name": "item_3870",
+    "formatted": "<:item_3870:905488889727320096>",
     "animated": false
   },
   "ROUGH_JASPER_GEM": {
@@ -12108,9 +12108,9 @@
     "animated": false
   },
   "BOUNCY_BOOTS": {
-    "id": "902628952382783610",
-    "name": "item_2280",
-    "formatted": "<:item_2280:902628952382783610>",
+    "id": "905512468065972315",
+    "name": "item_3941",
+    "formatted": "<:item_3941:905512468065972315>",
     "animated": false
   },
   "DESERT_ISLAND_CRYSTAL": {
@@ -12240,9 +12240,9 @@
     "animated": false
   },
   "RANCHERS_BOOTS": {
-    "id": "902637646998798356",
-    "name": "item_2305",
-    "formatted": "<:item_2305:902637646998798356>",
+    "id": "905512805078274048",
+    "name": "item_3942",
+    "formatted": "<:item_3942:905512805078274048>",
     "animated": false
   },
   "ACACIA_STAIRS": {
@@ -12312,9 +12312,9 @@
     "animated": false
   },
   "SALMON_CHESTPLATE": {
-    "id": "902642714997313576",
-    "name": "item_2320",
-    "formatted": "<:item_2320:902642714997313576>",
+    "id": "905489226802548767",
+    "name": "item_3871",
+    "formatted": "<:item_3871:905489226802548767>",
     "animated": false
   },
   "CAMPFIRE_TALISMAN_27": {
@@ -12672,9 +12672,9 @@
     "animated": false
   },
   "FINAL_DESTINATION_BOOTS": {
-    "id": "902667626331918348",
-    "name": "item_2393",
-    "formatted": "<:item_2393:902667626331918348>",
+    "id": "905513142275178556",
+    "name": "item_3943",
+    "formatted": "<:item_3943:905513142275178556>",
     "animated": false
   },
   "CARPET:6": {
@@ -12750,9 +12750,9 @@
     "animated": false
   },
   "CELESTE_HELMET": {
-    "id": "902672018539962388",
-    "name": "item_2406",
-    "formatted": "<:item_2406:902672018539962388>",
+    "id": "905520214605701180",
+    "name": "item_3965",
+    "formatted": "<:item_3965:905520214605701180>",
     "animated": false
   },
   "EPOCH_CAKE_RED": {
@@ -12810,9 +12810,9 @@
     "animated": false
   },
   "ROTTEN_CHESTPLATE": {
-    "id": "902676406113296444",
-    "name": "item_2419",
-    "formatted": "<:item_2419:902676406113296444>",
+    "id": "905489564666331197",
+    "name": "item_3872",
+    "formatted": "<:item_3872:905489564666331197>",
     "animated": false
   },
   "COW_GENERATOR_9": {
@@ -13482,9 +13482,9 @@
     "animated": false
   },
   "STARRED_ADAPTIVE_LEGGINGS": {
-    "id": "902719218687017000",
-    "name": "item_2545",
-    "formatted": "<:item_2545:902719218687017000>",
+    "id": "905499671198330941",
+    "name": "item_3903",
+    "formatted": "<:item_3903:905499671198330941>",
     "animated": false
   },
   "LARGE_ENCHANTED_COMBAT_SACK": {
@@ -13590,9 +13590,9 @@
     "animated": false
   },
   "SUPER_HEAVY_HELMET": {
-    "id": "902725303611297843",
-    "name": "item_2563",
-    "formatted": "<:item_2563:902725303611297843>",
+    "id": "905520551395745812",
+    "name": "item_3966",
+    "formatted": "<:item_3966:905520551395745812>",
     "animated": false
   },
   "GREEN_CANDY": {
@@ -13836,9 +13836,9 @@
     "animated": false
   },
   "STARRED_ADAPTIVE_CHESTPLATE": {
-    "id": "902740833915248741",
-    "name": "item_2609",
-    "formatted": "<:item_2609:902740833915248741>",
+    "id": "905489901997391903",
+    "name": "item_3873",
+    "formatted": "<:item_3873:905489901997391903>",
     "animated": false
   },
   "CACTUS_LEGGINGS": {
@@ -13896,9 +13896,9 @@
     "animated": false
   },
   "HEAVY_LEGGINGS": {
-    "id": "902745220813299782",
-    "name": "item_2622",
-    "formatted": "<:item_2622:902745220813299782>",
+    "id": "905500007879278612",
+    "name": "item_3904",
+    "formatted": "<:item_3904:905500007879278612>",
     "animated": false
   },
   "ACACIA_GENERATOR_11": {
@@ -14046,9 +14046,9 @@
     "animated": false
   },
   "ARMOR_OF_YOG_LEGGINGS": {
-    "id": "902754333777616896",
-    "name": "item_2649",
-    "formatted": "<:item_2649:902754333777616896>",
+    "id": "905500344669331477",
+    "name": "item_3905",
+    "formatted": "<:item_3905:905500344669331477>",
     "animated": false
   },
   "GEMSTONE_MIXTURE": {
@@ -14160,15 +14160,15 @@
     "animated": false
   },
   "ARMOR_OF_YOG_BOOTS": {
-    "id": "902760750244855858",
-    "name": "item_2668",
-    "formatted": "<:item_2668:902760750244855858>",
+    "id": "905513478981304411",
+    "name": "item_3944",
+    "formatted": "<:item_3944:905513478981304411>",
     "animated": false
   },
   "SKELETON_GRUNT_HELMET": {
-    "id": "902761087454302218",
-    "name": "item_2669",
-    "formatted": "<:item_2669:902761087454302218>",
+    "id": "905520888399671306",
+    "name": "item_3967",
+    "formatted": "<:item_3967:905520888399671306>",
     "animated": false
   },
   "PUMPKIN_BOMB": {
@@ -14352,9 +14352,9 @@
     "animated": false
   },
   "ADAPTIVE_LEGGINGS": {
-    "id": "902774652017999912",
-    "name": "item_2709",
-    "formatted": "<:item_2709:902774652017999912>",
+    "id": "905500681585164369",
+    "name": "item_3906",
+    "formatted": "<:item_3906:905500681585164369>",
     "animated": false
   },
   "CLAY_BALL": {
@@ -14364,9 +14364,9 @@
     "animated": false
   },
   "STARLIGHT_BOOTS": {
-    "id": "902775327112192031",
-    "name": "item_2711",
-    "formatted": "<:item_2711:902775327112192031>",
+    "id": "905513815825842206",
+    "name": "item_3945",
+    "formatted": "<:item_3945:905513815825842206>",
     "animated": false
   },
   "TEPID_GREEN_TEA": {
@@ -14676,9 +14676,9 @@
     "animated": false
   },
   "REAPER_LEGGINGS": {
-    "id": "902794566216843285",
-    "name": "item_2768",
-    "formatted": "<:item_2768:902794566216843285>",
+    "id": "905501018249396275",
+    "name": "item_3907",
+    "formatted": "<:item_3907:905501018249396275>",
     "animated": false
   },
   "MAGMA_CUBE_GENERATOR_11": {
@@ -15252,9 +15252,9 @@
     "animated": false
   },
   "SUPER_HEAVY_LEGGINGS": {
-    "id": "902831059345997845",
-    "name": "item_2876",
-    "formatted": "<:item_2876:902831059345997845>",
+    "id": "905501355370758155",
+    "name": "item_3908",
+    "formatted": "<:item_3908:905501355370758155>",
     "animated": false
   },
   "ENDERMAN_GENERATOR_7": {
@@ -15492,9 +15492,9 @@
     "animated": false
   },
   "SKELETON_GRUNT_LEGGINGS": {
-    "id": "902846262154514443",
-    "name": "item_2921",
-    "formatted": "<:item_2921:902846262154514443>",
+    "id": "905501692336959598",
+    "name": "item_3909",
+    "formatted": "<:item_3909:905501692336959598>",
     "animated": false
   },
   "INK_SACK:6": {
@@ -15840,9 +15840,9 @@
     "animated": false
   },
   "SALMON_LEGGINGS": {
-    "id": "902866858594676827",
-    "name": "item_2982",
-    "formatted": "<:item_2982:902866858594676827>",
+    "id": "905502029185679441",
+    "name": "item_3910",
+    "formatted": "<:item_3910:905502029185679441>",
     "animated": false
   },
   "GOLD_GIFT": {
@@ -16008,9 +16008,9 @@
     "animated": false
   },
   "MINERAL_CHESTPLATE": {
-    "id": "902876991148159017",
-    "name": "item_3012",
-    "formatted": "<:item_3012:902876991148159017>",
+    "id": "905490239844397096",
+    "name": "item_3874",
+    "formatted": "<:item_3874:905490239844397096>",
     "animated": false
   },
   "HOE_OF_GREAT_TILLING": {
@@ -16296,9 +16296,9 @@
     "animated": false
   },
   "ZOMBIE_COMMANDER_HELMET": {
-    "id": "902894212918427658",
-    "name": "item_3063",
-    "formatted": "<:item_3063:902894212918427658>",
+    "id": "905521224929640560",
+    "name": "item_3968",
+    "formatted": "<:item_3968:905521224929640560>",
     "animated": false
   },
   "GRAVEL_GENERATOR_8": {
@@ -16356,9 +16356,9 @@
     "animated": false
   },
   "MINERAL_LEGGINGS": {
-    "id": "902897589169573960",
-    "name": "item_3073",
-    "formatted": "<:item_3073:902897589169573960>",
+    "id": "905502366575497227",
+    "name": "item_3911",
+    "formatted": "<:item_3911:905502366575497227>",
     "animated": false
   },
   "DETECTOR_RAIL": {
@@ -16428,9 +16428,9 @@
     "animated": false
   },
   "ARMOR_OF_YOG_HELMET": {
-    "id": "902901979423068211",
-    "name": "item_3086",
-    "formatted": "<:item_3086:902901979423068211>",
+    "id": "905521562390773771",
+    "name": "item_3969",
+    "formatted": "<:item_3969:905521562390773771>",
     "animated": false
   },
   "MUSHROOM_HELMET": {
@@ -16860,9 +16860,9 @@
     "animated": false
   },
   "ADAPTIVE_BOOTS": {
-    "id": "902934325086003230",
-    "name": "item_3181",
-    "formatted": "<:item_3181:902934325086003230>",
+    "id": "905514152691392572",
+    "name": "item_3946",
+    "formatted": "<:item_3946:905514152691392572>",
     "animated": false
   },
   "JERRY_TALISMAN_PURPLE": {
@@ -17454,9 +17454,9 @@
     "animated": false
   },
   "ZOMBIE_SOLDIER_CHESTPLATE": {
-    "id": "902978219307843594",
-    "name": "item_3311",
-    "formatted": "<:item_3311:902978219307843594>",
+    "id": "905490576483434517",
+    "name": "item_3875",
+    "formatted": "<:item_3875:905490576483434517>",
     "animated": false
   },
   "MITHRIL_GENERATOR_9": {
@@ -17586,9 +17586,9 @@
     "animated": false
   },
   "NECROMANCER_LORD_BOOTS": {
-    "id": "902986325295267902",
-    "name": "item_3335",
-    "formatted": "<:item_3335:902986325295267902>",
+    "id": "905514489477230592",
+    "name": "item_3947",
+    "formatted": "<:item_3947:905514489477230592>",
     "animated": false
   },
   "FLOWER_GENERATOR_6": {
@@ -17676,9 +17676,9 @@
     "animated": false
   },
   "GHOST_BOOTS": {
-    "id": "902992062268444723",
-    "name": "item_3352",
-    "formatted": "<:item_3352:902992062268444723>",
+    "id": "905514826267238411",
+    "name": "item_3948",
+    "formatted": "<:item_3948:905514826267238411>",
     "animated": false
   },
   "SPIDERS_DEN_TOP_TRAVEL_SCROLL": {
@@ -17694,9 +17694,9 @@
     "animated": false
   },
   "CRYPT_WITHERLORD_HELMET": {
-    "id": "902994358742184047",
-    "name": "item_3355",
-    "formatted": "<:item_3355:902994358742184047>",
+    "id": "905521899260493864",
+    "name": "item_3970",
+    "formatted": "<:item_3970:905521899260493864>",
     "animated": false
   },
   "WHITE_GREATER_BACKPACK": {
@@ -17724,9 +17724,9 @@
     "animated": false
   },
   "SEA_WALKER_CHESTPLATE": {
-    "id": "902996049717768212",
-    "name": "item_3360",
-    "formatted": "<:item_3360:902996049717768212>",
+    "id": "905490913374122045",
+    "name": "item_3876",
+    "formatted": "<:item_3876:905490913374122045>",
     "animated": false
   },
   "PORTABLE_WOOL_WEAVER": {
@@ -17736,9 +17736,9 @@
     "animated": false
   },
   "SKELETON_LORD_CHESTPLATE": {
-    "id": "902996725243969566",
-    "name": "item_3362",
-    "formatted": "<:item_3362:902996725243969566>",
+    "id": "905491249967013888",
+    "name": "item_3877",
+    "formatted": "<:item_3877:905491249967013888>",
     "animated": false
   },
   "KINDRED": {
@@ -17946,9 +17946,9 @@
     "animated": false
   },
   "BOUNCY_CHESTPLATE": {
-    "id": "903008902533242981",
-    "name": "item_3398",
-    "formatted": "<:item_3398:903008902533242981>",
+    "id": "905491586538962986",
+    "name": "item_3878",
+    "formatted": "<:item_3878:905491586538962986>",
     "animated": false
   },
   "WHITE_MEDIUM_BACKPACK": {
@@ -18150,9 +18150,9 @@
     "animated": false
   },
   "ZOMBIE_LORD_LEGGINGS": {
-    "id": "903020390085951539",
-    "name": "item_3432",
-    "formatted": "<:item_3432:903020390085951539>",
+    "id": "905502703692689458",
+    "name": "item_3912",
+    "formatted": "<:item_3912:905502703692689458>",
     "animated": false
   },
   "TOPAZ_POWER_SCROLL": {
@@ -18162,9 +18162,9 @@
     "animated": false
   },
   "WATCHER_CHESTPLATE": {
-    "id": "903021065083682846",
-    "name": "item_3434",
-    "formatted": "<:item_3434:903021065083682846>",
+    "id": "905491924016828539",
+    "name": "item_3879",
+    "formatted": "<:item_3879:905491924016828539>",
     "animated": false
   },
   "BOSS": {
@@ -18210,9 +18210,9 @@
     "animated": false
   },
   "SKELETON_LORD_LEGGINGS": {
-    "id": "903023767196950529",
-    "name": "item_3442",
-    "formatted": "<:item_3442:903023767196950529>",
+    "id": "905503040344305664",
+    "name": "item_3913",
+    "formatted": "<:item_3913:905503040344305664>",
     "animated": false
   },
   "PURPLE_GREATER_BACKPACK": {
@@ -18246,9 +18246,9 @@
     "animated": false
   },
   "MINOS_HUNTER_BOOTS": {
-    "id": "903025793863671838",
-    "name": "item_3448",
-    "formatted": "<:item_3448:903025793863671838>",
+    "id": "905515163246002246",
+    "name": "item_3949",
+    "formatted": "<:item_3949:905515163246002246>",
     "animated": false
   },
   "RANDOM_FIREWORK": {
@@ -18270,9 +18270,9 @@
     "animated": false
   },
   "EMPEROR_LEGGINGS": {
-    "id": "903027144387592243",
-    "name": "item_3452",
-    "formatted": "<:item_3452:903027144387592243>",
+    "id": "905503376995942530",
+    "name": "item_3914",
+    "formatted": "<:item_3914:905503376995942530>",
     "animated": false
   },
   "RING_OF_SPACE": {
@@ -18306,9 +18306,9 @@
     "animated": false
   },
   "BOUNCY_LEGGINGS": {
-    "id": "903029172618813460",
-    "name": "item_3458",
-    "formatted": "<:item_3458:903029172618813460>",
+    "id": "905503713580425266",
+    "name": "item_3915",
+    "formatted": "<:item_3915:905503713580425266>",
     "animated": false
   },
   "GHAST_CHESTPLATE": {
@@ -18342,9 +18342,9 @@
     "animated": false
   },
   "ROTTEN_HELMET": {
-    "id": "903031197679099924",
-    "name": "item_3464",
-    "formatted": "<:item_3464:903031197679099924>",
+    "id": "905522235522052129",
+    "name": "item_3971",
+    "formatted": "<:item_3971:905522235522052129>",
     "animated": false
   },
   "PET_SKIN_SHEEP_GREEN": {
@@ -18504,15 +18504,15 @@
     "animated": false
   },
   "CRYPT_WITHERLORD_LEGGINGS": {
-    "id": "903040324681732125",
-    "name": "item_3491",
-    "formatted": "<:item_3491:903040324681732125>",
+    "id": "905504050257203220",
+    "name": "item_3916",
+    "formatted": "<:item_3916:905504050257203220>",
     "animated": false
   },
   "ROTTEN_LEGGINGS": {
-    "id": "903040661916373053",
-    "name": "item_3492",
-    "formatted": "<:item_3492:903040661916373053>",
+    "id": "905504386581659670",
+    "name": "item_3917",
+    "formatted": "<:item_3917:905504386581659670>",
     "animated": false
   },
   "LARGE_POTION_BAG": {
@@ -18558,9 +18558,9 @@
     "animated": false
   },
   "HYDRA1_BOOTS": {
-    "id": "903043363740221490",
-    "name": "item_3500",
-    "formatted": "<:item_3500:903043363740221490>",
+    "id": "905515499729879162",
+    "name": "item_3950",
+    "formatted": "<:item_3950:905515499729879162>",
     "animated": false
   },
   "MINING_CORE": {
@@ -18750,15 +18750,15 @@
     "animated": false
   },
   "SEA_WALKER_BOOTS": {
-    "id": "903054177146654760",
-    "name": "item_3532",
-    "formatted": "<:item_3532:903054177146654760>",
+    "id": "905515836909969508",
+    "name": "item_3951",
+    "formatted": "<:item_3951:905515836909969508>",
     "animated": false
   },
   "EMPEROR_ROBES": {
-    "id": "903054514846826556",
-    "name": "item_3533",
-    "formatted": "<:item_3533:903054514846826556>",
+    "id": "905492261494718624",
+    "name": "item_3880",
+    "formatted": "<:item_3880:905492261494718624>",
     "animated": false
   },
   "PET_SKIN_SHEEP_YELLOW": {
@@ -18804,9 +18804,9 @@
     "animated": false
   },
   "HEAVY_CHESTPLATE": {
-    "id": "903057218482601998",
-    "name": "item_3541",
-    "formatted": "<:item_3541:903057218482601998>",
+    "id": "905492598414770186",
+    "name": "item_3881",
+    "formatted": "<:item_3881:905492598414770186>",
     "animated": false
   },
   "KEY_FRAGMENT": {
@@ -18840,9 +18840,9 @@
     "animated": false
   },
   "SEA_WALKER_LEGGINGS": {
-    "id": "903059587828162612",
-    "name": "item_3548",
-    "formatted": "<:item_3548:903059587828162612>",
+    "id": "905504723740807239",
+    "name": "item_3918",
+    "formatted": "<:item_3918:905504723740807239>",
     "animated": false
   },
   "BONE_MEAL": {
@@ -18960,15 +18960,15 @@
     "animated": false
   },
   "MINOS_HUNTER_LEGGINGS": {
-    "id": "903066341978824785",
-    "name": "item_3568",
-    "formatted": "<:item_3568:903066341978824785>",
+    "id": "905505060623089664",
+    "name": "item_3919",
+    "formatted": "<:item_3919:905505060623089664>",
     "animated": false
   },
   "BOUNCY_HELMET": {
-    "id": "903066679368638506",
-    "name": "item_3569",
-    "formatted": "<:item_3569:903066679368638506>",
+    "id": "905522572253347851",
+    "name": "item_3972",
+    "formatted": "<:item_3972:905522572253347851>",
     "animated": false
   },
   "CRYPT_WITHERLORD_SWORD": {
@@ -19014,9 +19014,9 @@
     "animated": false
   },
   "FALLEN_STAR_CHESTPLATE": {
-    "id": "903069382408806421",
-    "name": "item_3577",
-    "formatted": "<:item_3577:903069382408806421>",
+    "id": "905492934646956043",
+    "name": "item_3882",
+    "formatted": "<:item_3882:905492934646956043>",
     "animated": false
   },
   "PET_ITEM_IRON_CLAWS_EPIC": {
@@ -19146,9 +19146,9 @@
     "animated": false
   },
   "HYDRA1_CHESTPLATE": {
-    "id": "903076819979354122",
-    "name": "item_3599",
-    "formatted": "<:item_3599:903076819979354122>",
+    "id": "905493271743201320",
+    "name": "item_3883",
+    "formatted": "<:item_3883:905493271743201320>",
     "animated": false
   },
   "JAR_OF_PICKLES": {
@@ -19194,9 +19194,9 @@
     "animated": false
   },
   "CRYPT_WITHERLORD_BOOTS": {
-    "id": "903079858006032394",
-    "name": "item_3608",
-    "formatted": "<:item_3608:903079858006032394>",
+    "id": "905516173481869312",
+    "name": "item_3952",
+    "formatted": "<:item_3952:905516173481869312>",
     "animated": false
   },
   "PET_ITEM_MINING_SKILL_BOOST_UNCOMMON": {
@@ -19218,9 +19218,9 @@
     "animated": false
   },
   "HYDRA1_LEGGINGS": {
-    "id": "903081210903941161",
-    "name": "item_3612",
-    "formatted": "<:item_3612:903081210903941161>",
+    "id": "905505397044019201",
+    "name": "item_3920",
+    "formatted": "<:item_3920:905505397044019201>",
     "animated": false
   },
   "RAGNAROK_ABILITY": {
@@ -19230,9 +19230,9 @@
     "animated": false
   },
   "EMPEROR_SHOES": {
-    "id": "903081885385752577",
-    "name": "item_3614",
-    "formatted": "<:item_3614:903081885385752577>",
+    "id": "905516509818921011",
+    "name": "item_3953",
+    "formatted": "<:item_3953:905516509818921011>",
     "animated": false
   },
   "THE_WATCHERS_HEAD": {
@@ -19344,9 +19344,9 @@
     "animated": false
   },
   "SKELETON_LORD_BOOTS": {
-    "id": "903088645869813880",
-    "name": "item_3634",
-    "formatted": "<:item_3634:903088645869813880>",
+    "id": "905516846369898527",
+    "name": "item_3954",
+    "formatted": "<:item_3954:905516846369898527>",
     "animated": false
   },
   "PET_ITEM_ALL_SKILLS_BOOST_RARE": {
@@ -19398,9 +19398,9 @@
     "animated": false
   },
   "FALLEN_STAR_BOOTS": {
-    "id": "903091686341771294",
-    "name": "item_3643",
-    "formatted": "<:item_3643:903091686341771294>",
+    "id": "905493608701001768",
+    "name": "item_3884",
+    "formatted": "<:item_3884:905493608701001768>",
     "animated": false
   },
   "VOODOO": {
@@ -19470,9 +19470,9 @@
     "animated": false
   },
   "WATCHER_BOOTS": {
-    "id": "903095744515416136",
-    "name": "item_3655",
-    "formatted": "<:item_3655:903095744515416136>",
+    "id": "905517183533211658",
+    "name": "item_3955",
+    "formatted": "<:item_3955:905517183533211658>",
     "animated": false
   },
   "PET_ITEM_FORAGING_SKILL_BOOST_RARE": {
@@ -19542,9 +19542,9 @@
     "animated": false
   },
   "ZOMBIE_COMMANDER_LEGGINGS": {
-    "id": "903099799585312868",
-    "name": "item_3667",
-    "formatted": "<:item_3667:903099799585312868>",
+    "id": "905505733796298762",
+    "name": "item_3921",
+    "formatted": "<:item_3921:905505733796298762>",
     "animated": false
   },
   "PET_ITEM_BIG_TEETH_RARE": {
@@ -19722,9 +19722,9 @@
     "animated": false
   },
   "ZOMBIE_LORD_CHESTPLATE": {
-    "id": "903109938870644746",
-    "name": "item_3697",
-    "formatted": "<:item_3697:903109938870644746>",
+    "id": "905493945704906772",
+    "name": "item_3885",
+    "formatted": "<:item_3885:905493945704906772>",
     "animated": false
   },
   "MASTER_SKULL_TIER_9": {
@@ -19860,9 +19860,9 @@
     "animated": false
   },
   "WATCHER_LEGS": {
-    "id": "903117705266229288",
-    "name": "item_3720",
-    "formatted": "<:item_3720:903117705266229288>",
+    "id": "905506070481485865",
+    "name": "item_3922",
+    "formatted": "<:item_3922:905506070481485865>",
     "animated": false
   },
   "WHITE_LARGE_BACKPACK": {
@@ -19872,9 +19872,9 @@
     "animated": false
   },
   "HEAVY_BOOTS": {
-    "id": "903118381274767420",
-    "name": "item_3722",
-    "formatted": "<:item_3722:903118381274767420>",
+    "id": "905517520172249139",
+    "name": "item_3956",
+    "formatted": "<:item_3956:905517520172249139>",
     "animated": false
   },
   "MASTER_CATACOMBS_PASS_7": {
@@ -19932,9 +19932,9 @@
     "animated": false
   },
   "ZOMBIE_LORD_BOOTS": {
-    "id": "903121759706939413",
-    "name": "item_3732",
-    "formatted": "<:item_3732:903121759706939413>",
+    "id": "905517856727392326",
+    "name": "item_3958",
+    "formatted": "<:item_3958:905517856727392326>",
     "animated": false
   },
   "HEALER_DUNGEON_ABILITY_2": {
@@ -19956,15 +19956,15 @@
     "animated": false
   },
   "CRYPT_WITHERLORD_CHESTPLATE": {
-    "id": "903123111388528640",
-    "name": "item_3736",
-    "formatted": "<:item_3736:903123111388528640>",
+    "id": "905494283598057553",
+    "name": "item_3886",
+    "formatted": "<:item_3886:905494283598057553>",
     "animated": false
   },
   "FALLEN_STAR_LEGGINGS": {
-    "id": "903123448564424724",
-    "name": "item_3737",
-    "formatted": "<:item_3737:903123448564424724>",
+    "id": "905494620279038072",
+    "name": "item_3887",
+    "formatted": "<:item_3887:905494620279038072>",
     "animated": false
   },
   "LARGE_RUNES_SACK": {
@@ -19986,9 +19986,9 @@
     "animated": false
   },
   "SPEEDSTER_HELMET": {
-    "id": "903124799793008722",
-    "name": "item_3741",
-    "formatted": "<:item_3741:903124799793008722>",
+    "id": "905522909030801458",
+    "name": "item_3973",
+    "formatted": "<:item_3973:905522909030801458>",
     "animated": false
   },
   "WOLF_TOOTH": {
@@ -20016,9 +20016,9 @@
     "animated": false
   },
   "STARRED_SHADOW_ASSASSIN_CHESTPLATE": {
-    "id": "903126485718683698",
-    "name": "item_3746",
-    "formatted": "<:item_3746:903126485718683698>",
+    "id": "905494957111005234",
+    "name": "item_3888",
+    "formatted": "<:item_3888:905494957111005234>",
     "animated": false
   },
   "STONE:3": {
@@ -20616,21 +20616,21 @@
     "animated": false
   },
   "GREAT_SPOOK_LEGGINGS": {
-    "id": "903578772001943573",
-    "name": "item_3847",
-    "formatted": "<:item_3847:903578772001943573>",
+    "id": "905495293984911500",
+    "name": "item_3889",
+    "formatted": "<:item_3889:905495293984911500>",
     "animated": false
   },
   "GREAT_SPOOK_CHESTPLATE": {
-    "id": "903578775055392858",
-    "name": "item_3847",
-    "formatted": "<:item_3847:903578775055392858>",
+    "id": "905495630753959966",
+    "name": "item_3890",
+    "formatted": "<:item_3890:905495630753959966>",
     "animated": false
   },
   "GREAT_SPOOK_BOOTS": {
-    "id": "903578776741486633",
-    "name": "item_3847",
-    "formatted": "<:item_3847:903578776741486633>",
+    "id": "905495967502041138",
+    "name": "item_3891",
+    "formatted": "<:item_3891:905495967502041138>",
     "animated": false
   },
   "GREAT_SPOOK_STAFF": {
@@ -20640,9 +20640,9 @@
     "animated": false
   },
   "GREAT_SPOOK_HELMET": {
-    "id": "903579726747148329",
-    "name": "item_3849",
-    "formatted": "<:item_3849:903579726747148329>",
+    "id": "905523245799862402",
+    "name": "item_3974",
+    "formatted": "<:item_3974:905523245799862402>",
     "animated": false
   },
   "DUST_THE_FISH": {
