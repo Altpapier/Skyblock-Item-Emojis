@@ -20639,6 +20639,12 @@
     "formatted": "<:item_3847:903578779585237033>",
     "animated": false
   },
+  "GREAT_SPOOK_HELMET": {
+    "id": "905523245799862402",
+    "name": "item_3974",
+    "formatted": "<:item_3974:905523245799862402>",
+    "animated": false
+  },
   "DUST_THE_FISH": {
     "id": "905198038543392868",
     "name": "item_3851",
@@ -20657,10 +20663,16 @@
     "formatted": "<:item_3852:905450871679254619>",
     "animated": false
   },
-  "GREAT_SPOOK_HELMET": {
-    "id": "905535449685196841",
-    "name": "item_3854",
-    "formatted": "<:item_3854:905535449685196841>",
+  "CRYSTAL_HOLLOWS_TRAVEL_SCROLL": {
+    "id": "907350966733520916",
+    "name": "item_3856",
+    "formatted": "<:item_3856:907350966733520916>",
+    "animated": false
+  },
+  "FORGE_TRAVEL_SCROLL": {
+    "id": "907350970030243880",
+    "name": "item_3858",
+    "formatted": "<:item_3858:907350970030243880>",
     "animated": false
   }
 }
