@@ -20674,5 +20674,59 @@
     "name": "item_3858",
     "formatted": "<:item_3858:907350970030243880>",
     "animated": false
+  },
+  "ICE_FIREPLACE": {
+    "id": "915651465903747082",
+    "name": "item_3860",
+    "formatted": "<:item_3860:915651465903747082>",
+    "animated": false
+  },
+  "ICE_KNIGHT_STATUE": {
+    "id": "915651490222338048",
+    "name": "item_3862",
+    "formatted": "<:item_3862:915651490222338048>",
+    "animated": false
+  },
+  "FESTIVE_JERRY_PERSONALITY": {
+    "id": "915651494710214666",
+    "name": "item_3864",
+    "formatted": "<:item_3864:915651494710214666>",
+    "animated": false
+  },
+  "ICE_CHAIR": {
+    "id": "915651499504332911",
+    "name": "item_3866",
+    "formatted": "<:item_3866:915651499504332911>",
+    "animated": false
+  },
+  "FESTIVE_ZOMBIE_PERSONALITY": {
+    "id": "915651503866380348",
+    "name": "item_3868",
+    "formatted": "<:item_3868:915651503866380348>",
+    "animated": false
+  },
+  "FESTIVE_SKELETON_PERSONALITY": {
+    "id": "915651508954071141",
+    "name": "item_3870",
+    "formatted": "<:item_3870:915651508954071141>",
+    "animated": false
+  },
+  "ICE_DINNER_TABLE": {
+    "id": "915651512695398490",
+    "name": "item_3872",
+    "formatted": "<:item_3872:915651512695398490>",
+    "animated": false
+  },
+  "ICE_SOFA": {
+    "id": "915651518106066975",
+    "name": "item_3874",
+    "formatted": "<:item_3874:915651518106066975>",
+    "animated": false
+  },
+  "HAPPY_SNOWMAN": {
+    "id": "915651524670152734",
+    "name": "item_3876",
+    "formatted": "<:item_3876:915651524670152734>",
+    "animated": false
   }
 }
