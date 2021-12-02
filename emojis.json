@@ -20724,9 +20724,63 @@
     "animated": false
   },
   "HAPPY_SNOWMAN": {
-    "id": "915651524670152734",
+    "id": "915651529392934952",
     "name": "item_3876",
-    "formatted": "<:item_3876:915651524670152734>",
+    "formatted": "<:item_3876:915651529392934952>",
+    "animated": false
+  },
+  "GOLDEN_DANTE_STATUE": {
+    "id": "916089342097760326",
+    "name": "item_3878",
+    "formatted": "<:item_3878:916089342097760326>",
+    "animated": false
+  },
+  "BINGO_TALISMAN": {
+    "id": "916089345746812949",
+    "name": "item_3880",
+    "formatted": "<:item_3880:916089345746812949>",
+    "animated": false
+  },
+  "BINGO_RING": {
+    "id": "916089349450379294",
+    "name": "item_3882",
+    "formatted": "<:item_3882:916089349450379294>",
+    "animated": false
+  },
+  "BINGO_DISPLAY": {
+    "id": "916089352608710718",
+    "name": "item_3884",
+    "formatted": "<:item_3884:916089352608710718>",
+    "animated": false
+  },
+  "SPRING_BOOTS": {
+    "id": "916089356110921798",
+    "name": "item_3886",
+    "formatted": "<:item_3886:916089356110921798>",
+    "animated": false
+  },
+  "DITTO_SKULL": {
+    "id": "916089359197950003",
+    "name": "item_3888",
+    "formatted": "<:item_3888:916089359197950003>",
+    "animated": false
+  },
+  "BOOK_OF_STATS": {
+    "id": "916089361492234300",
+    "name": "item_3889",
+    "formatted": "<:item_3889:916089361492234300>",
+    "animated": false
+  },
+  "BONZO_STATUE": {
+    "id": "916089365107724318",
+    "name": "item_3891",
+    "formatted": "<:item_3891:916089365107724318>",
+    "animated": false
+  },
+  "COLLECTION_DISPLAY": {
+    "id": "916089369809522698",
+    "name": "item_3893",
+    "formatted": "<:item_3893:916089369809522698>",
     "animated": false
   }
 }
