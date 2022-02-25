@@ -15,7 +15,7 @@ Can be used in webhooks or slash commands!**
 
 In the `emojisV2.json` file there are all emojis by their skyblock id. You can also choose between `normal` and `enchanted` emojis. Both keys will be provided on every skyblock id but only items that can be enchanted (armor, swords, pickaxes, ...) or have the enchantment glint applied without being enchanted actually have a enchanted version of the emoji. We provide both keys to make it easier for you to implement the emojis into your project. Pets, runes and potions work in a different way.
 
-You can get a link to an emoji by adding the item id to the end of this url: https://cdn.discordapp.com/emojis/ID
+You can get a link to an emoji by adding the discord emoji Id to the end of this URL: https://cdn.discordapp.com/emojis/EMOJI_ID
 
 _Example: (Item ID: `ROGUE_SWORD`)_
 
@@ -51,7 +51,7 @@ ExtraAttributes: {
 
 **Pets**:
 
-Get pets by their pet type found in the ExtraAttributes of the pet (`pet` -> `tag` -> `ExtraAttributes` -> `petInfo` -> `type`). After getting the pet type make sure to add `_PET`. If the pet includes a pet skin (`petInfo` -> `skin`) you can just use the id provided there like normal items.
+Get pets by their pet type found in the ExtraAttributes of the pet (`pet` -> `tag` -> `ExtraAttributes` -> `petInfo` -> `type`). After getting the pet type make sure to append `_PET`. If the pet includes a pet skin (`petInfo` -> `skin`) you can just use the id provided there like normal items.
 
 _Example_:
 
@@ -69,7 +69,7 @@ ExtraAttributes: {
 
 **Runes**:
 
-Get runes using the rune id found in the runes object found the ExtraAttributes of the rune. Make sure to add `_RUNE` after the id. (`rune` -> `tag` -> `ExtraAttributes` -> `runes`)
+Get runes using the rune id found in the runes object found the ExtraAttributes of the rune. Make sure to append `_RUNE` after the id. (`rune` -> `tag` -> `ExtraAttributes` -> `runes`)
 
 _Example_:
 
