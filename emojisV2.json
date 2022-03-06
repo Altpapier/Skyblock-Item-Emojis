@@ -51529,22 +51529,6 @@
       "enchanted": false
     }
   },
-  "DYE_LIVID": {
-    "normal": {
-      "name": "Livid_Dye",
-      "id": "950093280123686942",
-      "formatted": "<:Livid_Dye:950093280123686942>",
-      "animated": false,
-      "enchanted": false
-    },
-    "enchanted": {
-      "name": "Livid_Dye",
-      "id": "950093280123686942",
-      "formatted": "<:Livid_Dye:950093280123686942>",
-      "animated": false,
-      "enchanted": false
-    }
-  },
   "DUNGEON_DISC_1": {
     "normal": {
       "name": "Dungeon_Disc",
@@ -51557,22 +51541,6 @@
       "name": "Dungeon_Disc",
       "id": "950093537070948363",
       "formatted": "<:Dungeon_Disc:950093537070948363>",
-      "animated": false,
-      "enchanted": false
-    }
-  },
-  "DYE_BRICK_RED": {
-    "normal": {
-      "name": "Brick_Red_Dye",
-      "id": "950093792843792465",
-      "formatted": "<:Brick_Red_Dye:950093792843792465>",
-      "animated": false,
-      "enchanted": false
-    },
-    "enchanted": {
-      "name": "Brick_Red_Dye",
-      "id": "950093792843792465",
-      "formatted": "<:Brick_Red_Dye:950093792843792465>",
       "animated": false,
       "enchanted": false
     }
@@ -51609,22 +51577,6 @@
       "enchanted": false
     }
   },
-  "DYE_WILD_STRAWBERRY": {
-    "normal": {
-      "name": "Wild_Strawberry_Dye",
-      "id": "950094560078475347",
-      "formatted": "<:Wild_Strawberry_Dye:950094560078475347>",
-      "animated": false,
-      "enchanted": false
-    },
-    "enchanted": {
-      "name": "Wild_Strawberry_Dye",
-      "id": "950094560078475347",
-      "formatted": "<:Wild_Strawberry_Dye:950094560078475347>",
-      "animated": false,
-      "enchanted": false
-    }
-  },
   "DUNGEON_DISC_4": {
     "normal": {
       "name": "Old_Disc",
@@ -51641,70 +51593,6 @@
       "enchanted": false
     }
   },
-  "DYE_PURE_WHITE": {
-    "normal": {
-      "name": "Pure_White_Dye",
-      "id": "950095175965896704",
-      "formatted": "<:Pure_White_Dye:950095175965896704>",
-      "animated": false,
-      "enchanted": false
-    },
-    "enchanted": {
-      "name": "Pure_White_Dye",
-      "id": "950095175965896704",
-      "formatted": "<:Pure_White_Dye:950095175965896704>",
-      "animated": false,
-      "enchanted": false
-    }
-  },
-  "DYE_CELESTE": {
-    "normal": {
-      "name": "Celeste_Dye",
-      "id": "950095433085120556",
-      "formatted": "<:Celeste_Dye:950095433085120556>",
-      "animated": false,
-      "enchanted": false
-    },
-    "enchanted": {
-      "name": "Celeste_Dye",
-      "id": "950095433085120556",
-      "formatted": "<:Celeste_Dye:950095433085120556>",
-      "animated": false,
-      "enchanted": false
-    }
-  },
-  "DYE_AQUAMARINE": {
-    "normal": {
-      "name": "Aquamarine_Dye",
-      "id": "950095689029910528",
-      "formatted": "<:Aquamarine_Dye:950095689029910528>",
-      "animated": false,
-      "enchanted": false
-    },
-    "enchanted": {
-      "name": "Aquamarine_Dye",
-      "id": "950095689029910528",
-      "formatted": "<:Aquamarine_Dye:950095689029910528>",
-      "animated": false,
-      "enchanted": false
-    }
-  },
-  "DYE_MIDNIGHT": {
-    "normal": {
-      "name": "Midnight_Dye",
-      "id": "950095944752455701",
-      "formatted": "<:Midnight_Dye:950095944752455701>",
-      "animated": false,
-      "enchanted": false
-    },
-    "enchanted": {
-      "name": "Midnight_Dye",
-      "id": "950095944752455701",
-      "formatted": "<:Midnight_Dye:950095944752455701>",
-      "animated": false,
-      "enchanted": false
-    }
-  },
   "BINGO_ARTIFACT": {
     "normal": {
       "name": "Bingo_Artifact",
@@ -51717,54 +51605,6 @@
       "name": "Bingo_Artifact",
       "id": "950096199925510175",
       "formatted": "<:Bingo_Artifact:950096199925510175>",
-      "animated": false,
-      "enchanted": false
-    }
-  },
-  "DYE_CELADON": {
-    "normal": {
-      "name": "Celadon_Dye",
-      "id": "950096493753286726",
-      "formatted": "<:Celadon_Dye:950096493753286726>",
-      "animated": false,
-      "enchanted": false
-    },
-    "enchanted": {
-      "name": "Celadon_Dye",
-      "id": "950096493753286726",
-      "formatted": "<:Celadon_Dye:950096493753286726>",
-      "animated": false,
-      "enchanted": false
-    }
-  },
-  "DYE_CYCLAMEN": {
-    "normal": {
-      "name": "Cyclamen_Dye",
-      "id": "950096751812046878",
-      "formatted": "<:Cyclamen_Dye:950096751812046878>",
-      "animated": false,
-      "enchanted": false
-    },
-    "enchanted": {
-      "name": "Cyclamen_Dye",
-      "id": "950096751812046878",
-      "formatted": "<:Cyclamen_Dye:950096751812046878>",
-      "animated": false,
-      "enchanted": false
-    }
-  },
-  "DYE_CARMINE": {
-    "normal": {
-      "name": "Carmine_Dye",
-      "id": "950097011271667802",
-      "formatted": "<:Carmine_Dye:950097011271667802>",
-      "animated": false,
-      "enchanted": false
-    },
-    "enchanted": {
-      "name": "Carmine_Dye",
-      "id": "950097011271667802",
-      "formatted": "<:Carmine_Dye:950097011271667802>",
       "animated": false,
       "enchanted": false
     }
@@ -51801,54 +51641,6 @@
       "enchanted": false
     }
   },
-  "DYE_BYZANTIUM": {
-    "normal": {
-      "name": "Byzantium_Dye",
-      "id": "950097778799956058",
-      "formatted": "<:Byzantium_Dye:950097778799956058>",
-      "animated": false,
-      "enchanted": false
-    },
-    "enchanted": {
-      "name": "Byzantium_Dye",
-      "id": "950097778799956058",
-      "formatted": "<:Byzantium_Dye:950097778799956058>",
-      "animated": false,
-      "enchanted": false
-    }
-  },
-  "DYE_ICEBERG": {
-    "normal": {
-      "name": "Iceberg_Dye",
-      "id": "950098034249838612",
-      "formatted": "<:Iceberg_Dye:950098034249838612>",
-      "animated": false,
-      "enchanted": false
-    },
-    "enchanted": {
-      "name": "Iceberg_Dye",
-      "id": "950098034249838612",
-      "formatted": "<:Iceberg_Dye:950098034249838612>",
-      "animated": false,
-      "enchanted": false
-    }
-  },
-  "DYE_MANGO": {
-    "normal": {
-      "name": "Mango_Dye",
-      "id": "950098290588930088",
-      "formatted": "<:Mango_Dye:950098290588930088>",
-      "animated": false,
-      "enchanted": false
-    },
-    "enchanted": {
-      "name": "Mango_Dye",
-      "id": "950098290588930088",
-      "formatted": "<:Mango_Dye:950098290588930088>",
-      "animated": false,
-      "enchanted": false
-    }
-  },
   "DUNGEON_DISC_2": {
     "normal": {
       "name": "Clown_Disc",
@@ -51861,38 +51653,6 @@
       "name": "Clown_Disc",
       "id": "950098547666198608",
       "formatted": "<:Clown_Disc:950098547666198608>",
-      "animated": false,
-      "enchanted": false
-    }
-  },
-  "DYE_DARK_PURPLE": {
-    "normal": {
-      "name": "Dark_Purple_Dye",
-      "id": "950098803757842433",
-      "formatted": "<:Dark_Purple_Dye:950098803757842433>",
-      "animated": false,
-      "enchanted": false
-    },
-    "enchanted": {
-      "name": "Dark_Purple_Dye",
-      "id": "950098803757842433",
-      "formatted": "<:Dark_Purple_Dye:950098803757842433>",
-      "animated": false,
-      "enchanted": false
-    }
-  },
-  "DYE_PURE_BLACK": {
-    "normal": {
-      "name": "Pure_Black_Dye",
-      "id": "950099060826722364",
-      "formatted": "<:Pure_Black_Dye:950099060826722364>",
-      "animated": false,
-      "enchanted": false
-    },
-    "enchanted": {
-      "name": "Pure_Black_Dye",
-      "id": "950099060826722364",
-      "formatted": "<:Pure_Black_Dye:950099060826722364>",
       "animated": false,
       "enchanted": false
     }
@@ -51913,118 +51673,6 @@
       "enchanted": false
     }
   },
-  "DYE_NADESHIKO": {
-    "normal": {
-      "name": "Nadeshiko_Dye",
-      "id": "950099573404237844",
-      "formatted": "<:Nadeshiko_Dye:950099573404237844>",
-      "animated": false,
-      "enchanted": false
-    },
-    "enchanted": {
-      "name": "Nadeshiko_Dye",
-      "id": "950099573404237844",
-      "formatted": "<:Nadeshiko_Dye:950099573404237844>",
-      "animated": false,
-      "enchanted": false
-    }
-  },
-  "DYE_EMERALD": {
-    "normal": {
-      "name": "Emerald_Dye",
-      "id": "950099828992524378",
-      "formatted": "<:Emerald_Dye:950099828992524378>",
-      "animated": false,
-      "enchanted": false
-    },
-    "enchanted": {
-      "name": "Emerald_Dye",
-      "id": "950099828992524378",
-      "formatted": "<:Emerald_Dye:950099828992524378>",
-      "animated": false,
-      "enchanted": false
-    }
-  },
-  "DYE_NYANZA": {
-    "normal": {
-      "name": "Nyanza_Dye",
-      "id": "950100084832489494",
-      "formatted": "<:Nyanza_Dye:950100084832489494>",
-      "animated": false,
-      "enchanted": false
-    },
-    "enchanted": {
-      "name": "Nyanza_Dye",
-      "id": "950100084832489494",
-      "formatted": "<:Nyanza_Dye:950100084832489494>",
-      "animated": false,
-      "enchanted": false
-    }
-  },
-  "DYE_PURE_YELLOW": {
-    "normal": {
-      "name": "Pure_Yellow_Dye",
-      "id": "950100341440016434",
-      "formatted": "<:Pure_Yellow_Dye:950100341440016434>",
-      "animated": false,
-      "enchanted": false
-    },
-    "enchanted": {
-      "name": "Pure_Yellow_Dye",
-      "id": "950100341440016434",
-      "formatted": "<:Pure_Yellow_Dye:950100341440016434>",
-      "animated": false,
-      "enchanted": false
-    }
-  },
-  "DYE_PURE_BLUE": {
-    "normal": {
-      "name": "Pure_Blue_Dye",
-      "id": "950100597321891910",
-      "formatted": "<:Pure_Blue_Dye:950100597321891910>",
-      "animated": false,
-      "enchanted": false
-    },
-    "enchanted": {
-      "name": "Pure_Blue_Dye",
-      "id": "950100597321891910",
-      "formatted": "<:Pure_Blue_Dye:950100597321891910>",
-      "animated": false,
-      "enchanted": false
-    }
-  },
-  "DYE_FLAME": {
-    "normal": {
-      "name": "Flame_Dye",
-      "id": "950100887756484618",
-      "formatted": "<:Flame_Dye:950100887756484618>",
-      "animated": false,
-      "enchanted": false
-    },
-    "enchanted": {
-      "name": "Flame_Dye",
-      "id": "950100887756484618",
-      "formatted": "<:Flame_Dye:950100887756484618>",
-      "animated": false,
-      "enchanted": false
-    }
-  },
-  "DYE_NECRON": {
-    "normal": {
-      "name": "Necron_Dye",
-      "id": "950101151443988620",
-      "formatted": "<:Necron_Dye:950101151443988620>",
-      "animated": false,
-      "enchanted": false
-    },
-    "enchanted": {
-      "name": "Necron_Dye",
-      "id": "950101151443988620",
-      "formatted": "<:Necron_Dye:950101151443988620>",
-      "animated": false,
-      "enchanted": false
-    }
-  },
   "DUNGEON_DISC_3": {
     "normal": {
       "name": "Watcher_Disc",
@@ -52041,18 +51689,242 @@
       "enchanted": false
     }
   },
-  "DYE_BONE": {
+  "DYE_LIVID": {
     "normal": {
-      "name": "Bone_Dye",
-      "id": "950101785299779694",
-      "formatted": "<:Bone_Dye:950101785299779694>",
+      "name": "Livid_Dye",
+      "id": "950122546987139093",
+      "formatted": "<:Livid_Dye:950122546987139093>",
       "animated": false,
       "enchanted": false
     },
     "enchanted": {
-      "name": "Bone_Dye",
-      "id": "950101785299779694",
-      "formatted": "<:Bone_Dye:950101785299779694>",
+      "name": "Livid_Dye",
+      "id": "950122546987139093",
+      "formatted": "<:Livid_Dye:950122546987139093>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "DYE_BRICK_RED": {
+    "normal": {
+      "name": "Brick_Red_Dye",
+      "id": "950122596068913202",
+      "formatted": "<:Brick_Red_Dye:950122596068913202>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Brick_Red_Dye",
+      "id": "950122596068913202",
+      "formatted": "<:Brick_Red_Dye:950122596068913202>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "DYE_WILD_STRAWBERRY": {
+    "normal": {
+      "name": "Wild_Strawberry_Dye",
+      "id": "950122644005589072",
+      "formatted": "<:Wild_Strawberry_Dye:950122644005589072>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Wild_Strawberry_Dye",
+      "id": "950122644005589072",
+      "formatted": "<:Wild_Strawberry_Dye:950122644005589072>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "DYE_PURE_WHITE": {
+    "normal": {
+      "name": "Pure_White_Dye",
+      "id": "950122691497709598",
+      "formatted": "<:Pure_White_Dye:950122691497709598>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Pure_White_Dye",
+      "id": "950122691497709598",
+      "formatted": "<:Pure_White_Dye:950122691497709598>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "DYE_CELESTE": {
+    "normal": {
+      "name": "Celeste_Dye",
+      "id": "950122739023364097",
+      "formatted": "<:Celeste_Dye:950122739023364097>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Celeste_Dye",
+      "id": "950122739023364097",
+      "formatted": "<:Celeste_Dye:950122739023364097>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "DYE_AQUAMARINE": {
+    "normal": {
+      "name": "Aquamarine_Dye",
+      "id": "950122785689194527",
+      "formatted": "<:Aquamarine_Dye:950122785689194527>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Aquamarine_Dye",
+      "id": "950122785689194527",
+      "formatted": "<:Aquamarine_Dye:950122785689194527>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "DYE_MIDNIGHT": {
+    "normal": {
+      "name": "Midnight_Dye",
+      "id": "950122833084841996",
+      "formatted": "<:Midnight_Dye:950122833084841996>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Midnight_Dye",
+      "id": "950122833084841996",
+      "formatted": "<:Midnight_Dye:950122833084841996>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "DYE_CELADON": {
+    "normal": {
+      "name": "Celadon_Dye",
+      "id": "950122880409141329",
+      "formatted": "<:Celadon_Dye:950122880409141329>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Celadon_Dye",
+      "id": "950122880409141329",
+      "formatted": "<:Celadon_Dye:950122880409141329>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "DYE_CYCLAMEN": {
+    "normal": {
+      "name": "Cyclamen_Dye",
+      "id": "950122929759354930",
+      "formatted": "<:Cyclamen_Dye:950122929759354930>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Cyclamen_Dye",
+      "id": "950122929759354930",
+      "formatted": "<:Cyclamen_Dye:950122929759354930>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "DYE_CARMINE": {
+    "normal": {
+      "name": "Carmine_Dye",
+      "id": "950122976857190480",
+      "formatted": "<:Carmine_Dye:950122976857190480>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Carmine_Dye",
+      "id": "950122976857190480",
+      "formatted": "<:Carmine_Dye:950122976857190480>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "DYE_BYZANTIUM": {
+    "normal": {
+      "name": "Byzantium_Dye",
+      "id": "950123022713495653",
+      "formatted": "<:Byzantium_Dye:950123022713495653>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Byzantium_Dye",
+      "id": "950123022713495653",
+      "formatted": "<:Byzantium_Dye:950123022713495653>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "DYE_ICEBERG": {
+    "normal": {
+      "name": "Iceberg_Dye",
+      "id": "950123069131862116",
+      "formatted": "<:Iceberg_Dye:950123069131862116>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Iceberg_Dye",
+      "id": "950123069131862116",
+      "formatted": "<:Iceberg_Dye:950123069131862116>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "DYE_MANGO": {
+    "normal": {
+      "name": "Mango_Dye",
+      "id": "950123115877371985",
+      "formatted": "<:Mango_Dye:950123115877371985>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Mango_Dye",
+      "id": "950123115877371985",
+      "formatted": "<:Mango_Dye:950123115877371985>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "DYE_DARK_PURPLE": {
+    "normal": {
+      "name": "Dark_Purple_Dye",
+      "id": "950123309708742727",
+      "formatted": "<:Dark_Purple_Dye:950123309708742727>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Dark_Purple_Dye",
+      "id": "950123309708742727",
+      "formatted": "<:Dark_Purple_Dye:950123309708742727>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "DYE_PURE_BLACK": {
+    "normal": {
+      "name": "Pure_Black_Dye",
+      "id": "950123356609470464",
+      "formatted": "<:Pure_Black_Dye:950123356609470464>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Pure_Black_Dye",
+      "id": "950123356609470464",
+      "formatted": "<:Pure_Black_Dye:950123356609470464>",
       "animated": false,
       "enchanted": false
     }
