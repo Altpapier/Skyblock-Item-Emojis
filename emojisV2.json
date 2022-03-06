@@ -44892,17 +44892,17 @@
   "ANTIQUE_REMEDIES": {
     "normal": {
       "name": "Antique_Remedies",
-      "id": "945652229048791130",
-      "formatted": "<a:Antique_Remedies:945652229048791130>",
-      "animated": true,
-      "enchanted": true
+      "id": "950129189212782622",
+      "formatted": "<:Antique_Remedies:950129189212782622>",
+      "animated": false,
+      "enchanted": false
     },
     "enchanted": {
       "name": "Antique_Remedies",
-      "id": "945652229048791130",
-      "formatted": "<a:Antique_Remedies:945652229048791130>",
-      "animated": true,
-      "enchanted": true
+      "id": "950129189212782622",
+      "formatted": "<:Antique_Remedies:950129189212782622>",
+      "animated": false,
+      "enchanted": false
     }
   },
   "ENCHANTED_REDSTONE": {
