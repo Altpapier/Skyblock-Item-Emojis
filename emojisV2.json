@@ -51486,8 +51486,8 @@
   "GRANDMA_WOLF_PET": {
     "normal": {
       "name": "Grandma_Wolf",
-      "id": "945933646236373083",
-      "formatted": "<:Grandma_Wolf:945933646236373083>",
+      "id": "971066049741078558",
+      "formatted": "<:Grandma_Wolf:971066049741078558>",
       "animated": false,
       "enchanted": false
     },
@@ -59321,6 +59321,150 @@
       "formatted": "<a:Enchanted_Red_Sand:967059625855811614>",
       "animated": true,
       "enchanted": true
+    }
+  },
+  "EPOCH_CAKE_CYAN": {
+    "normal": {
+      "name": "Century_Cake_of_Hype",
+      "id": "968902665495007242",
+      "formatted": "<:Century_Cake_of_Hype:968902665495007242>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Century_Cake_of_Hype",
+      "id": "968902665495007242",
+      "formatted": "<:Century_Cake_of_Hype:968902665495007242>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "EPOCH_CAKE_WHITE": {
+    "normal": {
+      "name": "Cloudy_Century_Cake",
+      "id": "968905159499468810",
+      "formatted": "<:Cloudy_Century_Cake:968905159499468810>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Cloudy_Century_Cake",
+      "id": "968905159499468810",
+      "formatted": "<:Cloudy_Century_Cake:968905159499468810>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "EPOCH_CAKE_BROWN": {
+    "normal": {
+      "name": "Chocolate_Century_Cake",
+      "id": "968905498629914684",
+      "formatted": "<:Chocolate_Century_Cake:968905498629914684>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Chocolate_Century_Cake",
+      "id": "968905498629914684",
+      "formatted": "<:Chocolate_Century_Cake:968905498629914684>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "ECCENTRIC_PAINTING_BUNDLE": {
+    "normal": {
+      "name": "Eccentric_Painting_Bundle",
+      "id": "968905849072398346",
+      "formatted": "<:Eccentric_Painting_Bundle:968905849072398346>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Eccentric_Painting_Bundle",
+      "id": "968905849072398346",
+      "formatted": "<:Eccentric_Painting_Bundle:968905849072398346>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "MOOSHROOM_COW_PET": {
+    "normal": {
+      "name": "Mooshroom_cow",
+      "id": "971066366675288065",
+      "formatted": "<:Mooshroom_cow:971066366675288065>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Mooshroom_cow",
+      "id": "971066366675288065",
+      "formatted": "<:Mooshroom_cow:971066366675288065>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "FIERY_BURST_RUNE": {
+    "normal": {
+      "name": "Fiery_burst",
+      "id": "971066684007940126",
+      "formatted": "<:Fiery_burst:971066684007940126>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Fiery_burst",
+      "id": "971066684007940126",
+      "formatted": "<:Fiery_burst:971066684007940126>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "DROPLET_WISP_PET": {
+    "normal": {
+      "name": "Droplet_wisp",
+      "id": "971067001583861790",
+      "formatted": "<:Droplet_wisp:971067001583861790>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Droplet_wisp",
+      "id": "971067001583861790",
+      "formatted": "<:Droplet_wisp:971067001583861790>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "SNAIL_PET": {
+    "normal": {
+      "name": "Snail",
+      "id": "971067318832619570",
+      "formatted": "<:Snail:971067318832619570>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Snail",
+      "id": "971067318832619570",
+      "formatted": "<:Snail:971067318832619570>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "LAVATEARS_RUNE": {
+    "normal": {
+      "name": "Lavatears",
+      "id": "971067635758411846",
+      "formatted": "<:Lavatears:971067635758411846>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Lavatears",
+      "id": "971067635758411846",
+      "formatted": "<:Lavatears:971067635758411846>",
+      "animated": false,
+      "enchanted": false
     }
   }
 }
