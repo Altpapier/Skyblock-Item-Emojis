@@ -59466,5 +59466,85 @@
       "animated": false,
       "enchanted": false
     }
+  },
+  "RADIOACTIVE_VIAL": {
+    "normal": {
+      "name": "Radioactive_Vial",
+      "id": "976197510060179516",
+      "formatted": "<:Radioactive_Vial:976197510060179516>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Radioactive_Vial",
+      "id": "976197510060179516",
+      "formatted": "<:Radioactive_Vial:976197510060179516>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "AMALGAMATED_CRIMSONITE_NEW": {
+    "normal": {
+      "name": "Amalgamated_Crimsonite",
+      "id": "976199251891720243",
+      "formatted": "<a:Amalgamated_Crimsonite:976199251891720243>",
+      "animated": true,
+      "enchanted": true
+    },
+    "enchanted": {
+      "name": "Amalgamated_Crimsonite",
+      "id": "976199251891720243",
+      "formatted": "<a:Amalgamated_Crimsonite:976199251891720243>",
+      "animated": true,
+      "enchanted": true
+    }
+  },
+  "INFINITE_SPIRIT_LEAP": {
+    "normal": {
+      "name": "Infinileap",
+      "id": "976198210223738910",
+      "formatted": "<:Infinileap:976198210223738910>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Infinileap",
+      "id": "976198210223738910",
+      "formatted": "<:Infinileap:976198210223738910>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "NETHERRACK_LOOKING_SUNSHADE": {
+    "normal": {
+      "name": "NetherrackLooking_Sunshade",
+      "id": "976198549169647717",
+      "formatted": "<:NetherrackLooking_Sunshade:976198549169647717>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "NetherrackLooking_Sunshade",
+      "id": "976198549169647717",
+      "formatted": "<:NetherrackLooking_Sunshade:976198549169647717>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "CRYSTAL_NUCLEUS_TRAVEL_SCROLL": {
+    "normal": {
+      "name": "Travel_Scroll_to_the_Crystal_Nuc",
+      "id": "976198888442707988",
+      "formatted": "<:Travel_Scroll_to_the_Crystal_Nuc:976198888442707988>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Travel_Scroll_to_the_Crystal_Nuc",
+      "id": "976198888442707988",
+      "formatted": "<:Travel_Scroll_to_the_Crystal_Nuc:976198888442707988>",
+      "animated": false,
+      "enchanted": false
+    }
   }
 }
