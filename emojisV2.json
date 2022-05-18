@@ -4146,15 +4146,15 @@
   "MEDIUM_BACKPACK": {
     "normal": {
       "name": "Medium_Backpack",
-      "id": "944653816702308383",
-      "formatted": "<:Medium_Backpack:944653816702308383>",
+      "id": "976505022147858442",
+      "formatted": "<:Medium_Backpack:976505022147858442>",
       "animated": false,
       "enchanted": false
     },
     "enchanted": {
       "name": "Medium_Backpack",
-      "id": "944653816702308383",
-      "formatted": "<:Medium_Backpack:944653816702308383>",
+      "id": "976505022147858442",
+      "formatted": "<:Medium_Backpack:976505022147858442>",
       "animated": false,
       "enchanted": false
     }
