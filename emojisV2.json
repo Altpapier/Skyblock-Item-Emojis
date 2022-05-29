@@ -59546,5 +59546,37 @@
       "animated": false,
       "enchanted": false
     }
+  },
+  "DYE_BINGO_BLUE": {
+    "normal": {
+      "name": "Bingo_Blue_Dye",
+      "id": "980527720331104326",
+      "formatted": "<:Bingo_Blue_Dye:980527720331104326>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Bingo_Blue_Dye",
+      "id": "980527720331104326",
+      "formatted": "<:Bingo_Blue_Dye:980527720331104326>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "DITTO_SKIN": {
+    "normal": {
+      "name": "Ditto_Skin",
+      "id": "980528061709701170",
+      "formatted": "<:Ditto_Skin:980528061709701170>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Ditto_Skin",
+      "id": "980528061709701170",
+      "formatted": "<:Ditto_Skin:980528061709701170>",
+      "animated": false,
+      "enchanted": false
+    }
   }
 }
