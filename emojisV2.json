@@ -55790,10 +55790,10 @@
   "ENCHANTED_SULPHUR": {
     "normal": {
       "name": "Enchanted_Sulphur",
-      "id": "966649265898274836",
-      "formatted": "<:Enchanted_Sulphur:966649265898274836>",
-      "animated": false,
-      "enchanted": false
+      "id": "966757372682960986",
+      "formatted": "<a:Enchanted_Sulphur:966757372682960986>",
+      "animated": true,
+      "enchanted": true
     },
     "enchanted": {
       "name": "Enchanted_Sulphur",
@@ -55982,10 +55982,10 @@
   "PYROCLASTIC_SCALE": {
     "normal": {
       "name": "Pyroclastic_Scale",
-      "id": "966653334209577000",
-      "formatted": "<:Pyroclastic_Scale:966653334209577000>",
-      "animated": false,
-      "enchanted": false
+      "id": "966759000454615161",
+      "formatted": "<a:Pyroclastic_Scale:966759000454615161>",
+      "animated": true,
+      "enchanted": true
     },
     "enchanted": {
       "name": "Pyroclastic_Scale",
@@ -56110,10 +56110,10 @@
   "FLAMES": {
     "normal": {
       "name": "Flames",
-      "id": "966656045898420234",
-      "formatted": "<:Flames:966656045898420234>",
-      "animated": false,
-      "enchanted": false
+      "id": "966759652387852328",
+      "formatted": "<a:Flames:966759652387852328>",
+      "animated": true,
+      "enchanted": true
     },
     "enchanted": {
       "name": "Flames",
@@ -56222,10 +56222,10 @@
   "WAND_OF_STRENGTH": {
     "normal": {
       "name": "Wand_of_Strength",
-      "id": "966658759155916832",
-      "formatted": "<:Wand_of_Strength:966658759155916832>",
-      "animated": false,
-      "enchanted": false
+      "id": "966760630604406885",
+      "formatted": "<a:Wand_of_Strength:966760630604406885>",
+      "animated": true,
+      "enchanted": true
     },
     "enchanted": {
       "name": "Wand_of_Strength",
@@ -56238,10 +56238,10 @@
   "LEATHER_CLOTH": {
     "normal": {
       "name": "Leather_Cloth",
-      "id": "966659098064060440",
-      "formatted": "<:Leather_Cloth:966659098064060440>",
-      "animated": false,
-      "enchanted": false
+      "id": "966760957193904198",
+      "formatted": "<a:Leather_Cloth:966760957193904198>",
+      "animated": true,
+      "enchanted": true
     },
     "enchanted": {
       "name": "Leather_Cloth",
