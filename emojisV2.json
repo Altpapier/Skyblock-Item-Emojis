@@ -59578,5 +59578,1093 @@
       "animated": false,
       "enchanted": false
     }
+  },
+  "BLOBFISH_BRONZE": {
+    "normal": {
+      "name": "Blobfish_BRONZE",
+      "id": "984153751755567144",
+      "formatted": "<:Blobfish_BRONZE:984153751755567144>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Blobfish_BRONZE",
+      "id": "984153751755567144",
+      "formatted": "<:Blobfish_BRONZE:984153751755567144>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "BLOBFISH_DIAMOND": {
+    "normal": {
+      "name": "Blobfish_DIAMOND",
+      "id": "984153754293141635",
+      "formatted": "<:Blobfish_DIAMOND:984153754293141635>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Blobfish_DIAMOND",
+      "id": "984153754293141635",
+      "formatted": "<:Blobfish_DIAMOND:984153754293141635>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "BLOBFISH_GOLD": {
+    "normal": {
+      "name": "Blobfish_GOLD",
+      "id": "984153758168674365",
+      "formatted": "<:Blobfish_GOLD:984153758168674365>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Blobfish_GOLD",
+      "id": "984153758168674365",
+      "formatted": "<:Blobfish_GOLD:984153758168674365>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "BLOBFISH_SILVER": {
+    "normal": {
+      "name": "Blobfish_SILVER",
+      "id": "984153760597172225",
+      "formatted": "<:Blobfish_SILVER:984153760597172225>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Blobfish_SILVER",
+      "id": "984153760597172225",
+      "formatted": "<:Blobfish_SILVER:984153760597172225>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "FLYFISH_BRONZE": {
+    "normal": {
+      "name": "Flyfish_BRONZE",
+      "id": "984153763784822845",
+      "formatted": "<:Flyfish_BRONZE:984153763784822845>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Flyfish_BRONZE",
+      "id": "984153763784822845",
+      "formatted": "<:Flyfish_BRONZE:984153763784822845>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "FLYFISH_DIAMOND": {
+    "normal": {
+      "name": "Flyfish_DIAMOND",
+      "id": "984153766280429628",
+      "formatted": "<:Flyfish_DIAMOND:984153766280429628>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Flyfish_DIAMOND",
+      "id": "984153766280429628",
+      "formatted": "<:Flyfish_DIAMOND:984153766280429628>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "FLYFISH_GOLD": {
+    "normal": {
+      "name": "Flyfish_GOLD",
+      "id": "984153768708935730",
+      "formatted": "<:Flyfish_GOLD:984153768708935730>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Flyfish_GOLD",
+      "id": "984153768708935730",
+      "formatted": "<:Flyfish_GOLD:984153768708935730>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "FLYFISH_SILVER": {
+    "normal": {
+      "name": "Flyfish_SILVER",
+      "id": "984153771707883631",
+      "formatted": "<:Flyfish_SILVER:984153771707883631>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Flyfish_SILVER",
+      "id": "984153771707883631",
+      "formatted": "<:Flyfish_SILVER:984153771707883631>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "GOLDEN_FISH_BRONZE": {
+    "normal": {
+      "name": "Golden_Fish_BRONZE",
+      "id": "984153774249619546",
+      "formatted": "<:Golden_Fish_BRONZE:984153774249619546>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Golden_Fish_BRONZE",
+      "id": "984153774249619546",
+      "formatted": "<:Golden_Fish_BRONZE:984153774249619546>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "GOLDEN_FISH_DIAMOND": {
+    "normal": {
+      "name": "Golden_Fish_DIAMOND",
+      "id": "984153776615223388",
+      "formatted": "<:Golden_Fish_DIAMOND:984153776615223388>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Golden_Fish_DIAMOND",
+      "id": "984153776615223388",
+      "formatted": "<:Golden_Fish_DIAMOND:984153776615223388>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "GOLDEN_FISH_GOLD": {
+    "normal": {
+      "name": "Golden_Fish_GOLD",
+      "id": "984153779496697896",
+      "formatted": "<:Golden_Fish_GOLD:984153779496697896>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Golden_Fish_GOLD",
+      "id": "984153779496697896",
+      "formatted": "<:Golden_Fish_GOLD:984153779496697896>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "GOLDEN_FISH_SILVER": {
+    "normal": {
+      "name": "Golden_Fish_SILVER",
+      "id": "984153783577743371",
+      "formatted": "<:Golden_Fish_SILVER:984153783577743371>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Golden_Fish_SILVER",
+      "id": "984153783577743371",
+      "formatted": "<:Golden_Fish_SILVER:984153783577743371>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "GUSHER_BRONZE": {
+    "normal": {
+      "name": "Gusher_BRONZE",
+      "id": "984153786694135908",
+      "formatted": "<:Gusher_BRONZE:984153786694135908>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Gusher_BRONZE",
+      "id": "984153786694135908",
+      "formatted": "<:Gusher_BRONZE:984153786694135908>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "GUSHER_DIAMOND": {
+    "normal": {
+      "name": "Gusher_DIAMOND",
+      "id": "984153789860839524",
+      "formatted": "<:Gusher_DIAMOND:984153789860839524>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Gusher_DIAMOND",
+      "id": "984153789860839524",
+      "formatted": "<:Gusher_DIAMOND:984153789860839524>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "GUSHER_GOLD": {
+    "normal": {
+      "name": "Gusher_GOLD",
+      "id": "984153792423546880",
+      "formatted": "<:Gusher_GOLD:984153792423546880>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Gusher_GOLD",
+      "id": "984153792423546880",
+      "formatted": "<:Gusher_GOLD:984153792423546880>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "GUSHER_SILVER": {
+    "normal": {
+      "name": "Gusher_SILVER",
+      "id": "984153795065966602",
+      "formatted": "<:Gusher_SILVER:984153795065966602>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Gusher_SILVER",
+      "id": "984153795065966602",
+      "formatted": "<:Gusher_SILVER:984153795065966602>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "KARATE_FISH_BRONZE": {
+    "normal": {
+      "name": "Karate_Fish_BRONZE",
+      "id": "984153797616107550",
+      "formatted": "<:Karate_Fish_BRONZE:984153797616107550>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Karate_Fish_BRONZE",
+      "id": "984153797616107550",
+      "formatted": "<:Karate_Fish_BRONZE:984153797616107550>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "KARATE_FISH_DIAMOND": {
+    "normal": {
+      "name": "Karate_Fish_DIAMOND",
+      "id": "984153800656949348",
+      "formatted": "<:Karate_Fish_DIAMOND:984153800656949348>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Karate_Fish_DIAMOND",
+      "id": "984153800656949348",
+      "formatted": "<:Karate_Fish_DIAMOND:984153800656949348>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "KARATE_FISH_GOLD": {
+    "normal": {
+      "name": "Karate_Fish_GOLD",
+      "id": "984153803081269278",
+      "formatted": "<:Karate_Fish_GOLD:984153803081269278>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Karate_Fish_GOLD",
+      "id": "984153803081269278",
+      "formatted": "<:Karate_Fish_GOLD:984153803081269278>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "KARATE_FISH_SILVER": {
+    "normal": {
+      "name": "Karate_Fish_SILVER",
+      "id": "984153806197624832",
+      "formatted": "<:Karate_Fish_SILVER:984153806197624832>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Karate_Fish_SILVER",
+      "id": "984153806197624832",
+      "formatted": "<:Karate_Fish_SILVER:984153806197624832>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "LAVA_HORSE_BRONZE": {
+    "normal": {
+      "name": "Lavahorse_BRONZE",
+      "id": "984153808630325350",
+      "formatted": "<:Lavahorse_BRONZE:984153808630325350>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Lavahorse_BRONZE",
+      "id": "984153808630325350",
+      "formatted": "<:Lavahorse_BRONZE:984153808630325350>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "LAVA_HORSE_DIAMOND": {
+    "normal": {
+      "name": "Lavahorse_DIAMOND",
+      "id": "984153811465691168",
+      "formatted": "<:Lavahorse_DIAMOND:984153811465691168>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Lavahorse_DIAMOND",
+      "id": "984153811465691168",
+      "formatted": "<:Lavahorse_DIAMOND:984153811465691168>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "LAVA_HORSE_GOLD": {
+    "normal": {
+      "name": "Lavahorse_GOLD",
+      "id": "984153814389112872",
+      "formatted": "<:Lavahorse_GOLD:984153814389112872>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Lavahorse_GOLD",
+      "id": "984153814389112872",
+      "formatted": "<:Lavahorse_GOLD:984153814389112872>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "LAVA_HORSE_SILVER": {
+    "normal": {
+      "name": "Lavahorse_SILVER",
+      "id": "984153817199300658",
+      "formatted": "<:Lavahorse_SILVER:984153817199300658>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Lavahorse_SILVER",
+      "id": "984153817199300658",
+      "formatted": "<:Lavahorse_SILVER:984153817199300658>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "MANA_RAY_BRONZE": {
+    "normal": {
+      "name": "Mana_Ray_BRONZE",
+      "id": "984153820030443630",
+      "formatted": "<:Mana_Ray_BRONZE:984153820030443630>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Mana_Ray_BRONZE",
+      "id": "984153820030443630",
+      "formatted": "<:Mana_Ray_BRONZE:984153820030443630>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "MANA_RAY_DIAMOND": {
+    "normal": {
+      "name": "Mana_Ray_DIAMOND",
+      "id": "984153823671107654",
+      "formatted": "<:Mana_Ray_DIAMOND:984153823671107654>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Mana_Ray_DIAMOND",
+      "id": "984153823671107654",
+      "formatted": "<:Mana_Ray_DIAMOND:984153823671107654>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "MANA_RAY_GOLD": {
+    "normal": {
+      "name": "Mana_Ray_GOLD",
+      "id": "984144076737761320",
+      "formatted": "<:Mana_Ray_GOLD:984144076737761320>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Mana_Ray_GOLD",
+      "id": "984144076737761320",
+      "formatted": "<:Mana_Ray_GOLD:984144076737761320>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "MANA_RAY_SILVER": {
+    "normal": {
+      "name": "Mana_Ray_SILVER",
+      "id": "984144394267557908",
+      "formatted": "<:Mana_Ray_SILVER:984144394267557908>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Mana_Ray_SILVER",
+      "id": "984144394267557908",
+      "formatted": "<:Mana_Ray_SILVER:984144394267557908>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "MOLDFIN_BRONZE": {
+    "normal": {
+      "name": "Moldfin_BRONZE",
+      "id": "984144711335948409",
+      "formatted": "<:Moldfin_BRONZE:984144711335948409>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Moldfin_BRONZE",
+      "id": "984144711335948409",
+      "formatted": "<:Moldfin_BRONZE:984144711335948409>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "MOLDFIN_DIAMOND": {
+    "normal": {
+      "name": "Moldfin_DIAMOND",
+      "id": "984145028177870898",
+      "formatted": "<:Moldfin_DIAMOND:984145028177870898>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Moldfin_DIAMOND",
+      "id": "984145028177870898",
+      "formatted": "<:Moldfin_DIAMOND:984145028177870898>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "MOLDFIN_GOLD": {
+    "normal": {
+      "name": "Moldfin_GOLD",
+      "id": "984145345346928721",
+      "formatted": "<:Moldfin_GOLD:984145345346928721>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Moldfin_GOLD",
+      "id": "984145345346928721",
+      "formatted": "<:Moldfin_GOLD:984145345346928721>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "MOLDFIN_SILVER": {
+    "normal": {
+      "name": "Moldfin_SILVER",
+      "id": "984145662880923709",
+      "formatted": "<:Moldfin_SILVER:984145662880923709>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Moldfin_SILVER",
+      "id": "984145662880923709",
+      "formatted": "<:Moldfin_SILVER:984145662880923709>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "OBFUSCATED_FISH_1_BRONZE": {
+    "normal": {
+      "name": "Obfuscated_1_BRONZE",
+      "id": "984145979836076092",
+      "formatted": "<:Obfuscated_1_BRONZE:984145979836076092>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Obfuscated_1_BRONZE",
+      "id": "984145979836076092",
+      "formatted": "<:Obfuscated_1_BRONZE:984145979836076092>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "OBFUSCATED_FISH_1_DIAMOND": {
+    "normal": {
+      "name": "Obfuscated_1_DIAMOND",
+      "id": "984146297336512522",
+      "formatted": "<:Obfuscated_1_DIAMOND:984146297336512522>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Obfuscated_1_DIAMOND",
+      "id": "984146297336512522",
+      "formatted": "<:Obfuscated_1_DIAMOND:984146297336512522>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "OBFUSCATED_FISH_1_GOLD": {
+    "normal": {
+      "name": "Obfuscated_1_GOLD",
+      "id": "984146614513958942",
+      "formatted": "<:Obfuscated_1_GOLD:984146614513958942>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Obfuscated_1_GOLD",
+      "id": "984146614513958942",
+      "formatted": "<:Obfuscated_1_GOLD:984146614513958942>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "OBFUSCATED_FISH_1_SILVER": {
+    "normal": {
+      "name": "Obfuscated_1_SILVER",
+      "id": "984146931213303838",
+      "formatted": "<:Obfuscated_1_SILVER:984146931213303838>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Obfuscated_1_SILVER",
+      "id": "984146931213303838",
+      "formatted": "<:Obfuscated_1_SILVER:984146931213303838>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "OBFUSCATED_FISH_2_BRONZE": {
+    "normal": {
+      "name": "Obfuscated_2_BRONZE",
+      "id": "984147247933575279",
+      "formatted": "<:Obfuscated_2_BRONZE:984147247933575279>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Obfuscated_2_BRONZE",
+      "id": "984147247933575279",
+      "formatted": "<:Obfuscated_2_BRONZE:984147247933575279>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "OBFUSCATED_FISH_2_GOLD": {
+    "normal": {
+      "name": "Obfuscated_2_GOLD",
+      "id": "984147565215907881",
+      "formatted": "<:Obfuscated_2_GOLD:984147565215907881>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Obfuscated_2_GOLD",
+      "id": "984147565215907881",
+      "formatted": "<:Obfuscated_2_GOLD:984147565215907881>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "OBFUSCATED_FISH_2_SILVER": {
+    "normal": {
+      "name": "Obfuscated_2_SILVER",
+      "id": "984147882699554816",
+      "formatted": "<:Obfuscated_2_SILVER:984147882699554816>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Obfuscated_2_SILVER",
+      "id": "984147882699554816",
+      "formatted": "<:Obfuscated_2_SILVER:984147882699554816>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "OBFUSCATED_FISH_3_BRONZE": {
+    "normal": {
+      "name": "Obfuscated_3_BRONZE",
+      "id": "984148199851827300",
+      "formatted": "<:Obfuscated_3_BRONZE:984148199851827300>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Obfuscated_3_BRONZE",
+      "id": "984148199851827300",
+      "formatted": "<:Obfuscated_3_BRONZE:984148199851827300>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "OBFUSCATED_FISH_3_SILVER": {
+    "normal": {
+      "name": "Obfuscated_3_SILVER",
+      "id": "984148517423566868",
+      "formatted": "<:Obfuscated_3_SILVER:984148517423566868>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Obfuscated_3_SILVER",
+      "id": "984148517423566868",
+      "formatted": "<:Obfuscated_3_SILVER:984148517423566868>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "SKELETON_FISH_BRONZE": {
+    "normal": {
+      "name": "Skeleton_Fish_BRONZE",
+      "id": "984148834420678746",
+      "formatted": "<:Skeleton_Fish_BRONZE:984148834420678746>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Skeleton_Fish_BRONZE",
+      "id": "984148834420678746",
+      "formatted": "<:Skeleton_Fish_BRONZE:984148834420678746>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "SKELETON_FISH_DIAMOND": {
+    "normal": {
+      "name": "Skeleton_Fish_DIAMOND",
+      "id": "984149152063692811",
+      "formatted": "<:Skeleton_Fish_DIAMOND:984149152063692811>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Skeleton_Fish_DIAMOND",
+      "id": "984149152063692811",
+      "formatted": "<:Skeleton_Fish_DIAMOND:984149152063692811>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "SKELETON_FISH_GOLD": {
+    "normal": {
+      "name": "Skeleton_Fish_GOLD",
+      "id": "984149469304090624",
+      "formatted": "<:Skeleton_Fish_GOLD:984149469304090624>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Skeleton_Fish_GOLD",
+      "id": "984149469304090624",
+      "formatted": "<:Skeleton_Fish_GOLD:984149469304090624>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "SKELETON_FISH_SILVER": {
+    "normal": {
+      "name": "Skeleton_Fish_SILVER",
+      "id": "984149786238283796",
+      "formatted": "<:Skeleton_Fish_SILVER:984149786238283796>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Skeleton_Fish_SILVER",
+      "id": "984149786238283796",
+      "formatted": "<:Skeleton_Fish_SILVER:984149786238283796>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "SLUGFISH_BRONZE": {
+    "normal": {
+      "name": "Slugfish_BRONZE",
+      "id": "984150103470268457",
+      "formatted": "<:Slugfish_BRONZE:984150103470268457>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Slugfish_BRONZE",
+      "id": "984150103470268457",
+      "formatted": "<:Slugfish_BRONZE:984150103470268457>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "SLUGFISH_DIAMOND": {
+    "normal": {
+      "name": "Slugfish_DIAMOND",
+      "id": "984150421234921563",
+      "formatted": "<:Slugfish_DIAMOND:984150421234921563>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Slugfish_DIAMOND",
+      "id": "984150421234921563",
+      "formatted": "<:Slugfish_DIAMOND:984150421234921563>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "SLUGFISH_GOLD": {
+    "normal": {
+      "name": "Slugfish_GOLD",
+      "id": "984150738248826880",
+      "formatted": "<:Slugfish_GOLD:984150738248826880>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Slugfish_GOLD",
+      "id": "984150738248826880",
+      "formatted": "<:Slugfish_GOLD:984150738248826880>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "SLUGFISH_SILVER": {
+    "normal": {
+      "name": "Slugfish_SILVER",
+      "id": "984151055791173723",
+      "formatted": "<:Slugfish_SILVER:984151055791173723>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Slugfish_SILVER",
+      "id": "984151055791173723",
+      "formatted": "<:Slugfish_SILVER:984151055791173723>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "SOUL_FISH_BRONZE": {
+    "normal": {
+      "name": "Soul_Fish_BRONZE",
+      "id": "984151373882986616",
+      "formatted": "<:Soul_Fish_BRONZE:984151373882986616>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Soul_Fish_BRONZE",
+      "id": "984151373882986616",
+      "formatted": "<:Soul_Fish_BRONZE:984151373882986616>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "SOUL_FISH_DIAMOND": {
+    "normal": {
+      "name": "Soul_Fish_DIAMOND",
+      "id": "984151691253395507",
+      "formatted": "<:Soul_Fish_DIAMOND:984151691253395507>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Soul_Fish_DIAMOND",
+      "id": "984151691253395507",
+      "formatted": "<:Soul_Fish_DIAMOND:984151691253395507>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "SOUL_FISH_GOLD": {
+    "normal": {
+      "name": "Soul_Fish_GOLD",
+      "id": "984152008204361788",
+      "formatted": "<:Soul_Fish_GOLD:984152008204361788>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Soul_Fish_GOLD",
+      "id": "984152008204361788",
+      "formatted": "<:Soul_Fish_GOLD:984152008204361788>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "SOUL_FISH_SILVER": {
+    "normal": {
+      "name": "Soul_Fish_SILVER",
+      "id": "984152325218267146",
+      "formatted": "<:Soul_Fish_SILVER:984152325218267146>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Soul_Fish_SILVER",
+      "id": "984152325218267146",
+      "formatted": "<:Soul_Fish_SILVER:984152325218267146>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "STEAMING_HOT_FLOUNDER_BRONZE": {
+    "normal": {
+      "name": "Steamed_Hot_Flounder_BRONZE",
+      "id": "984153978008895519",
+      "formatted": "<:Steamed_Hot_Flounder_BRONZE:984153978008895519>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Steamed_Hot_Flounder_BRONZE",
+      "id": "984153978008895519",
+      "formatted": "<:Steamed_Hot_Flounder_BRONZE:984153978008895519>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "STEAMING_HOT_FLOUNDER_DIAMOND": {
+    "normal": {
+      "name": "Steamed_Hot_Flounder_DIAMOND",
+      "id": "984153981020434433",
+      "formatted": "<:Steamed_Hot_Flounder_DIAMOND:984153981020434433>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Steamed_Hot_Flounder_DIAMOND",
+      "id": "984153981020434433",
+      "formatted": "<:Steamed_Hot_Flounder_DIAMOND:984153981020434433>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "STEAMING_HOT_FLOUNDER_GOLD": {
+    "normal": {
+      "name": "Steamed_Hot_Flounder_GOLD",
+      "id": "984153983725731850",
+      "formatted": "<:Steamed_Hot_Flounder_GOLD:984153983725731850>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Steamed_Hot_Flounder_GOLD",
+      "id": "984153983725731850",
+      "formatted": "<:Steamed_Hot_Flounder_GOLD:984153983725731850>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "STEAMING_HOT_FLOUNDER_SILVER": {
+    "normal": {
+      "name": "Steamed_Hot_Flounder_SILVER",
+      "id": "984153986078744707",
+      "formatted": "<:Steamed_Hot_Flounder_SILVER:984153986078744707>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Steamed_Hot_Flounder_SILVER",
+      "id": "984153986078744707",
+      "formatted": "<:Steamed_Hot_Flounder_SILVER:984153986078744707>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "SULPHUR_SKITTER_BRONZE": {
+    "normal": {
+      "name": "Sulpher_Skitter_BRONZE",
+      "id": "984153989199319041",
+      "formatted": "<:Sulpher_Skitter_BRONZE:984153989199319041>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Sulpher_Skitter_BRONZE",
+      "id": "984153989199319041",
+      "formatted": "<:Sulpher_Skitter_BRONZE:984153989199319041>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "SULPHUR_SKITTER_GOLD": {
+    "normal": {
+      "name": "Sulpher_Skitter_GOLD",
+      "id": "984154010326007879",
+      "formatted": "<:Sulpher_Skitter_GOLD:984154010326007879>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Sulpher_Skitter_GOLD",
+      "id": "984154010326007879",
+      "formatted": "<:Sulpher_Skitter_GOLD:984154010326007879>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "SULPHUR_SKITTER_SILVER": {
+    "normal": {
+      "name": "Sulpher_Skitter_SILVER",
+      "id": "984154013585010738",
+      "formatted": "<:Sulpher_Skitter_SILVER:984154013585010738>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Sulpher_Skitter_SILVER",
+      "id": "984154013585010738",
+      "formatted": "<:Sulpher_Skitter_SILVER:984154013585010738>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "VANILLE_BRONZE": {
+    "normal": {
+      "name": "Vanille_BRONZE",
+      "id": "984154017838014505",
+      "formatted": "<:Vanille_BRONZE:984154017838014505>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Vanille_BRONZE",
+      "id": "984154017838014505",
+      "formatted": "<:Vanille_BRONZE:984154017838014505>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "VANILLE_DIAMOND": {
+    "normal": {
+      "name": "Vanille_DIAMOND",
+      "id": "984154021952622642",
+      "formatted": "<:Vanille_DIAMOND:984154021952622642>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Vanille_DIAMOND",
+      "id": "984154021952622642",
+      "formatted": "<:Vanille_DIAMOND:984154021952622642>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "VANILLE_GOLD": {
+    "normal": {
+      "name": "Vanille_GOLD",
+      "id": "984154024527941652",
+      "formatted": "<:Vanille_GOLD:984154024527941652>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Vanille_GOLD",
+      "id": "984154024527941652",
+      "formatted": "<:Vanille_GOLD:984154024527941652>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "VANILLE_SILVER": {
+    "normal": {
+      "name": "Vanille_SILVER",
+      "id": "984154027304579162",
+      "formatted": "<:Vanille_SILVER:984154027304579162>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Vanille_SILVER",
+      "id": "984154027304579162",
+      "formatted": "<:Vanille_SILVER:984154027304579162>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "VOLCANIC_STONEFISH_BRONZE": {
+    "normal": {
+      "name": "Volcanic_Stonefish_BRONZE",
+      "id": "984154030177665045",
+      "formatted": "<:Volcanic_Stonefish_BRONZE:984154030177665045>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Volcanic_Stonefish_BRONZE",
+      "id": "984154030177665045",
+      "formatted": "<:Volcanic_Stonefish_BRONZE:984154030177665045>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "VOLCANIC_STONEFISH_DIAMOND": {
+    "normal": {
+      "name": "Volcanic_Stonefish_DIAMOND",
+      "id": "984154032505507961",
+      "formatted": "<:Volcanic_Stonefish_DIAMOND:984154032505507961>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Volcanic_Stonefish_DIAMOND",
+      "id": "984154032505507961",
+      "formatted": "<:Volcanic_Stonefish_DIAMOND:984154032505507961>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "VOLCANIC_STONEFISH_GOLD": {
+    "normal": {
+      "name": "Volcanic_Stonefish_GOLD",
+      "id": "984154035684798554",
+      "formatted": "<:Volcanic_Stonefish_GOLD:984154035684798554>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Volcanic_Stonefish_GOLD",
+      "id": "984154035684798554",
+      "formatted": "<:Volcanic_Stonefish_GOLD:984154035684798554>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "VOLCANIC_STONEFISH_SILVER": {
+    "normal": {
+      "name": "Volcanic_Stonefish_SILVER",
+      "id": "984154038360748032",
+      "formatted": "<:Volcanic_Stonefish_SILVER:984154038360748032>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Volcanic_Stonefish_SILVER",
+      "id": "984154038360748032",
+      "formatted": "<:Volcanic_Stonefish_SILVER:984154038360748032>",
+      "animated": false,
+      "enchanted": false
+    }
   }
 }
