@@ -59835,70 +59835,6 @@
       "enchanted": false
     }
   },
-  "KARATE_FISH_BRONZE": {
-    "normal": {
-      "name": "Karate_Fish_BRONZE",
-      "id": "984153797616107550",
-      "formatted": "<:Karate_Fish_BRONZE:984153797616107550>",
-      "animated": false,
-      "enchanted": false
-    },
-    "enchanted": {
-      "name": "Karate_Fish_BRONZE",
-      "id": "984153797616107550",
-      "formatted": "<:Karate_Fish_BRONZE:984153797616107550>",
-      "animated": false,
-      "enchanted": false
-    }
-  },
-  "KARATE_FISH_DIAMOND": {
-    "normal": {
-      "name": "Karate_Fish_DIAMOND",
-      "id": "984153800656949348",
-      "formatted": "<:Karate_Fish_DIAMOND:984153800656949348>",
-      "animated": false,
-      "enchanted": false
-    },
-    "enchanted": {
-      "name": "Karate_Fish_DIAMOND",
-      "id": "984153800656949348",
-      "formatted": "<:Karate_Fish_DIAMOND:984153800656949348>",
-      "animated": false,
-      "enchanted": false
-    }
-  },
-  "KARATE_FISH_GOLD": {
-    "normal": {
-      "name": "Karate_Fish_GOLD",
-      "id": "984153803081269278",
-      "formatted": "<:Karate_Fish_GOLD:984153803081269278>",
-      "animated": false,
-      "enchanted": false
-    },
-    "enchanted": {
-      "name": "Karate_Fish_GOLD",
-      "id": "984153803081269278",
-      "formatted": "<:Karate_Fish_GOLD:984153803081269278>",
-      "animated": false,
-      "enchanted": false
-    }
-  },
-  "KARATE_FISH_SILVER": {
-    "normal": {
-      "name": "Karate_Fish_SILVER",
-      "id": "984153806197624832",
-      "formatted": "<:Karate_Fish_SILVER:984153806197624832>",
-      "animated": false,
-      "enchanted": false
-    },
-    "enchanted": {
-      "name": "Karate_Fish_SILVER",
-      "id": "984153806197624832",
-      "formatted": "<:Karate_Fish_SILVER:984153806197624832>",
-      "animated": false,
-      "enchanted": false
-    }
-  },
   "LAVA_HORSE_BRONZE": {
     "normal": {
       "name": "Lavahorse_BRONZE",
@@ -60667,7 +60603,7 @@
       "enchanted": false
     }
   },
-  "Karate_Fish_BRONZE": {
+  "KARATE_FISH_BRONZE": {
     "normal": {
       "name": "Karate_Fish_BRONZE",
       "id": "986709651229904996",
@@ -60683,7 +60619,7 @@
       "enchanted": false
     }
   },
-  "Karate_Fish_DIAMOND": {
+  "KARATE_FISH_DIAMOND": {
     "normal": {
       "name": "Karate_Fish_DIAMOND",
       "id": "986709653683601519",
@@ -60699,7 +60635,7 @@
       "enchanted": false
     }
   },
-  "Karate_Fish_GOLD": {
+  "KARATE_FISH_GOLD": {
     "normal": {
       "name": "Karate_Fish_GOLD",
       "id": "986709656229544037",
@@ -60711,6 +60647,22 @@
       "name": "Karate_Fish_GOLD",
       "id": "986709656229544037",
       "formatted": "<:Karate_Fish_GOLD:986709656229544037>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "KARATE_FISH_SILVER": {
+    "normal": {
+      "name": "Karate_Fish_SILVER",
+      "id": "984153806197624832",
+      "formatted": "<:Karate_Fish_SILVER:984153806197624832>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Karate_Fish_SILVER",
+      "id": "984153806197624832",
+      "formatted": "<:Karate_Fish_SILVER:984153806197624832>",
       "animated": false,
       "enchanted": false
     }
