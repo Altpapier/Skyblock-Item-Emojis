@@ -59835,6 +59835,70 @@
       "enchanted": false
     }
   },
+  "KARATE_FISH_BRONZE": {
+    "normal": {
+      "name": "Karate_Fish_BRONZE",
+      "id": "984153797616107550",
+      "formatted": "<:Karate_Fish_BRONZE:984153797616107550>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Karate_Fish_BRONZE",
+      "id": "984153797616107550",
+      "formatted": "<:Karate_Fish_BRONZE:984153797616107550>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "KARATE_FISH_DIAMOND": {
+    "normal": {
+      "name": "Karate_Fish_DIAMOND",
+      "id": "984153800656949348",
+      "formatted": "<:Karate_Fish_DIAMOND:984153800656949348>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Karate_Fish_DIAMOND",
+      "id": "984153800656949348",
+      "formatted": "<:Karate_Fish_DIAMOND:984153800656949348>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "KARATE_FISH_GOLD": {
+    "normal": {
+      "name": "Karate_Fish_GOLD",
+      "id": "984153803081269278",
+      "formatted": "<:Karate_Fish_GOLD:984153803081269278>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Karate_Fish_GOLD",
+      "id": "984153803081269278",
+      "formatted": "<:Karate_Fish_GOLD:984153803081269278>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "KARATE_FISH_SILVER": {
+    "normal": {
+      "name": "Karate_Fish_SILVER",
+      "id": "984153806197624832",
+      "formatted": "<:Karate_Fish_SILVER:984153806197624832>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Karate_Fish_SILVER",
+      "id": "984153806197624832",
+      "formatted": "<:Karate_Fish_SILVER:984153806197624832>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
   "LAVA_HORSE_BRONZE": {
     "normal": {
       "name": "Lavahorse_BRONZE",
@@ -60603,39 +60667,39 @@
       "enchanted": false
     }
   },
-  "KARATE_FISH_BRONZE": {
+  "Karate_Fish_BRONZE": {
     "normal": {
       "name": "Karate_Fish_BRONZE",
-      "id": "986709651229904996",
-      "formatted": "<:Karate_Fish_BRONZE:986709651229904996>",
+      "id": "1000752491299868692",
+      "formatted": "<:Karate_Fish_BRONZE:1000752491299868692>",
       "animated": false,
       "enchanted": false
     },
     "enchanted": {
       "name": "Karate_Fish_BRONZE",
-      "id": "986709651229904996",
-      "formatted": "<:Karate_Fish_BRONZE:986709651229904996>",
+      "id": "1000752491299868692",
+      "formatted": "<:Karate_Fish_BRONZE:1000752491299868692>",
       "animated": false,
       "enchanted": false
     }
   },
-  "KARATE_FISH_DIAMOND": {
+  "Karate_Fish_DIAMOND": {
     "normal": {
       "name": "Karate_Fish_DIAMOND",
-      "id": "986709653683601519",
-      "formatted": "<:Karate_Fish_DIAMOND:986709653683601519>",
+      "id": "1000752493707411527",
+      "formatted": "<:Karate_Fish_DIAMOND:1000752493707411527>",
       "animated": false,
       "enchanted": false
     },
     "enchanted": {
       "name": "Karate_Fish_DIAMOND",
-      "id": "986709653683601519",
-      "formatted": "<:Karate_Fish_DIAMOND:986709653683601519>",
+      "id": "1000752493707411527",
+      "formatted": "<:Karate_Fish_DIAMOND:1000752493707411527>",
       "animated": false,
       "enchanted": false
     }
   },
-  "KARATE_FISH_GOLD": {
+  "Karate_Fish_GOLD": {
     "normal": {
       "name": "Karate_Fish_GOLD",
       "id": "986709656229544037",
@@ -60651,18 +60715,130 @@
       "enchanted": false
     }
   },
-  "KARATE_FISH_SILVER": {
+  "PUFFERFISH_PERSONALITY": {
     "normal": {
-      "name": "Karate_Fish_SILVER",
-      "id": "984153806197624832",
-      "formatted": "<:Karate_Fish_SILVER:984153806197624832>",
+      "name": "Pufferfish_Minion_Skin",
+      "id": "1000752697659629638",
+      "formatted": "<:Pufferfish_Minion_Skin:1000752697659629638>",
       "animated": false,
       "enchanted": false
     },
     "enchanted": {
-      "name": "Karate_Fish_SILVER",
-      "id": "984153806197624832",
-      "formatted": "<:Karate_Fish_SILVER:984153806197624832>",
+      "name": "Pufferfish_Minion_Skin",
+      "id": "1000752697659629638",
+      "formatted": "<:Pufferfish_Minion_Skin:1000752697659629638>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "FISH_PERSONALITY": {
+    "normal": {
+      "name": "Fish_Minion_Skin",
+      "id": "1000753037033345024",
+      "formatted": "<:Fish_Minion_Skin:1000753037033345024>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Fish_Minion_Skin",
+      "id": "1000753037033345024",
+      "formatted": "<:Fish_Minion_Skin:1000753037033345024>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "VOLLEYBALL": {
+    "normal": {
+      "name": "Volleyball_Court",
+      "id": "1000753376562257970",
+      "formatted": "<:Volleyball_Court:1000753376562257970>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Volleyball_Court",
+      "id": "1000753376562257970",
+      "formatted": "<:Volleyball_Court:1000753376562257970>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "ICE_CREAM_CART": {
+    "normal": {
+      "name": "Ice_Cream_Cart",
+      "id": "1000753715256492072",
+      "formatted": "<:Ice_Cream_Cart:1000753715256492072>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Ice_Cream_Cart",
+      "id": "1000753715256492072",
+      "formatted": "<:Ice_Cream_Cart:1000753715256492072>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "CRAB": {
+    "normal": {
+      "name": "Crab",
+      "id": "1000754054315642970",
+      "formatted": "<:Crab:1000754054315642970>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Crab",
+      "id": "1000754054315642970",
+      "formatted": "<:Crab:1000754054315642970>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "HAMMOCK": {
+    "normal": {
+      "name": "Hammock",
+      "id": "1000754393932640316",
+      "formatted": "<:Hammock:1000754393932640316>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Hammock",
+      "id": "1000754393932640316",
+      "formatted": "<:Hammock:1000754393932640316>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "SMALL_POOL": {
+    "normal": {
+      "name": "Small_Pool",
+      "id": "1000754733289582702",
+      "formatted": "<:Small_Pool:1000754733289582702>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Small_Pool",
+      "id": "1000754733289582702",
+      "formatted": "<:Small_Pool:1000754733289582702>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "TOTEM_OF_CORRUPTION": {
+    "normal": {
+      "name": "Totem_of_Corruption",
+      "id": "1000755328310325408",
+      "formatted": "<:Totem_of_Corruption:1000755328310325408>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Totem_of_Corruption",
+      "id": "1000755328310325408",
+      "formatted": "<:Totem_of_Corruption:1000755328310325408>",
       "animated": false,
       "enchanted": false
     }
