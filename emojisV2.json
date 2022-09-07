@@ -62330,5 +62330,453 @@
       "animated": true,
       "enchanted": true
     }
+  },
+  "GLOWING_MUSHROOM": {
+    "normal": {
+      "name": "Glowing_Mushroom",
+      "id": "1017076143494533181",
+      "formatted": "<:Glowing_Mushroom:1017076143494533181>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Glowing_Mushroom",
+      "id": "1017076143494533181",
+      "formatted": "<:Glowing_Mushroom:1017076143494533181>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "CHUM": {
+    "normal": {
+      "name": "Chum",
+      "id": "1017076148607402056",
+      "formatted": "<:Chum:1017076148607402056>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Chum",
+      "id": "1017076148607402056",
+      "formatted": "<:Chum:1017076148607402056>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "MOBYS_SHEARS": {
+    "normal": {
+      "name": "Mobys_Shears",
+      "id": "1017076153686708404",
+      "formatted": "<:Mobys_Shears:1017076153686708404>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Mobys_Shears",
+      "id": "1017076345425117286",
+      "formatted": "<a:Mobys_Shears:1017076345425117286>",
+      "animated": true,
+      "enchanted": true
+    }
+  },
+  "EMPTY_CHUM_BUCKET": {
+    "normal": {
+      "name": "Empty_Chum_Bucket",
+      "id": "1017076159013458041",
+      "formatted": "<:Empty_Chum_Bucket:1017076159013458041>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Empty_Chum_Bucket",
+      "id": "1017076159013458041",
+      "formatted": "<:Empty_Chum_Bucket:1017076159013458041>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "FULL_CHUM_BUCKET": {
+    "normal": {
+      "name": "Full_Chum_Bucket",
+      "id": "1017076166185721856",
+      "formatted": "<:Full_Chum_Bucket:1017076166185721856>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Full_Chum_Bucket",
+      "id": "1017076166185721856",
+      "formatted": "<:Full_Chum_Bucket:1017076166185721856>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "GLOWY_CHUM_BAIT": {
+    "normal": {
+      "name": "Glowy_Chum_Bait",
+      "id": "1017076175459332096",
+      "formatted": "<:Glowy_Chum_Bait:1017076175459332096>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Glowy_Chum_Bait",
+      "id": "1017076175459332096",
+      "formatted": "<:Glowy_Chum_Bait:1017076175459332096>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "CHUMMING_TALISMAN": {
+    "normal": {
+      "name": "Chumming_Talisman",
+      "id": "1017076181176164422",
+      "formatted": "<:Chumming_Talisman:1017076181176164422>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Chumming_Talisman",
+      "id": "1017076181176164422",
+      "formatted": "<:Chumming_Talisman:1017076181176164422>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "LUMINOUS_BRACELET": {
+    "normal": {
+      "name": "Luminous_Bracelet",
+      "id": "1017076185500483594",
+      "formatted": "<:Luminous_Bracelet:1017076185500483594>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Luminous_Bracelet",
+      "id": "1017076185500483594",
+      "formatted": "<:Luminous_Bracelet:1017076185500483594>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "CHUM_ROD": {
+    "normal": {
+      "name": "Chum_Rod",
+      "id": "1017076189300539482",
+      "formatted": "<:Chum_Rod:1017076189300539482>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Chum_Rod",
+      "id": "1017076370263789708",
+      "formatted": "<a:Chum_Rod:1017076370263789708>",
+      "animated": true,
+      "enchanted": true
+    }
+  },
+  "WINTER_WATER_ORB": {
+    "normal": {
+      "name": "Winter_Water_Orb",
+      "id": "1017076192572084244",
+      "formatted": "<:Winter_Water_Orb:1017076192572084244>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Winter_Water_Orb",
+      "id": "1017076192572084244",
+      "formatted": "<:Winter_Water_Orb:1017076192572084244>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "SPOOKY_WATER_ORB": {
+    "normal": {
+      "name": "Spooky_Water_Orb",
+      "id": "1017076196552482868",
+      "formatted": "<:Spooky_Water_Orb:1017076196552482868>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Spooky_Water_Orb",
+      "id": "1017076196552482868",
+      "formatted": "<:Spooky_Water_Orb:1017076196552482868>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "LAVA_WATER_ORB": {
+    "normal": {
+      "name": "Lava_Water_Orb",
+      "id": "1017076200335736905",
+      "formatted": "<:Lava_Water_Orb:1017076200335736905>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Lava_Water_Orb",
+      "id": "1017076200335736905",
+      "formatted": "<:Lava_Water_Orb:1017076200335736905>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "WATER_ORB": {
+    "normal": {
+      "name": "Water_Orb",
+      "id": "1017076204559417445",
+      "formatted": "<:Water_Orb:1017076204559417445>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Water_Orb",
+      "id": "1017076204559417445",
+      "formatted": "<:Water_Orb:1017076204559417445>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "BOBBIN_SCRIPTURES": {
+    "normal": {
+      "name": "Bobbin_Scriptures",
+      "id": "1017076207617065010",
+      "formatted": "<:Bobbin_Scriptures:1017076207617065010>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Bobbin_Scriptures",
+      "id": "1017076207617065010",
+      "formatted": "<:Bobbin_Scriptures:1017076207617065010>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "SHARK_WATER_ORB": {
+    "normal": {
+      "name": "Shark_Water_Orb",
+      "id": "1017076215275868222",
+      "formatted": "<:Shark_Water_Orb:1017076215275868222>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Shark_Water_Orb",
+      "id": "1017076215275868222",
+      "formatted": "<:Shark_Water_Orb:1017076215275868222>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "ABIPHONE_XIV_ENORMOUS": {
+    "normal": {
+      "name": "Abiphone_XIV_Enormous",
+      "id": "1017076221122728076",
+      "formatted": "<:Abiphone_XIV_Enormous:1017076221122728076>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Abiphone_XIV_Enormous",
+      "id": "1017076221122728076",
+      "formatted": "<:Abiphone_XIV_Enormous:1017076221122728076>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "ABIPHONE_XIV_ENORMOUS_PURPLE": {
+    "normal": {
+      "name": "Abiphone_XIV_Enormous",
+      "id": "1017076224943722556",
+      "formatted": "<:Abiphone_XIV_Enormous:1017076224943722556>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Abiphone_XIV_Enormous",
+      "id": "1017076224943722556",
+      "formatted": "<:Abiphone_XIV_Enormous:1017076224943722556>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "ABIPHONE_XIV_ENORMOUS_BLACK": {
+    "normal": {
+      "name": "Abiphone_XIV_Enormous",
+      "id": "1017076235647602818",
+      "formatted": "<:Abiphone_XIV_Enormous:1017076235647602818>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Abiphone_XIV_Enormous",
+      "id": "1017076235647602818",
+      "formatted": "<:Abiphone_XIV_Enormous:1017076235647602818>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "PITCHIN_KOI": {
+    "normal": {
+      "name": "Pitchin_Koi",
+      "id": "1017076246716366868",
+      "formatted": "<:Pitchin_Koi:1017076246716366868>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Pitchin_Koi",
+      "id": "1017076246716366868",
+      "formatted": "<:Pitchin_Koi:1017076246716366868>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "FINWAVE_GLOVES": {
+    "normal": {
+      "name": "Finwave_Gloves",
+      "id": "1017076260171677756",
+      "formatted": "<:Finwave_Gloves:1017076260171677756>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Finwave_Gloves",
+      "id": "1017076260171677756",
+      "formatted": "<:Finwave_Gloves:1017076260171677756>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "FINWAVE_CLOAK": {
+    "normal": {
+      "name": "Finwave_Cloak",
+      "id": "1017076264630243408",
+      "formatted": "<:Finwave_Cloak:1017076264630243408>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Finwave_Cloak",
+      "id": "1017076264630243408",
+      "formatted": "<:Finwave_Cloak:1017076264630243408>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "GILLSPLASH_GLOVES": {
+    "normal": {
+      "name": "Gillsplash_Gloves",
+      "id": "1017076270636478494",
+      "formatted": "<:Gillsplash_Gloves:1017076270636478494>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Gillsplash_Gloves",
+      "id": "1017076270636478494",
+      "formatted": "<:Gillsplash_Gloves:1017076270636478494>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "FINWAVE_BELT": {
+    "normal": {
+      "name": "Finwave_Belt",
+      "id": "1017076275438952550",
+      "formatted": "<:Finwave_Belt:1017076275438952550>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Finwave_Belt",
+      "id": "1017076275438952550",
+      "formatted": "<:Finwave_Belt:1017076275438952550>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "GILLSPLASH_CLOAK": {
+    "normal": {
+      "name": "Gillsplash_Cloak",
+      "id": "1017076279327076483",
+      "formatted": "<:Gillsplash_Cloak:1017076279327076483>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Gillsplash_Cloak",
+      "id": "1017076279327076483",
+      "formatted": "<:Gillsplash_Cloak:1017076279327076483>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "ICHTHYIC_GLOVES": {
+    "normal": {
+      "name": "Ichthyic_Gloves",
+      "id": "1017076283458457660",
+      "formatted": "<:Ichthyic_Gloves:1017076283458457660>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Ichthyic_Gloves",
+      "id": "1017076283458457660",
+      "formatted": "<:Ichthyic_Gloves:1017076283458457660>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "GILLSPLASH_BELT": {
+    "normal": {
+      "name": "Gillsplash_Belt",
+      "id": "1017076300579618816",
+      "formatted": "<:Gillsplash_Belt:1017076300579618816>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Gillsplash_Belt",
+      "id": "1017076300579618816",
+      "formatted": "<:Gillsplash_Belt:1017076300579618816>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "ICHTHYIC_CLOAK": {
+    "normal": {
+      "name": "Ichthyic_Cloak",
+      "id": "1017076314299187220",
+      "formatted": "<:Ichthyic_Cloak:1017076314299187220>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Ichthyic_Cloak",
+      "id": "1017076314299187220",
+      "formatted": "<:Ichthyic_Cloak:1017076314299187220>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "ICHTHYIC_BELT": {
+    "normal": {
+      "name": "Ichthyic_Belt",
+      "id": "1017076319441399842",
+      "formatted": "<:Ichthyic_Belt:1017076319441399842>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Ichthyic_Belt",
+      "id": "1017076319441399842",
+      "formatted": "<:Ichthyic_Belt:1017076319441399842>",
+      "animated": false,
+      "enchanted": false
+    }
   }
 }
