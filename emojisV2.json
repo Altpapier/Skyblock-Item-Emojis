@@ -62778,5 +62778,229 @@
       "animated": false,
       "enchanted": false
     }
+  },
+  "GREAT_SPOOK_NECKLACE": {
+    "normal": {
+      "name": "Great_Spook_Necklace",
+      "id": "1029788161787838514",
+      "formatted": "<:Great_Spook_Necklace:1029788161787838514>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Great_Spook_Necklace",
+      "id": "1029788161787838514",
+      "formatted": "<:Great_Spook_Necklace:1029788161787838514>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "GREAT_SPOOK_BELT": {
+    "normal": {
+      "name": "Great_Spook_Belt",
+      "id": "1029788166015688796",
+      "formatted": "<:Great_Spook_Belt:1029788166015688796>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Great_Spook_Belt",
+      "id": "1029788166015688796",
+      "formatted": "<:Great_Spook_Belt:1029788166015688796>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "GREAT_SPOOK_TALISMAN": {
+    "normal": {
+      "name": "Great_Spook_Talisman",
+      "id": "1029788169324994615",
+      "formatted": "<:Great_Spook_Talisman:1029788169324994615>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Great_Spook_Talisman",
+      "id": "1029788169324994615",
+      "formatted": "<:Great_Spook_Talisman:1029788169324994615>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "GREAT_SPOOK_ARTIFACT": {
+    "normal": {
+      "name": "Great_Spook_Artifact",
+      "id": "1029788173070520350",
+      "formatted": "<:Great_Spook_Artifact:1029788173070520350>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Great_Spook_Artifact",
+      "id": "1029788173070520350",
+      "formatted": "<:Great_Spook_Artifact:1029788173070520350>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "GREAT_SPOOK_GLOVES": {
+    "normal": {
+      "name": "Great_Spook_Gloves",
+      "id": "1029788176610500698",
+      "formatted": "<:Great_Spook_Gloves:1029788176610500698>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Great_Spook_Gloves",
+      "id": "1029788176610500698",
+      "formatted": "<:Great_Spook_Gloves:1029788176610500698>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "GREAT_SPOOK_CLOAK": {
+    "normal": {
+      "name": "Great_Spook_Cloak",
+      "id": "1029788179995304047",
+      "formatted": "<:Great_Spook_Cloak:1029788179995304047>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Great_Spook_Cloak",
+      "id": "1029788179995304047",
+      "formatted": "<:Great_Spook_Cloak:1029788179995304047>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "GREAT_SPOOK_SWORD": {
+    "normal": {
+      "name": "Great_Spook_Sword",
+      "id": "1029788184600649748",
+      "formatted": "<:Great_Spook_Sword:1029788184600649748>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Great_Spook_Sword",
+      "id": "1029788235636945006",
+      "formatted": "<a:Great_Spook_Sword:1029788235636945006>",
+      "animated": true,
+      "enchanted": true
+    }
+  },
+  "GREAT_SPOOK_RING": {
+    "normal": {
+      "name": "Great_Spook_Ring",
+      "id": "1029788188660736060",
+      "formatted": "<:Great_Spook_Ring:1029788188660736060>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Great_Spook_Ring",
+      "id": "1029788188660736060",
+      "formatted": "<:Great_Spook_Ring:1029788188660736060>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "WITCH_HAT": {
+    "normal": {
+      "name": "Witch_Hat",
+      "id": "1029788192423030824",
+      "formatted": "<:Witch_Hat:1029788192423030824>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Witch_Hat",
+      "id": "1029788192423030824",
+      "formatted": "<:Witch_Hat:1029788192423030824>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "HALLOWEEN_SCARECROW": {
+    "normal": {
+      "name": "Halloween_Scarecrow",
+      "id": "1029788196265001030",
+      "formatted": "<:Halloween_Scarecrow:1029788196265001030>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Halloween_Scarecrow",
+      "id": "1029788196265001030",
+      "formatted": "<:Halloween_Scarecrow:1029788196265001030>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "HANGING_REAPER": {
+    "normal": {
+      "name": "Hanging_Reaper",
+      "id": "1029788200316706907",
+      "formatted": "<:Hanging_Reaper:1029788200316706907>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Hanging_Reaper",
+      "id": "1029788200316706907",
+      "formatted": "<:Hanging_Reaper:1029788200316706907>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "PUMPKIN_CRAFTING_TABLE": {
+    "normal": {
+      "name": "Pumpkin_Crafting_Table",
+      "id": "1029788203621822564",
+      "formatted": "<:Pumpkin_Crafting_Table:1029788203621822564>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Pumpkin_Crafting_Table",
+      "id": "1029788203621822564",
+      "formatted": "<:Pumpkin_Crafting_Table:1029788203621822564>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "SKELETON_STATUE": {
+    "normal": {
+      "name": "Skeleton_Statue",
+      "id": "1029788206767542344",
+      "formatted": "<:Skeleton_Statue:1029788206767542344>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Skeleton_Statue",
+      "id": "1029788206767542344",
+      "formatted": "<:Skeleton_Statue:1029788206767542344>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "GREAT_WHITE_TOOTH_MEAL": {
+    "normal": {
+      "name": "Great_White_Tooth_Meal",
+      "id": "1029788210601136238",
+      "formatted": "<:Great_White_Tooth_Meal:1029788210601136238>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Great_White_Tooth_Meal",
+      "id": "1029788210601136238",
+      "formatted": "<:Great_White_Tooth_Meal:1029788210601136238>",
+      "animated": false,
+      "enchanted": false
+    }
   }
 }
