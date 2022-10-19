@@ -63002,5 +63002,757 @@
       "animated": false,
       "enchanted": false
     }
+  },
+  "POCKET_SACK_IN_A_SACK": {
+    "normal": {
+      "name": "Pocket_SackinaSack",
+      "id": "1032333131820318760",
+      "formatted": "<:Pocket_SackinaSack:1032333131820318760>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Pocket_SackinaSack",
+      "id": "1032333131820318760",
+      "formatted": "<:Pocket_SackinaSack:1032333131820318760>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "DITTO_BLOB": {
+    "normal": {
+      "name": "Ditto_Blob",
+      "id": "1032333135368691772",
+      "formatted": "<:Ditto_Blob:1032333135368691772>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Ditto_Blob",
+      "id": "1032333135368691772",
+      "formatted": "<:Ditto_Blob:1032333135368691772>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "ABICASE": {
+    "normal": {
+      "name": "Abicase",
+      "id": "1032333140427030529",
+      "formatted": "<:Abicase:1032333140427030529>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Abicase",
+      "id": "1032333140427030529",
+      "formatted": "<:Abicase:1032333140427030529>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "WISHING_WELL": {
+    "normal": {
+      "name": "Wishing_Well",
+      "id": "1032333143941853285",
+      "formatted": "<:Wishing_Well:1032333143941853285>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Wishing_Well",
+      "id": "1032333143941853285",
+      "formatted": "<:Wishing_Well:1032333143941853285>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "FORGE_PORTAL": {
+    "normal": {
+      "name": "Portal_to_The_Forge",
+      "id": "1032333146793975959",
+      "formatted": "<:Portal_to_The_Forge:1032333146793975959>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Portal_to_The_Forge",
+      "id": "1032333146793975959",
+      "formatted": "<:Portal_to_The_Forge:1032333146793975959>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "TOP_OF_SPIDERS_DEN_PORTAL": {
+    "normal": {
+      "name": "Portal_to_the_Top_of_the_Nest",
+      "id": "1032333149864210462",
+      "formatted": "<:Portal_to_the_Top_of_the_Nest:1032333149864210462>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Portal_to_the_Top_of_the_Nest",
+      "id": "1032333149864210462",
+      "formatted": "<:Portal_to_the_Top_of_the_Nest:1032333149864210462>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "WASTELAND_PORTAL": {
+    "normal": {
+      "name": "Portal_to_the_Wasteland",
+      "id": "1032333152900894750",
+      "formatted": "<:Portal_to_the_Wasteland:1032333152900894750>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Portal_to_the_Wasteland",
+      "id": "1032333152900894750",
+      "formatted": "<:Portal_to_the_Wasteland:1032333152900894750>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "CRYSTAL_HOLLOWS_PORTAL": {
+    "normal": {
+      "name": "Portal_to_the_Crystal_Hollows",
+      "id": "1032333156893872230",
+      "formatted": "<:Portal_to_the_Crystal_Hollows:1032333156893872230>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Portal_to_the_Crystal_Hollows",
+      "id": "1032333156893872230",
+      "formatted": "<:Portal_to_the_Crystal_Hollows:1032333156893872230>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "VOID_SEPULTURE_PORTAL": {
+    "normal": {
+      "name": "Portal_to_the_Void_Sepulture",
+      "id": "1032333160073150524",
+      "formatted": "<:Portal_to_the_Void_Sepulture:1032333160073150524>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Portal_to_the_Void_Sepulture",
+      "id": "1032333160073150524",
+      "formatted": "<:Portal_to_the_Void_Sepulture:1032333160073150524>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "HUB_CASTLE_PORTAL": {
+    "normal": {
+      "name": "Portal_to_the_Hub_Castle",
+      "id": "1032333163759931402",
+      "formatted": "<:Portal_to_the_Hub_Castle:1032333163759931402>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Portal_to_the_Hub_Castle",
+      "id": "1032333163759931402",
+      "formatted": "<:Portal_to_the_Hub_Castle:1032333163759931402>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "DWARVEN_MINES_PORTAL": {
+    "normal": {
+      "name": "Portal_to_the_Dwarven_Mines",
+      "id": "1032333167182491708",
+      "formatted": "<:Portal_to_the_Dwarven_Mines:1032333167182491708>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Portal_to_the_Dwarven_Mines",
+      "id": "1032333167182491708",
+      "formatted": "<:Portal_to_the_Dwarven_Mines:1032333167182491708>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "DARK_AUCTION_PORTAL": {
+    "normal": {
+      "name": "Portal_to_the_Dark_Auction",
+      "id": "1032333170873471058",
+      "formatted": "<:Portal_to_the_Dark_Auction:1032333170873471058>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Portal_to_the_Dark_Auction",
+      "id": "1032333170873471058",
+      "formatted": "<:Portal_to_the_Dark_Auction:1032333170873471058>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "CRYSTAL_NUCLEUS_PORTAL": {
+    "normal": {
+      "name": "Portal_to_the_Crystal_Nucleus",
+      "id": "1032333174858059826",
+      "formatted": "<:Portal_to_the_Crystal_Nucleus:1032333174858059826>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Portal_to_the_Crystal_Nucleus",
+      "id": "1032333174858059826",
+      "formatted": "<:Portal_to_the_Crystal_Nucleus:1032333174858059826>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "DRAGONTAIL_PORTAL": {
+    "normal": {
+      "name": "Portal_to_Dragontail",
+      "id": "1032333177739546674",
+      "formatted": "<:Portal_to_Dragontail:1032333177739546674>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Portal_to_Dragontail",
+      "id": "1032333177739546674",
+      "formatted": "<:Portal_to_Dragontail:1032333177739546674>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "KUUDRA_SKULL_PORTAL": {
+    "normal": {
+      "name": "Portal_to_the_Forgotten_Skull",
+      "id": "1032333181317287966",
+      "formatted": "<:Portal_to_the_Forgotten_Skull:1032333181317287966>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Portal_to_the_Forgotten_Skull",
+      "id": "1032333181317287966",
+      "formatted": "<:Portal_to_the_Forgotten_Skull:1032333181317287966>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "SMOLDERING_TOMB_PORTAL": {
+    "normal": {
+      "name": "Portal_to_the_Smoldering_Tomb",
+      "id": "1032333185654214676",
+      "formatted": "<:Portal_to_the_Smoldering_Tomb:1032333185654214676>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Portal_to_the_Smoldering_Tomb",
+      "id": "1032333185654214676",
+      "formatted": "<:Portal_to_the_Smoldering_Tomb:1032333185654214676>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "DRAGON_NEST_PORTAL": {
+    "normal": {
+      "name": "Portal_to_the_Dragons_Nest",
+      "id": "1032333188749602857",
+      "formatted": "<:Portal_to_the_Dragons_Nest:1032333188749602857>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Portal_to_the_Dragons_Nest",
+      "id": "1032333188749602857",
+      "formatted": "<:Portal_to_the_Dragons_Nest:1032333188749602857>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "HUB_CRYPTS_PORTAL": {
+    "normal": {
+      "name": "Portal_to_the_Hub_Crypts",
+      "id": "1032333192218288208",
+      "formatted": "<:Portal_to_the_Hub_Crypts:1032333192218288208>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Portal_to_the_Hub_Crypts",
+      "id": "1032333192218288208",
+      "formatted": "<:Portal_to_the_Hub_Crypts:1032333192218288208>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "SCARLETON_PORTAL": {
+    "normal": {
+      "name": "Portal_to_Scarleton",
+      "id": "1032333195649220700",
+      "formatted": "<:Portal_to_Scarleton:1032333195649220700>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Portal_to_Scarleton",
+      "id": "1032333195649220700",
+      "formatted": "<:Portal_to_Scarleton:1032333195649220700>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "MUSEUM_PORTAL": {
+    "normal": {
+      "name": "Portal_to_the_Museum",
+      "id": "1032333199491219567",
+      "formatted": "<:Portal_to_the_Museum:1032333199491219567>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Portal_to_the_Museum",
+      "id": "1032333199491219567",
+      "formatted": "<:Portal_to_the_Museum:1032333199491219567>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "HOWLING_CAVE_PORTAL": {
+    "normal": {
+      "name": "Portal_to_the_Howling_Caves",
+      "id": "1032333203802951680",
+      "formatted": "<:Portal_to_the_Howling_Caves:1032333203802951680>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Portal_to_the_Howling_Caves",
+      "id": "1032333203802951680",
+      "formatted": "<:Portal_to_the_Howling_Caves:1032333203802951680>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "ENDER_GAUNTLET": {
+    "normal": {
+      "name": "Ender_Gauntlet",
+      "id": "1032333206810263653",
+      "formatted": "<:Ender_Gauntlet:1032333206810263653>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Ender_Gauntlet",
+      "id": "1032333206810263653",
+      "formatted": "<:Ender_Gauntlet:1032333206810263653>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "ENDER_CLOAK": {
+    "normal": {
+      "name": "Ender_Cloak",
+      "id": "1032333210127970314",
+      "formatted": "<:Ender_Cloak:1032333210127970314>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Ender_Cloak",
+      "id": "1032333210127970314",
+      "formatted": "<:Ender_Cloak:1032333210127970314>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "DRAGONFADE_CLOAK": {
+    "normal": {
+      "name": "Dragonfade_Cloak",
+      "id": "1032333213948989460",
+      "formatted": "<:Dragonfade_Cloak:1032333213948989460>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Dragonfade_Cloak",
+      "id": "1032333213948989460",
+      "formatted": "<:Dragonfade_Cloak:1032333213948989460>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "ENDER_NECKLACE": {
+    "normal": {
+      "name": "Ender_Necklace",
+      "id": "1032333217463816313",
+      "formatted": "<:Ender_Necklace:1032333217463816313>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Ender_Necklace",
+      "id": "1032333217463816313",
+      "formatted": "<:Ender_Necklace:1032333217463816313>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "DRAGONFUSE_GLOVE": {
+    "normal": {
+      "name": "Dragonfuse_Glove",
+      "id": "1032333220701806613",
+      "formatted": "<:Dragonfuse_Glove:1032333220701806613>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Dragonfuse_Glove",
+      "id": "1032333220701806613",
+      "formatted": "<:Dragonfuse_Glove:1032333220701806613>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "ENDER_BELT": {
+    "normal": {
+      "name": "Ender_Belt",
+      "id": "1032333224027897977",
+      "formatted": "<:Ender_Belt:1032333224027897977>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Ender_Belt",
+      "id": "1032333224027897977",
+      "formatted": "<:Ender_Belt:1032333224027897977>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "DEEPTERROR_MIXIN": {
+    "normal": {
+      "name": "Deepterror_Mixin",
+      "id": "1032333227551113301",
+      "formatted": "<:Deepterror_Mixin:1032333227551113301>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Deepterror_Mixin",
+      "id": "1032333227551113301",
+      "formatted": "<:Deepterror_Mixin:1032333227551113301>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "VOID_SWORD": {
+    "normal": {
+      "name": "Void_Sword",
+      "id": "1032333231191765103",
+      "formatted": "<:Void_Sword:1032333231191765103>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Void_Sword",
+      "id": "1032333231191765103",
+      "formatted": "<:Void_Sword:1032333231191765103>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "DRACONIC_BLADE": {
+    "normal": {
+      "name": "Draconic_Blade",
+      "id": "1032333235155374100",
+      "formatted": "<:Draconic_Blade:1032333235155374100>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Draconic_Blade",
+      "id": "1032333235155374100",
+      "formatted": "<:Draconic_Blade:1032333235155374100>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "DRAGON_SHORTBOW": {
+    "normal": {
+      "name": "Dragon_Shortbow",
+      "id": "1032333238535983125",
+      "formatted": "<:Dragon_Shortbow:1032333238535983125>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Dragon_Shortbow",
+      "id": "1032333238535983125",
+      "formatted": "<:Dragon_Shortbow:1032333238535983125>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "DRACONIC_ARTIFACT": {
+    "normal": {
+      "name": "Draconic_Artifact",
+      "id": "1032333342097547296",
+      "formatted": "<:Draconic_Artifact:1032333342097547296>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Draconic_Artifact",
+      "id": "1032333342097547296",
+      "formatted": "<:Draconic_Artifact:1032333342097547296>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "DRACONIC_RING": {
+    "normal": {
+      "name": "Draconic_Ring",
+      "id": "1032333389077958766",
+      "formatted": "<:Draconic_Ring:1032333389077958766>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Draconic_Ring",
+      "id": "1032333389077958766",
+      "formatted": "<:Draconic_Ring:1032333389077958766>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "DRACONIC_TALISMAN": {
+    "normal": {
+      "name": "Draconic_Talisman",
+      "id": "1032333393913970819",
+      "formatted": "<:Draconic_Talisman:1032333393913970819>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Draconic_Talisman",
+      "id": "1032333393913970819",
+      "formatted": "<:Draconic_Talisman:1032333393913970819>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "MITE_GEL": {
+    "normal": {
+      "name": "Mite_Gel",
+      "id": "1032333397693054986",
+      "formatted": "<:Mite_Gel:1032333397693054986>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Mite_Gel",
+      "id": "1032333397693054986",
+      "formatted": "<:Mite_Gel:1032333397693054986>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "ASPECT_OF_THE_DRACONIC": {
+    "normal": {
+      "name": "Aspect_of_the_Draconic",
+      "id": "1032333400935243836",
+      "formatted": "<:Aspect_of_the_Draconic:1032333400935243836>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Aspect_of_the_Draconic",
+      "id": "1032333519424331776",
+      "formatted": "<a:Aspect_of_the_Draconic:1032333519424331776>",
+      "animated": true,
+      "enchanted": true
+    }
+  },
+  "RITUAL_RESIDUE": {
+    "normal": {
+      "name": "Ritual_Residue",
+      "id": "1032333404156461056",
+      "formatted": "<:Ritual_Residue:1032333404156461056>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Ritual_Residue",
+      "id": "1032333404156461056",
+      "formatted": "<:Ritual_Residue:1032333404156461056>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "MINIATURE_NUKE": {
+    "normal": {
+      "name": "Miniature_Nuke",
+      "id": "1032333408745042051",
+      "formatted": "<:Miniature_Nuke:1032333408745042051>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Miniature_Nuke",
+      "id": "1032333408745042051",
+      "formatted": "<:Miniature_Nuke:1032333408745042051>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "ELLES_LAVA_ROD": {
+    "normal": {
+      "name": "Elles_Lava_Rod",
+      "id": "1032333411995627530",
+      "formatted": "<:Elles_Lava_Rod:1032333411995627530>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Elles_Lava_Rod",
+      "id": "1032333569504333895",
+      "formatted": "<a:Elles_Lava_Rod:1032333569504333895>",
+      "animated": true,
+      "enchanted": true
+    }
+  },
+  "KUUDRA_SHOP_ITEM": {
+    "normal": {
+      "name": "Open_Shop",
+      "id": "1032333415619506246",
+      "formatted": "<:Open_Shop:1032333415619506246>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Open_Shop",
+      "id": "1032333415619506246",
+      "formatted": "<:Open_Shop:1032333415619506246>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "TRIO_CONTACTS_ADDON": {
+    "normal": {
+      "name": "Abiphone_Contacts_Trio",
+      "id": "1032333445235486770",
+      "formatted": "<a:Abiphone_Contacts_Trio:1032333445235486770>",
+      "animated": true,
+      "enchanted": true
+    },
+    "enchanted": {
+      "name": "Abiphone_Contacts_Trio",
+      "id": "1032333445235486770",
+      "formatted": "<a:Abiphone_Contacts_Trio:1032333445235486770>",
+      "animated": true,
+      "enchanted": true
+    }
+  },
+  "PORTALIZER": {
+    "normal": {
+      "name": "Portalizer",
+      "id": "1032333469872832574",
+      "formatted": "<a:Portalizer:1032333469872832574>",
+      "animated": true,
+      "enchanted": true
+    },
+    "enchanted": {
+      "name": "Portalizer",
+      "id": "1032333469872832574",
+      "formatted": "<a:Portalizer:1032333469872832574>",
+      "animated": true,
+      "enchanted": true
+    }
+  },
+  "MIXED_MITE_GEL": {
+    "normal": {
+      "name": "Mixed_Mite_Gel",
+      "id": "1032333493499330571",
+      "formatted": "<a:Mixed_Mite_Gel:1032333493499330571>",
+      "animated": true,
+      "enchanted": true
+    },
+    "enchanted": {
+      "name": "Mixed_Mite_Gel",
+      "id": "1032333493499330571",
+      "formatted": "<a:Mixed_Mite_Gel:1032333493499330571>",
+      "animated": true,
+      "enchanted": true
+    }
+  },
+  "HOLLOW_WAND": {
+    "normal": {
+      "name": "Hollow_Wand",
+      "id": "1032333542606245908",
+      "formatted": "<a:Hollow_Wand:1032333542606245908>",
+      "animated": true,
+      "enchanted": true
+    },
+    "enchanted": {
+      "name": "Hollow_Wand",
+      "id": "1032333542606245908",
+      "formatted": "<a:Hollow_Wand:1032333542606245908>",
+      "animated": true,
+      "enchanted": true
+    }
+  },
+  "FINAL_REVIVE_PERK_ITEM": {
+    "normal": {
+      "name": "Revive_Final_Kill",
+      "id": "1032333592514273392",
+      "formatted": "<a:Revive_Final_Kill:1032333592514273392>",
+      "animated": true,
+      "enchanted": true
+    },
+    "enchanted": {
+      "name": "Revive_Final_Kill",
+      "id": "1032333592514273392",
+      "formatted": "<a:Revive_Final_Kill:1032333592514273392>",
+      "animated": true,
+      "enchanted": true
+    }
+  },
+  "ELLES_PICKAXE": {
+    "normal": {
+      "name": "Elles_Pickaxe",
+      "id": "1032333616929312798",
+      "formatted": "<a:Elles_Pickaxe:1032333616929312798>",
+      "animated": true,
+      "enchanted": true
+    },
+    "enchanted": {
+      "name": "Elles_Pickaxe",
+      "id": "1032333616929312798",
+      "formatted": "<a:Elles_Pickaxe:1032333616929312798>",
+      "animated": true,
+      "enchanted": true
+    }
+  },
+  "REVIVE_PERK_ITEM": {
+    "normal": {
+      "name": "Revive_Dead",
+      "id": "1032333640107036672",
+      "formatted": "<a:Revive_Dead:1032333640107036672>",
+      "animated": true,
+      "enchanted": true
+    },
+    "enchanted": {
+      "name": "Revive_Dead",
+      "id": "1032333640107036672",
+      "formatted": "<a:Revive_Dead:1032333640107036672>",
+      "animated": true,
+      "enchanted": true
+    }
   }
 }
