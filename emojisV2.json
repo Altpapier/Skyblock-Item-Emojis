@@ -63754,5 +63754,133 @@
       "animated": true,
       "enchanted": true
     }
+  },
+  "ABICASE_BLUE_AQUA": {
+    "normal": {
+      "name": "Lighter_Blue_Abicase",
+      "id": "1032395856101527564",
+      "formatted": "<:Lighter_Blue_Abicase:1032395856101527564>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Lighter_Blue_Abicase",
+      "id": "1032395856101527564",
+      "formatted": "<:Lighter_Blue_Abicase:1032395856101527564>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "ABICASE_BLUE_BLUE": {
+    "normal": {
+      "name": "Actually_Blue_Abicase",
+      "id": "1032395858563584102",
+      "formatted": "<:Actually_Blue_Abicase:1032395858563584102>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Actually_Blue_Abicase",
+      "id": "1032395858563584102",
+      "formatted": "<:Actually_Blue_Abicase:1032395858563584102>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "ABICASE_BLUE_GREEN": {
+    "normal": {
+      "name": "Blue_but_Green_Abicase",
+      "id": "1032395861700919306",
+      "formatted": "<:Blue_but_Green_Abicase:1032395861700919306>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Blue_but_Green_Abicase",
+      "id": "1032395861700919306",
+      "formatted": "<:Blue_but_Green_Abicase:1032395861700919306>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "ABICASE_BLUE_RED": {
+    "normal": {
+      "name": "Blue_but_Red_Abicase",
+      "id": "1032395863626096752",
+      "formatted": "<:Blue_but_Red_Abicase:1032395863626096752>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Blue_but_Red_Abicase",
+      "id": "1032395863626096752",
+      "formatted": "<:Blue_but_Red_Abicase:1032395863626096752>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "ABICASE_BLUE_YELLOW": {
+    "normal": {
+      "name": "Blue_but_Yellow_Abicase",
+      "id": "1032395866654376056",
+      "formatted": "<:Blue_but_Yellow_Abicase:1032395866654376056>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Blue_but_Yellow_Abicase",
+      "id": "1032395866654376056",
+      "formatted": "<:Blue_but_Yellow_Abicase:1032395866654376056>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "ABICASE_REZAR": {
+    "normal": {
+      "name": "Rezar_Abicase",
+      "id": "1032395871192612905",
+      "formatted": "<:Rezar_Abicase:1032395871192612905>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Rezar_Abicase",
+      "id": "1032395871192612905",
+      "formatted": "<:Rezar_Abicase:1032395871192612905>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "ABICASE_SUMSUNG_1": {
+    "normal": {
+      "name": "Sumsung_G3_Abicase",
+      "id": "1032395873675661403",
+      "formatted": "<:Sumsung_G3_Abicase:1032395873675661403>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Sumsung_G3_Abicase",
+      "id": "1032395873675661403",
+      "formatted": "<:Sumsung_G3_Abicase:1032395873675661403>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "ABICASE_SUMSUNG_2": {
+    "normal": {
+      "name": "Sumsung_GG_Abicase",
+      "id": "1032395876771045546",
+      "formatted": "<:Sumsung_GG_Abicase:1032395876771045546>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Sumsung_GG_Abicase",
+      "id": "1032395876771045546",
+      "formatted": "<:Sumsung_GG_Abicase:1032395876771045546>",
+      "animated": false,
+      "enchanted": false
+    }
   }
 }
