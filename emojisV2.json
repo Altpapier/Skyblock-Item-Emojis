@@ -8111,15 +8111,17 @@
   "SKYBLOCK_MENU": {
     "normal": {
       "name": "SkyBlock_Menu",
-      "id": "944746902543544321",
-      "formatted": "<:SkyBlock_Menu:944746902543544321>",
-      "animated": false
+      "id": "1032772054656749628",
+      "formatted": "<a:SkyBlock_Menu:1032772054656749628>",
+      "animated": true,
+      "enchanted": true
     },
     "enchanted": {
       "name": "SkyBlock_Menu",
-      "id": "944746902543544321",
-      "formatted": "<:SkyBlock_Menu:944746902543544321>",
-      "animated": false
+      "id": "1032772054656749628",
+      "formatted": "<a:SkyBlock_Menu:1032772054656749628>",
+      "animated": true,
+      "enchanted": true
     }
   },
   "CARPET:13": {
@@ -23945,11 +23947,10 @@
       "animated": false
     },
     "enchanted": {
-      "name": "E_Fishing_Rod",
-      "id": "945719893691596840",
-      "formatted": "<a:E_Fishing_Rod:945719893691596840>",
-      "animated": true,
-      "enchanted": true
+      "name": "Fishing_Rod",
+      "id": "945099336000368651",
+      "formatted": "<:Fishing_Rod:945099336000368651>",
+      "animated": false
     }
   },
   "GHAST_GENERATOR_10": {
@@ -42510,17 +42511,17 @@
   "HILT_OF_TRUE_ICE": {
     "normal": {
       "name": "Hilt_of_True_Ice",
-      "id": "945517312558104667",
-      "formatted": "<a:Hilt_of_True_Ice:945517312558104667>",
-      "animated": true,
-      "enchanted": true
+      "id": "945272556871643156",
+      "formatted": "<Hilt_of_True_Ice:945272556871643156>",
+      "animated": false,
+      "enchanted": false
     },
     "enchanted": {
       "name": "Hilt_of_True_Ice",
-      "id": "945517312558104667",
-      "formatted": "<a:Hilt_of_True_Ice:945517312558104667>",
-      "animated": true,
-      "enchanted": true
+      "id": "945272556871643156",
+      "formatted": "<Hilt_of_True_Ice:945272556871643156>",
+      "animated": false,
+      "enchanted": false
     }
   },
   "ENCHANTED_BIRCH_LOG": {
@@ -43070,15 +43071,15 @@
   "BIGGER_TEETH": {
     "normal": {
       "name": "Bigger_Teeth",
-      "id": "946079070624546876",
-      "formatted": "<:Bigger_Teeth:946079070624546876>",
+      "id": "945341156315775007",
+      "formatted": "<:Bigger_Teeth:945341156315775007>",
       "animated": false,
       "enchanted": false
     },
     "enchanted": {
       "name": "Bigger_Teeth",
-      "id": "946079070624546876",
-      "formatted": "<:Bigger_Teeth:946079070624546876>",
+      "id": "945341156315775007",
+      "formatted": "<:Bigger_Teeth:945341156315775007>",
       "animated": false,
       "enchanted": false
     }
@@ -43278,15 +43279,15 @@
   "ENCHANTED_STRING": {
     "normal": {
       "name": "Enchanted_String",
-      "id": "946114231307235470",
-      "formatted": "<:Enchanted_String:946114231307235470>",
+      "id": "944972073955127317",
+      "formatted": "<:Enchanted_String:944972073955127317>",
       "animated": false,
       "enchanted": false
     },
     "enchanted": {
       "name": "Enchanted_String",
-      "id": "946114231307235470",
-      "formatted": "<:Enchanted_String:946114231307235470>",
+      "id": "944972073955127317",
+      "formatted": "<:Enchanted_String:944972073955127317>",
       "animated": false,
       "enchanted": false
     }
@@ -43726,15 +43727,15 @@
   "TIGER_SHARK_TOOTH": {
     "normal": {
       "name": "Tiger_Shark_Tooth",
-      "id": "946079165638131753",
-      "formatted": "<:Tiger_Shark_Tooth:946079165638131753>",
+      "id": "945341156315775007",
+      "formatted": "<:Tiger_Shark_Tooth:945341156315775007>",
       "animated": false,
       "enchanted": false
     },
     "enchanted": {
       "name": "Tiger_Shark_Tooth",
-      "id": "946079165638131753",
-      "formatted": "<:Tiger_Shark_Tooth:946079165638131753>",
+      "id": "945341156315775007",
+      "formatted": "<:Tiger_Shark_Tooth:945341156315775007>",
       "animated": false,
       "enchanted": false
     }
@@ -44158,15 +44159,15 @@
   "PET_ITEM_VAMPIRE_FANG": {
     "normal": {
       "name": "Vampire_Fang",
-      "id": "946113303468441642",
-      "formatted": "<:Vampire_Fang:946113303468441642>",
+      "id": "945341156315775007",
+      "formatted": "<:Vampire_Fang:945341156315775007>",
       "animated": false,
       "enchanted": false
     },
     "enchanted": {
       "name": "Vampire_Fang",
-      "id": "946113303468441642",
-      "formatted": "<:Vampire_Fang:946113303468441642>",
+      "id": "945341156315775007",
+      "formatted": "<:Vampire_Fang:945341156315775007>",
       "animated": false,
       "enchanted": false
     }
@@ -44302,15 +44303,15 @@
   "END_BIOME_STICK": {
     "normal": {
       "name": "End_Biome_Stick",
-      "id": "946079507520053258",
-      "formatted": "<:End_Biome_Stick:946079507520053258>",
+      "id": "944769105947410502",
+      "formatted": "<:End_Biome_Stick:944769105947410502>",
       "animated": false,
       "enchanted": false
     },
     "enchanted": {
       "name": "End_Biome_Stick",
-      "id": "946079507520053258",
-      "formatted": "<:End_Biome_Stick:946079507520053258>",
+      "id": "944769105947410502",
+      "formatted": "<:End_Biome_Stick:944769105947410502>",
       "animated": false,
       "enchanted": false
     }
@@ -44766,15 +44767,15 @@
   "ENCHANTED_ICE": {
     "normal": {
       "name": "Enchanted_Ice",
-      "id": "946079308475170856",
-      "formatted": "<:Enchanted_Ice:946079308475170856>",
+      "id": "945272556871643156",
+      "formatted": "<:Enchanted_Ice:945272556871643156>",
       "animated": false,
       "enchanted": false
     },
     "enchanted": {
       "name": "Enchanted_Ice",
-      "id": "946079308475170856",
-      "formatted": "<:Enchanted_Ice:946079308475170856>",
+      "id": "945272556871643156",
+      "formatted": "<:Enchanted_Ice:945272556871643156>",
       "animated": false,
       "enchanted": false
     }
@@ -45502,15 +45503,15 @@
   "PET_ITEM_FLYING_PIG": {
     "normal": {
       "name": "Flying_Pig",
-      "id": "946079404868661248",
-      "formatted": "<:Flying_Pig:946079404868661248>",
+      "id": "944745951896141864",
+      "formatted": "<:Flying_Pig:944745951896141864>",
       "animated": false,
       "enchanted": false
     },
     "enchanted": {
       "name": "Flying_Pig",
-      "id": "946079404868661248",
-      "formatted": "<:Flying_Pig:946079404868661248>",
+      "id": "944745951896141864",
+      "formatted": "<:Flying_Pig:944745951896141864>",
       "animated": false,
       "enchanted": false
     }
@@ -45614,15 +45615,15 @@
   "KISMET_FEATHER": {
     "normal": {
       "name": "Kismet_Feather",
-      "id": "946079373524607006",
-      "formatted": "<:Kismet_Feather:946079373524607006>",
+      "id": "944745951896141864",
+      "formatted": "<:Kismet_Feather:944745951896141864>",
       "animated": false,
       "enchanted": false
     },
     "enchanted": {
       "name": "Kismet_Feather",
-      "id": "946079373524607006",
-      "formatted": "<:Kismet_Feather:946079373524607006>",
+      "id": "944745951896141864",
+      "formatted": "<:Kismet_Feather:944745951896141864>",
       "animated": false,
       "enchanted": false
     }
@@ -45710,15 +45711,15 @@
   "ENCHANTED_SLIME_BLOCK": {
     "normal": {
       "name": "Enchanted_Slime_Block",
-      "id": "946078862998130788",
-      "formatted": "<:Enchanted_Slime_Block:946078862998130788>",
+      "id": "944949234996772934",
+      "formatted": "<:Enchanted_Slime_Block:944949234996772934>",
       "animated": false,
       "enchanted": false
     },
     "enchanted": {
       "name": "Enchanted_Slime_Block",
-      "id": "946078862998130788",
-      "formatted": "<:Enchanted_Slime_Block:946078862998130788>",
+      "id": "944949234996772934",
+      "formatted": "<:Enchanted_Slime_Block:944949234996772934>",
       "animated": false,
       "enchanted": false
     }
@@ -47630,15 +47631,15 @@
   "ENCHANTED_PAPER": {
     "normal": {
       "name": "Enchanted_Paper",
-      "id": "946078309828145213",
-      "formatted": "<:Enchanted_Paper:946078309828145213>",
+      "id": "945243345867919390",
+      "formatted": "<:Enchanted_Paper:945243345867919390>",
       "animated": false,
       "enchanted": false
     },
     "enchanted": {
       "name": "Enchanted_Paper",
-      "id": "946078309828145213",
-      "formatted": "<:Enchanted_Paper:946078309828145213>",
+      "id": "945243345867919390",
+      "formatted": "<:Enchanted_Paper:945243345867919390>",
       "animated": false,
       "enchanted": false
     }
@@ -47646,15 +47647,15 @@
   "ENCHANTED_FEATHER": {
     "normal": {
       "name": "Enchanted_Feather",
-      "id": "946078446663114762",
-      "formatted": "<:Enchanted_Feather:946078446663114762>",
+      "id": "944745951896141864",
+      "formatted": "<:Enchanted_Feather:944745951896141864>",
       "animated": false,
       "enchanted": false
     },
     "enchanted": {
       "name": "Enchanted_Feather",
-      "id": "946078446663114762",
-      "formatted": "<:Enchanted_Feather:946078446663114762>",
+      "id": "944745951896141864",
+      "formatted": "<:Enchanted_Feather:944745951896141864>",
       "animated": false,
       "enchanted": false
     }
@@ -50590,15 +50591,15 @@
   "TIGER_PET": {
     "normal": {
       "name": "Tiger",
-      "id": "945915866548142130",
-      "formatted": "<:Tiger:945915866548142130>",
+      "id": "1032767408382935173",
+      "formatted": "<:Tiger:1032767408382935173>",
       "animated": false,
       "enchanted": false
     },
     "enchanted": {
       "name": "Tiger",
-      "id": "945915866548142130",
-      "formatted": "<:Tiger:945915866548142130>",
+      "id": "1032767408382935173",
+      "formatted": "<:Tiger:1032767408382935173>",
       "animated": false,
       "enchanted": false
     }
@@ -50606,15 +50607,15 @@
   "DOLPHIN_PET": {
     "normal": {
       "name": "Dolphin",
-      "id": "945916183843045407",
-      "formatted": "<:Dolphin:945916183843045407>",
+      "id": "1032767363168346172",
+      "formatted": "<:Dolphin:1032767363168346172>",
       "animated": false,
       "enchanted": false
     },
     "enchanted": {
       "name": "Dolphin",
-      "id": "945916183843045407",
-      "formatted": "<:Dolphin:945916183843045407>",
+      "id": "1032767363168346172",
+      "formatted": "<:Dolphin:1032767363168346172>",
       "animated": false,
       "enchanted": false
     }
@@ -56190,17 +56191,17 @@
   "CORRUPTED_NETHER_STAR": {
     "normal": {
       "name": "Nether_Star",
-      "id": "966658081113137162",
-      "formatted": "<:Nether_Star:966658081113137162>",
-      "animated": false,
-      "enchanted": false
+      "id": "1032772054656749628",
+      "formatted": "<a:Nether_Star:1032772054656749628>",
+      "animated": true,
+      "enchanted": true
     },
     "enchanted": {
       "name": "Nether_Star",
-      "id": "966658081113137162",
-      "formatted": "<:Nether_Star:966658081113137162>",
-      "animated": false,
-      "enchanted": false
+      "id": "1032772054656749628",
+      "formatted": "<a:Nether_Star:1032772054656749628>",
+      "animated": true,
+      "enchanted": true
     }
   },
   "BRONZE_HUNTER_CHESTPLATE": {
@@ -57550,15 +57551,15 @@
   "WHIPPED_MAGMA_CREAM": {
     "normal": {
       "name": "Whipped_Magma_Cream",
-      "id": "966686912104521789",
-      "formatted": "<:Whipped_Magma_Cream:966686912104521789>",
+      "id": "1032773334540238960",
+      "formatted": "<:Whipped_Magma_Cream:1032773334540238960>",
       "animated": false,
       "enchanted": false
     },
     "enchanted": {
       "name": "Whipped_Magma_Cream",
-      "id": "966686912104521789",
-      "formatted": "<:Whipped_Magma_Cream:966686912104521789>",
+      "id": "1032773334540238960",
+      "formatted": "<:Whipped_Magma_Cream:1032773334540238960>",
       "animated": false,
       "enchanted": false
     }
@@ -59310,15 +59311,15 @@
   "ENCHANTED_RED_SAND": {
     "normal": {
       "name": "Enchanted_Red_Sand",
-      "id": "967058861037064313",
-      "formatted": "<a:Enchanted_Red_Sand:967058861037064313>",
+      "id": "1032773750132834354",
+      "formatted": "<a:Enchanted_Red_Sand:1032773750132834354>",
       "animated": true,
       "enchanted": true
     },
     "enchanted": {
       "name": "Enchanted_Red_Sand",
-      "id": "967059625855811614",
-      "formatted": "<a:Enchanted_Red_Sand:967059625855811614>",
+      "id": "1032773750132834354",
+      "formatted": "<a:Enchanted_Red_Sand:1032773750132834354>",
       "animated": true,
       "enchanted": true
     }
@@ -60670,15 +60671,15 @@
   "Karate_Fish_BRONZE": {
     "normal": {
       "name": "Karate_Fish_BRONZE",
-      "id": "1000752491299868692",
-      "formatted": "<:Karate_Fish_BRONZE:1000752491299868692>",
+      "id": "1032767377563201596",
+      "formatted": "<:Karate_Fish_BRONZE:1032767377563201596>",
       "animated": false,
       "enchanted": false
     },
     "enchanted": {
       "name": "Karate_Fish_BRONZE",
-      "id": "1000752491299868692",
-      "formatted": "<:Karate_Fish_BRONZE:1000752491299868692>",
+      "id": "1032767377563201596",
+      "formatted": "<:Karate_Fish_BRONZE:1032767377563201596>",
       "animated": false,
       "enchanted": false
     }
@@ -60686,15 +60687,15 @@
   "Karate_Fish_DIAMOND": {
     "normal": {
       "name": "Karate_Fish_DIAMOND",
-      "id": "1000752493707411527",
-      "formatted": "<:Karate_Fish_DIAMOND:1000752493707411527>",
+      "id": "1032767385008099358",
+      "formatted": "<:Karate_Fish_DIAMOND:1032767385008099358>",
       "animated": false,
       "enchanted": false
     },
     "enchanted": {
       "name": "Karate_Fish_DIAMOND",
-      "id": "1000752493707411527",
-      "formatted": "<:Karate_Fish_DIAMOND:1000752493707411527>",
+      "id": "1032767385008099358",
+      "formatted": "<:Karate_Fish_DIAMOND:1032767385008099358>",
       "animated": false,
       "enchanted": false
     }
@@ -60702,15 +60703,15 @@
   "Karate_Fish_GOLD": {
     "normal": {
       "name": "Karate_Fish_GOLD",
-      "id": "986709656229544037",
-      "formatted": "<:Karate_Fish_GOLD:986709656229544037>",
+      "id": "1032767387105251441",
+      "formatted": "<:Karate_Fish_GOLD:1032767387105251441>",
       "animated": false,
       "enchanted": false
     },
     "enchanted": {
       "name": "Karate_Fish_GOLD",
-      "id": "986709656229544037",
-      "formatted": "<:Karate_Fish_GOLD:986709656229544037>",
+      "id": "1032767387105251441",
+      "formatted": "<:Karate_Fish_GOLD:1032767387105251441>",
       "animated": false,
       "enchanted": false
     }
@@ -63879,6 +63880,214 @@
       "name": "Sumsung_GG_Abicase",
       "id": "1032395876771045546",
       "formatted": "<:Sumsung_GG_Abicase:1032395876771045546>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "KUUDRA_BURNING_TIER_KEY": {
+    "normal": {
+      "name": "Burning_Kuudra_Key",
+      "id": "1032767360060375041",
+      "formatted": "<:Burning_Kuudra_Key:1032767360060375041>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Burning_Kuudra_Key",
+      "id": "1032767360060375041",
+      "formatted": "<:Burning_Kuudra_Key:1032767360060375041>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "KUUDRA_FIERY_TIER_KEY": {
+    "normal": {
+      "name": "Fiery_Kuudra_Key",
+      "id": "1032767365940785224",
+      "formatted": "<:Fiery_Kuudra_Key:1032767365940785224>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Fiery_Kuudra_Key",
+      "id": "1032767365940785224",
+      "formatted": "<:Fiery_Kuudra_Key:1032767365940785224>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "PET_SKIN_TIGER_GOLDEN": {
+    "normal": {
+      "name": "Golden_Tiger_Skin",
+      "id": "1032767368163766332",
+      "formatted": "<:Golden_Tiger_Skin:1032767368163766332>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Golden_Tiger_Skin",
+      "id": "1032767368163766332",
+      "formatted": "<:Golden_Tiger_Skin:1032767368163766332>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "GRAND_SEARING_RUNE": {
+    "normal": {
+      "name": "Grand_Searing_Rune",
+      "id": "1032767370554507314",
+      "formatted": "<:Grand_Searing_Rune:1032767370554507314>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Grand_Searing_Rune",
+      "id": "1032767370554507314",
+      "formatted": "<:Grand_Searing_Rune:1032767370554507314>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "KUUDRA_HOT_TIER_KEY": {
+    "normal": {
+      "name": "Hot_Kuudra_Key",
+      "id": "1032767372827820103",
+      "formatted": "<:Hot_Kuudra_Key:1032767372827820103>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Hot_Kuudra_Key",
+      "id": "1032767372827820103",
+      "formatted": "<:Hot_Kuudra_Key:1032767372827820103>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "KUUDRA_INFERNAL_TIER_KEY": {
+    "normal": {
+      "name": "Infernal_Kuudra_Key",
+      "id": "1032767375394734170",
+      "formatted": "<:Infernal_Kuudra_Key:1032767375394734170>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Infernal_Kuudra_Key",
+      "id": "1032767375394734170",
+      "formatted": "<:Infernal_Kuudra_Key:1032767375394734170>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "KUUDRA_PET": {
+    "normal": {
+      "name": "Kuudra",
+      "id": "1032767390225793065",
+      "formatted": "<:Kuudra:1032767390225793065>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Kuudra",
+      "id": "1032767390225793065",
+      "formatted": "<:Kuudra:1032767390225793065>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "KUUDRA_TIER_KEY": {
+    "normal": {
+      "name": "Kuudra_Key",
+      "id": "1032767393015013488",
+      "formatted": "<:Kuudra_Key:1032767393015013488>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Kuudra_Key",
+      "id": "1032767393015013488",
+      "formatted": "<:Kuudra_Key:1032767393015013488>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "OBFUSCATED_FISH_2_DIAMOND": {
+    "normal": {
+      "name": "Obfuscated_Fish_2_DIAMOND",
+      "id": "1032767395170889770",
+      "formatted": "<:Obfuscated_Fish_2_DIAMOND:1032767395170889770>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Obfuscated_Fish_2_DIAMOND",
+      "id": "1032767395170889770",
+      "formatted": "<:Obfuscated_Fish_2_DIAMOND:1032767395170889770>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "OBFUSCATED_FISH_3_DIAMOND": {
+    "normal": {
+      "name": "Obfuscated_Fish_3_DIAMOND",
+      "id": "1032767398048190494",
+      "formatted": "<:Obfuscated_Fish_3_DIAMOND:1032767398048190494>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Obfuscated_Fish_3_DIAMOND",
+      "id": "1032767398048190494",
+      "formatted": "<:Obfuscated_Fish_3_DIAMOND:1032767398048190494>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "OBFUSCATED_FISH_3_GOLD": {
+    "normal": {
+      "name": "Obfuscated_Fish_3_GOLD",
+      "id": "1032767400606703708",
+      "formatted": "<:Obfuscated_Fish_3_GOLD:1032767400606703708>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Obfuscated_Fish_3_GOLD",
+      "id": "1032767400606703708",
+      "formatted": "<:Obfuscated_Fish_3_GOLD:1032767400606703708>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "SULPHER_SKITTER_DIAMOND": {
+    "normal": {
+      "name": "Sulpher_Skitter_DIAMOND",
+      "id": "1032767403395911730",
+      "formatted": "<:Sulpher_Skitter_DIAMOND:1032767403395911730>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Sulpher_Skitter_DIAMOND",
+      "id": "1032767403395911730",
+      "formatted": "<:Sulpher_Skitter_DIAMOND:1032767403395911730>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "FIREBALL": {
+    "normal": {
+      "name": "Fireball",
+      "id": "1032773347697758268",
+      "formatted": "<:Fireball:1032773347697758268>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Fireball",
+      "id": "1032773347697758268",
+      "formatted": "<:Fireball:1032773347697758268>",
       "animated": false,
       "enchanted": false
     }
