@@ -64091,5 +64091,341 @@
       "animated": false,
       "enchanted": false
     }
+  },
+  "ARACK": {
+    "normal": {
+      "name": "Arack",
+      "id": "1040945546283716698",
+      "formatted": "<:Arack:1040945546283716698>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Arack",
+      "id": "1040945641548947476",
+      "formatted": "<a:Arack:1040945641548947476>",
+      "animated": true,
+      "enchanted": true
+    }
+  },
+  "ARACHNE_BOOTS": {
+    "normal": {
+      "name": "Arachnes_Boots",
+      "id": "1040945549911793756",
+      "formatted": "<:Arachnes_Boots:1040945549911793756>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Arachnes_Boots",
+      "id": "1040945664340799590",
+      "formatted": "<a:Arachnes_Boots:1040945664340799590>",
+      "animated": true,
+      "enchanted": true
+    }
+  },
+  "ARACHNE_BELT": {
+    "normal": {
+      "name": "Arachnes_Belt",
+      "id": "1040945553435013183",
+      "formatted": "<:Arachnes_Belt:1040945553435013183>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Arachnes_Belt",
+      "id": "1040945553435013183",
+      "formatted": "<:Arachnes_Belt:1040945553435013183>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "ARACHNE_NECKLACE": {
+    "normal": {
+      "name": "Arachnes_Necklace",
+      "id": "1040945555972567090",
+      "formatted": "<:Arachnes_Necklace:1040945555972567090>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Arachnes_Necklace",
+      "id": "1040945555972567090",
+      "formatted": "<:Arachnes_Necklace:1040945555972567090>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "ARACHNE_GLOVES": {
+    "normal": {
+      "name": "Arachnes_Gloves",
+      "id": "1040945558887596103",
+      "formatted": "<:Arachnes_Gloves:1040945558887596103>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Arachnes_Gloves",
+      "id": "1040945558887596103",
+      "formatted": "<:Arachnes_Gloves:1040945558887596103>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "ARACHNE_HELMET": {
+    "normal": {
+      "name": "Arachnes_Helmet",
+      "id": "1040945561953632316",
+      "formatted": "<:Arachnes_Helmet:1040945561953632316>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Arachnes_Helmet",
+      "id": "1040945686977466398",
+      "formatted": "<a:Arachnes_Helmet:1040945686977466398>",
+      "animated": true,
+      "enchanted": true
+    }
+  },
+  "ARACHNE_CHESTPLATE": {
+    "normal": {
+      "name": "Arachnes_Chestplate",
+      "id": "1040945565372010628",
+      "formatted": "<:Arachnes_Chestplate:1040945565372010628>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Arachnes_Chestplate",
+      "id": "1040945709320515584",
+      "formatted": "<a:Arachnes_Chestplate:1040945709320515584>",
+      "animated": true,
+      "enchanted": true
+    }
+  },
+  "ARCHAEOLOGIST_COMPASS": {
+    "normal": {
+      "name": "Archaeologists_Compass",
+      "id": "1040945568744222730",
+      "formatted": "<:Archaeologists_Compass:1040945568744222730>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Archaeologists_Compass",
+      "id": "1040945568744222730",
+      "formatted": "<:Archaeologists_Compass:1040945568744222730>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "ARACHNE_CLOAK": {
+    "normal": {
+      "name": "Arachnes_Cloak",
+      "id": "1040945571600543754",
+      "formatted": "<:Arachnes_Cloak:1040945571600543754>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Arachnes_Cloak",
+      "id": "1040945571600543754",
+      "formatted": "<:Arachnes_Cloak:1040945571600543754>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "ARACHNE_LEGGINGS": {
+    "normal": {
+      "name": "Arachnes_Leggings",
+      "id": "1040945574255538186",
+      "formatted": "<:Arachnes_Leggings:1040945574255538186>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Arachnes_Leggings",
+      "id": "1040945731487408138",
+      "formatted": "<a:Arachnes_Leggings:1040945731487408138>",
+      "animated": true,
+      "enchanted": true
+    }
+  },
+  "ARACHNE_FANG": {
+    "normal": {
+      "name": "Arachnes_Fang",
+      "id": "1040945578399506442",
+      "formatted": "<:Arachnes_Fang:1040945578399506442>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Arachnes_Fang",
+      "id": "1040945578399506442",
+      "formatted": "<:Arachnes_Fang:1040945578399506442>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "POISON_SAMPLE": {
+    "normal": {
+      "name": "Poison_Sample",
+      "id": "1040945581708804206",
+      "formatted": "<:Poison_Sample:1040945581708804206>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Poison_Sample",
+      "id": "1040945581708804206",
+      "formatted": "<:Poison_Sample:1040945581708804206>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "ARACHNE_SANCTUARY_PORTAL": {
+    "normal": {
+      "name": "Portal_to_Arachnes_Sanctuary",
+      "id": "1040945585060069386",
+      "formatted": "<:Portal_to_Arachnes_Sanctuary:1040945585060069386>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Portal_to_Arachnes_Sanctuary",
+      "id": "1040945585060069386",
+      "formatted": "<:Portal_to_Arachnes_Sanctuary:1040945585060069386>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "TRAPPER_DEN_PORTAL": {
+    "normal": {
+      "name": "Portal_to_the_Trappers_Den",
+      "id": "1040945588105117716",
+      "formatted": "<:Portal_to_the_Trappers_Den:1040945588105117716>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Portal_to_the_Trappers_Den",
+      "id": "1040945588105117716",
+      "formatted": "<:Portal_to_the_Trappers_Den:1040945588105117716>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "VACCINE_RING": {
+    "normal": {
+      "name": "Vaccine_Ring",
+      "id": "1040945591355719680",
+      "formatted": "<:Vaccine_Ring:1040945591355719680>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Vaccine_Ring",
+      "id": "1040945591355719680",
+      "formatted": "<:Vaccine_Ring:1040945591355719680>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "VACCINE_ARTIFACT": {
+    "normal": {
+      "name": "Vaccine_Artifact",
+      "id": "1040945595197698089",
+      "formatted": "<:Vaccine_Artifact:1040945595197698089>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Vaccine_Artifact",
+      "id": "1040945595197698089",
+      "formatted": "<:Vaccine_Artifact:1040945595197698089>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "TRAPPER_DEN_TRAVEL_SCROLL": {
+    "normal": {
+      "name": "Travel_Scroll_to_the_Trappers_De",
+      "id": "1040945598737686688",
+      "formatted": "<:Travel_Scroll_to_the_Trappers_De:1040945598737686688>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Travel_Scroll_to_the_Trappers_De",
+      "id": "1040945598737686688",
+      "formatted": "<:Travel_Scroll_to_the_Trappers_De:1040945598737686688>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "ARACHNE_SANCTUARY_TRAVEL_SCROLL": {
+    "normal": {
+      "name": "Travel_Scroll_to_Arachnes_Sanctu",
+      "id": "1040945601900191876",
+      "formatted": "<:Travel_Scroll_to_Arachnes_Sanctu:1040945601900191876>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Travel_Scroll_to_Arachnes_Sanctu",
+      "id": "1040945601900191876",
+      "formatted": "<:Travel_Scroll_to_Arachnes_Sanctu:1040945601900191876>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "PELT_BELT": {
+    "normal": {
+      "name": "Pelt_Belt",
+      "id": "1040945605876404225",
+      "formatted": "<:Pelt_Belt:1040945605876404225>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Pelt_Belt",
+      "id": "1040945605876404225",
+      "formatted": "<:Pelt_Belt:1040945605876404225>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "TALBOTS_THEODOLITE": {
+    "normal": {
+      "name": "Talbots_Theodolite",
+      "id": "1040945609286365195",
+      "formatted": "<:Talbots_Theodolite:1040945609286365195>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Talbots_Theodolite",
+      "id": "1040945609286365195",
+      "formatted": "<:Talbots_Theodolite:1040945609286365195>",
+      "animated": false,
+      "enchanted": false
+    }
+  },
+  "TRAPPER_CREST": {
+    "normal": {
+      "name": "Trapper_Crest",
+      "id": "1040945613707161620",
+      "formatted": "<:Trapper_Crest:1040945613707161620>",
+      "animated": false,
+      "enchanted": false
+    },
+    "enchanted": {
+      "name": "Trapper_Crest",
+      "id": "1040945613707161620",
+      "formatted": "<:Trapper_Crest:1040945613707161620>",
+      "animated": false,
+      "enchanted": false
+    }
   }
 }
