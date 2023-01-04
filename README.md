@@ -3,13 +3,62 @@
 **A database containing every skyblock item as a Discord emoji.
 Can be used in webhooks or slash commands!**
 
+# Version 3
+
+## Whats new?
+
+-   The "FurfSky Reborn" Texturepack is now mainly used for the textures
+-   Added Discord attachment links to get the image of an emoji
+-   This now includes EVERY skyblock item and is updated more regulary
+-   This version uses the hashes to prevent emojis with the same texture being uploaded multiple times
+-   All emojis have an enchanted variant even if they cannot be enchanted in-game
+-   Bugged enchantment glints were fixed
+
+## How do I get the emojis?
+
+In the `/v3` folder you can find 3 files. `emojis.json` includes the different hash values and their `normal` and `enchanted` emojis. The same goes for the `images.json` file which includes Discord attachment links for the `normal` and `enchanted` emojis. The `itemHash.json` file includes a list of custom ids (we will talk about those later) which lead to their respective hash value from which you can then get the emoji in the `emoji.json` or `images.json` file.
+
+## How do I get the custom id?
+
+By default, the custom id is just the items skyblock id (item.ExtraAttributes.​id) but is sometimes modified. The following modifications were made:
+All ids are uppercase
+
+**Pets**:
+`PET_{TYPE}`
+TYPE = item.tag.ExtraAttributes.petInfo.type
+**Pet Skins**:
+`PET_SKIN_{SKIN}`
+SKIN = item.tag.ExtraAttributes.petInfo.skin
+**Mythic Pets**: (Flying Fish)
+`PET_{TYPE}_MYTHIC`
+TYPE = item.tag.ExtraAttributes.petInfo.type
+**Runes**:
+`RUNE_{TYPE}`
+TYPE = First object key of: item.tag.ExtraAttributes.runes
+**Potions**:
+`POTION_{TYPE}`
+TYPE = item.tag.ExtraAttributes.potion
+**Splash Potions**:
+`POTION_{TYPE}_SPLASH`
+TYPE = item.tag.ExtraAttributes.potion
+**Abicases**:
+`ABICASE_{MODEL}`
+MODEL = item.tag.ExtraAttributes.model
+**Backpack Colors**:
+`{BACKPACKID}_{COLOR}`
+BACKPACKID = item.tag.ExtraAttributes.​id
+COLOR = item.tag.ExtraAttributes.backpack_color
+**Skins**:
+`{SKINID}`
+SKINID = item.tag.ExtraAttributes.skin
+
 # Version 2
 
 ## Whats new?
 
-- Added the enchantment glint to some items
+-   Added the enchantment glint to some items
 
-- Added potions
+-   Added potions
 
 ## How do I get the emojis?
 
