@@ -26,28 +26,36 @@ All ids are uppercase
 **Pets**:
 `PET_{TYPE}`
 TYPE = item.tag.ExtraAttributes.petInfo.type
+
 **Pet Skins**:
 `PET_SKIN_{SKIN}`
 SKIN = item.tag.ExtraAttributes.petInfo.skin
+
 **Mythic Pets**: (Flying Fish)
 `PET_{TYPE}_MYTHIC`
 TYPE = item.tag.ExtraAttributes.petInfo.type
+
 **Runes**:
 `RUNE_{TYPE}`
 TYPE = First object key of: item.tag.ExtraAttributes.runes
+
 **Potions**:
 `POTION_{TYPE}`
 TYPE = item.tag.ExtraAttributes.potion
+
 **Splash Potions**:
 `POTION_{TYPE}_SPLASH`
 TYPE = item.tag.ExtraAttributes.potion
+
 **Abicases**:
 `ABICASE_{MODEL}`
 MODEL = item.tag.ExtraAttributes.model
+
 **Backpack Colors**:
 `{BACKPACKID}_{COLOR}`
 BACKPACKID = item.tag.ExtraAttributes.​id
 COLOR = item.tag.ExtraAttributes.backpack_color
+
 **Skins**:
 `{SKINID}`
 SKINID = item.tag.ExtraAttributes.skin
