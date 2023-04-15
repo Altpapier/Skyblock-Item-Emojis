@@ -45598,5 +45598,29 @@
       "name": "E8JrGQfVqvzAFnbd",
       "animated": true
     }
+  },
+  "0476ce4be7a0c11fff5566291847b159958fc625": {
+    "normal": {
+      "id": "1096807547937230878",
+      "name": "LUVewk8y9wvhVG0O",
+      "animated": false
+    },
+    "enchanted": {
+      "id": "1096808219759882311",
+      "name": "1WOEEu3U2zsKdf7Q",
+      "animated": true
+    }
+  },
+  "fd551a3b8514ddb4946340e194194f0881679e27": {
+    "normal": {
+      "id": "1096807884031012895",
+      "name": "O3OQyuU30SLsBZZw",
+      "animated": false
+    },
+    "enchanted": {
+      "id": "1096808558428954654",
+      "name": "hyuPFZXHIc8bnk0M",
+      "animated": true
+    }
   }
 }
