@@ -49510,5 +49510,17 @@
       "name": "Uvs5uNUpIFzF7Ao3",
       "animated": true
     }
+  },
+  "b588ee92b647c5ba5f4eaee119cc720b0e85152c": {
+    "normal": {
+      "id": "1166390324235608167",
+      "name": "4Z7l8Q1u7ChBDan8",
+      "animated": false
+    },
+    "enchanted": {
+      "id": "1166390661298266244",
+      "name": "ydcjngM9HIdFWQva",
+      "animated": true
+    }
   }
 }
