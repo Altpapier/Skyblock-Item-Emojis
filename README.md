@@ -1,7 +1,8 @@
 # Skyblock-Item-Emojis
 
 **A database containing every skyblock item as a Discord emoji.
-Can be used in webhooks or slash commands!**
+Can be used in webhooks ~~or slash commands~~!**
+(Cannot be used with slash commands anymore: https://discord.com/developers/docs/change-log#fix-message-edit-interaction-response-permissions)
 
 # Version 3
 
