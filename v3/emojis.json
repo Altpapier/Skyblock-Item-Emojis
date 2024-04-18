@@ -52906,5 +52906,17 @@
       "name": "0G7C778wV791KbfS",
       "animated": true
     }
+  },
+  "706c50f997400a2f7e50570d2129184241c59261": {
+    "normal": {
+      "id": "1230522742651097229",
+      "name": "SnEa0TcPbmYwyQAe",
+      "animated": false
+    },
+    "enchanted": {
+      "id": "1230523081269968988",
+      "name": "B9PiXqNJCCx6ZSV8",
+      "animated": true
+    }
   }
 }
