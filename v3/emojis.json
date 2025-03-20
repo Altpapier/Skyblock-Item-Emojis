@@ -55138,5 +55138,17 @@
       "name": "4YTJ44h40bJMtmB1",
       "animated": true
     }
+  },
+  "3e5c07206b8eff755084faee978e7249690efdea": {
+    "normal": {
+      "id": "1352305976623108166",
+      "name": "gcFQNO6QRGSjUpz0",
+      "animated": false
+    },
+    "enchanted": {
+      "id": "1352306318345769052",
+      "name": "eMAh20JLpzOz6Oq5",
+      "animated": true
+    }
   }
 }
