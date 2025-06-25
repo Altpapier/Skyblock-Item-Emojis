@@ -61,7 +61,7 @@ COLOR = item.tag.ExtraAttributes.backpack_color
 `{SKINID}`
 SKINID = item.tag.ExtraAttributes.skin
 
-# Version 2
+# Version 2 (Removed)
 
 ## Whats new?
 
@@ -163,7 +163,7 @@ ExtraAttributes: {
 
 = `POTION_SPLASH_18`
 
-# Version 1
+# Version 1 (Removed)
 
 ## How do I get the emojis?
 
