@@ -60514,5 +60514,29 @@
       "name": "hkRdk3P4Rr5Iw6Wk",
       "animated": true
     }
+  },
+  "cf1645a0a5a08ddf3e116a80f093bc85da7cc488": {
+    "normal": {
+      "id": "1444413924475670649",
+      "name": "GdtW7nQUNkqbHNDR",
+      "animated": false
+    },
+    "enchanted": {
+      "id": "1444414613545287691",
+      "name": "lqroNXTkwpELP4W8",
+      "animated": true
+    }
+  },
+  "e26bcbf4ba65612d945315168ba9237efe8f8915": {
+    "normal": {
+      "id": "1444414260867498130",
+      "name": "79w3qW3NU01b4Ue2",
+      "animated": false
+    },
+    "enchanted": {
+      "id": "1444414951157665825",
+      "name": "9n7vP0QU8wdYQjjb",
+      "animated": true
+    }
   }
 }
