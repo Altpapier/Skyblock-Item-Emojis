@@ -84130,5 +84130,17 @@
       "name": "CDqH1cQZ1xJcz13T",
       "animated": true
     }
+  },
+  "f7fd2db2e525af59c1d36fbd293c5ebcf077012b4726184ba3fa74eaa5a8b006": {
+    "normal": {
+      "id": "1534622859811622912",
+      "name": "Q3fsQse5ZQnQP8VV",
+      "animated": false
+    },
+    "enchanted": {
+      "id": "1534622871463137340",
+      "name": "MdSCY9X6gSWpNmHc",
+      "animated": true
+    }
   }
 }
