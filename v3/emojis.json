@@ -84082,5 +84082,29 @@
       "name": "aFUZufpmECTGNIqu",
       "animated": true
     }
+  },
+  "7b1bbc902d7e557f7d7370d032e8865ddd34ef46e5cec24deb4c079507fb1679": {
+    "normal": {
+      "id": "1534486968539418634",
+      "name": "AbgonVgAb5ia7rcP",
+      "animated": false
+    },
+    "enchanted": {
+      "id": "1534486967226470521",
+      "name": "V2sDMETf9AG0BuVE",
+      "animated": true
+    }
+  },
+  "4a619046a48cd95ee318df6e1d185e8143af701db0d636a31b02d541aa9ad21c": {
+    "normal": {
+      "id": "1534486968065327185",
+      "name": "zjTM1c5e9EKTbORd",
+      "animated": false
+    },
+    "enchanted": {
+      "id": "1534486967675256872",
+      "name": "L94O9rmO0rOW4lEQ",
+      "animated": true
+    }
   }
 }
