@@ -87262,5 +87262,41 @@
       "name": "OIYxFjBmq1gfuv2m",
       "animated": true
     }
+  },
+  "95f17b0d6186c5ce7e7b10c213871761e2c741de6006a579b3a1222aaadc080c": {
+    "normal": {
+      "id": "1558548629088772209",
+      "name": "2ij638Zz6VV4moJ2",
+      "animated": false
+    },
+    "enchanted": {
+      "id": "1558548628979720303",
+      "name": "0GyfsL8AXCPRHdkz",
+      "animated": true
+    }
+  },
+  "8117ae0785f48ea03f9a093c073ad4fc4a88cad3c63b2c9591d94fd0b86aa61c": {
+    "normal": {
+      "id": "1558548629323645029",
+      "name": "I0VH5ya9XYK9S2NU",
+      "animated": false
+    },
+    "enchanted": {
+      "id": "1558548630103789618",
+      "name": "OLmosnRuhADfULn3",
+      "animated": true
+    }
+  },
+  "0586741159f94510bcf9ecb5bfdfad6c8d032ad5d3ec2766841df8a4dffaec4f": {
+    "normal": {
+      "id": "1558548629881356438",
+      "name": "afx3hpIlEwBu1DFo",
+      "animated": false
+    },
+    "enchanted": {
+      "id": "1558548629755658240",
+      "name": "H4ceGK3PasiVyoi5",
+      "animated": true
+    }
   }
 }
